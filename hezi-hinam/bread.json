@@ -1,0 +1,2553 @@
+{
+  "IsOK": true,
+  "Results": {
+    "SubCategories": [
+      {
+        "Id": 11237,
+        "Name": "לחם, חלה, לחמניות, פיתות וטורטייה",
+        "Items": [
+          {
+            "Id": 3109,
+            "BarKod": "497112",
+            "Name": "לחם אחיד כהה פרוס",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/497112.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497112.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11237,
+            "SubCategoryName": "לחם, חלה, לחמניות, פיתות וטורטייה",
+            "ManufacturerId": 1069,
+            "ManufacturerName": "ברמן",
+            "MidaKod": "גרם",
+            "UnitSize": 750.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.11,
+            "PricePerUnitDesc": "1.11 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "750 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.3,
+            "Price_Regular": 8.3,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 497112,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/497112.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497112.jpg",
+                "Image_File_Name": "497112.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497112.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": " ** מוצר בפיקוח ** למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0380644,
+            "IsPriceRegulated": true,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497112.jpg"
+          },
+          {
+            "Id": 2765,
+            "BarKod": "497426",
+            "Name": "לחם ברמן לעניין קל",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/497426.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497426.png",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11237,
+            "SubCategoryName": "לחם, חלה, לחמניות, פיתות וטורטייה",
+            "ManufacturerId": 1069,
+            "ManufacturerName": "ברמן",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.9,
+            "PricePerUnitDesc": "2.90 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.5,
+            "Price_Regular": 14.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 497426,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/497426.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497426.png",
+                "Image_File_Name": "497426.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497426.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "ברמן לעניין קל 38 קלוריות קמח מלא חיטה טרום נבוטה ",
+            "ORank": 0.0111749,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497426.png"
+          },
+          {
+            "Id": 267927,
+            "BarKod": "497044",
+            "Name": "ברמן אקטיב בתוספת  סיבים פרה ביוטיים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/497044.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497044.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11237,
+            "SubCategoryName": "לחם, חלה, לחמניות, פיתות וטורטייה",
+            "ManufacturerId": 1069,
+            "ManufacturerName": "ברמן",
+            "MidaKod": "גרם",
+            "UnitSize": 750.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "750 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 497044,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/497044.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497044.jpg",
+                "Image_File_Name": "497044.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497044.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.015565,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497044.jpg"
+          },
+          {
+            "Id": 1513,
+            "BarKod": "497532",
+            "Name": "ברמן לעניין לחם פרוס מקמח מלא עם חיטה טרום נבוטה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/497532.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497532.png",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11237,
+            "SubCategoryName": "לחם, חלה, לחמניות, פיתות וטורטייה",
+            "ManufacturerId": 1069,
+            "ManufacturerName": "ברמן",
+            "MidaKod": "גרם",
+            "UnitSize": 750.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.99,
+            "PricePerUnitDesc": "1.99 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "750 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 497532,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/497532.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497532.png",
+                "Image_File_Name": "497532.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497532.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00663507,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497532.png"
+          },
+          {
+            "Id": 8529,
+            "BarKod": "497570",
+            "Name": "לחם דגני קלות",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/497570.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497570.png",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11237,
+            "SubCategoryName": "לחם, חלה, לחמניות, פיתות וטורטייה",
+            "ManufacturerId": 1069,
+            "ManufacturerName": "ברמן",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.9,
+            "PricePerUnitDesc": "2.90 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.5,
+            "Price_Regular": 14.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 497570,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/497570.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/497570.png",
+                "Image_File_Name": "497570.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497570.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "דגני קלות 39 קלוריות ",
+            "ORank": 0.00628586,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/497570.png"
+          }
+        ]
+      },
+      {
+        "Id": 10847,
+        "Name": "עוגות ועוגות אישיות",
+        "Items": [
+          {
+            "Id": 341920,
+            "BarKod": "8000500267103",
+            "Name": "מארז 10 עוגות אישיות קינדר דליס",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1505,
+            "ManufacturerName": "קינדר Kinder",
+            "MidaKod": "גרם",
+            "UnitSize": 390.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.13,
+            "PricePerUnitDesc": "6.13 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "10 * 39 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 23.9,
+            "Price_Regular": 23.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500267103,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+                "Image_File_Name": "d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "עוגות קטנות מיני קינדר דליס עוגת ספוג קקאו במילוי חלבי",
+            "ORank": 0.0120728,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png"
+          },
+          {
+            "Id": 449279,
+            "BarKod": "7290018894217",
+            "Name": "עוגות אישיות במילוי קרם קקאו ובציפוי קרם קקאו",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1904,
+            "ManufacturerName": "בלקוני Balconi",
+            "MidaKod": "גרם",
+            "UnitSize": 350.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.6,
+            "PricePerUnitDesc": "4.60 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "350 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.1,
+            "Price_Regular": 16.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "10 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 85754,
+              "MivzaDesc": "2 ב- 26",
+              "MivzaText": "עוגותמיקס מקס חלב/קקאו בלקוני\n2 ב 26 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018894217,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+                "Image_File_Name": "7290018894217_p101-20-2022_12-02-26.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg"
+              },
+              {
+                "Barcode": 7290018894217,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900833/Production/7290018894217/7290018894217_s101-20-2022_12-02-09.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_s101-20-2022_12-02-09.jpg",
+                "Image_File_Name": "7290018894217_s101-20-2022_12-02-09.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900833/Production/7290018894217/7290018894217_s101-20-2022_12-02-09.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg"
+          },
+          {
+            "Id": 434760,
+            "BarKod": "7290018893661",
+            "Name": "עוגות אישיות במילוי קרם קקאו ציפוי בטעם שוקולד מריר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 240.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.29,
+            "PricePerUnitDesc": "6.29 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "240 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "8 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893661,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+                "Image_File_Name": "7290018893661_p104-17-2023_11-30-52.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " צ'וקטה  עוגות  אישיות  קרם קאו  ציפוי שוקולד מריר",
+            "ORank": 0.00144674,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg"
+          },
+          {
+            "Id": 434763,
+            "BarKod": "7290018893876",
+            "Name": "עוגות אישיות רכות עם מילוי קרם בטעם וניל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.55,
+            "PricePerUnitDesc": "7.55 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "8 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893876,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+                "Image_File_Name": "7290018893876_P108-16-2021_10-51-41.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg"
+              },
+              {
+                "Barcode": 7290018893876,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900802/Production/7290018893876/7290018893876_S108-16-2021_10-51-29.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_S108-16-2021_10-51-29.jpg",
+                "Image_File_Name": "7290018893876_S108-16-2021_10-51-29.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900802/Production/7290018893876/7290018893876_S108-16-2021_10-51-29.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00139686,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg"
+          },
+          {
+            "Id": 434761,
+            "BarKod": "7290018893265",
+            "Name": "עוגות אישיות חמש שכבות מריר - פרווה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 240.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.29,
+            "PricePerUnitDesc": "6.29 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "240 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "8 יחידות במארז. עוגות אישיות חמש שכבות במילוי קרם עם קקאו ועיטורים בטעם שוקולד מריר",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893265,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+                "Image_File_Name": "7290018893265_p104-17-2023_11-35-08.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00104764,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg"
+          }
+        ]
+      },
+      {
+        "Id": 11485,
+        "Name": "עוגיות, וופלים, ביסקווטים וגביעי גלידה",
+        "Items": [
+          {
+            "Id": 324388,
+            "BarKod": "7290107944243",
+            "Name": "אפיפיות בטעם שוקולד ללא גלוטן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1679988029/Production/7290107944243/23b7d8de-0883-43cc-8930-2ee063ae24e7.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679988029/Production/7290107944243/23b7d8de-0883-43cc-8930-2ee063ae24e7.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11485,
+            "SubCategoryName": "עוגיות, וופלים, ביסקווטים וגביעי גלידה",
+            "ManufacturerId": 1406,
+            "ManufacturerName": "עלית",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.0,
+            "PricePerUnitDesc": "4.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.0,
+            "Price_Regular": 8.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290107944243,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679988029/Production/7290107944243/23b7d8de-0883-43cc-8930-2ee063ae24e7.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679988029/Production/7290107944243/23b7d8de-0883-43cc-8930-2ee063ae24e7.jpg",
+                "Image_File_Name": "23b7d8de-0883-43cc-8930-2ee063ae24e7.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679988029/Production/7290107944243/23b7d8de-0883-43cc-8930-2ee063ae24e7.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "וופל וופלים כשר לפסח וופל וופלים ופל ופלים בפלה בפלות בופלות ואפל אפיפית אפיפיות ללא גלוטן כשל\"פ כשר לפסח ללג לל\"ג שוקולד",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679988029/Production/7290107944243/23b7d8de-0883-43cc-8930-2ee063ae24e7.jpg"
+          },
+          {
+            "Id": 291933,
+            "BarKod": "7622010001858",
+            "Name": "עוגיות אוראו",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643504466/Production/7622010001858/7622010001858_P105-24-2020_06-32-08.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643504466/Production/7622010001858/7622010001858_P105-24-2020_06-32-08.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11485,
+            "SubCategoryName": "עוגיות, וופלים, ביסקווטים וגביעי גלידה",
+            "ManufacturerId": 989,
+            "ManufacturerName": "אוראו Oreo",
+            "MidaKod": "גרם",
+            "UnitSize": 176.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.25,
+            "PricePerUnitDesc": "6.25 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "176 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.9,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7622010001858,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643504466/Production/7622010001858/7622010001858_P105-24-2020_06-32-08.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643504466/Production/7622010001858/7622010001858_P105-24-2020_06-32-08.jpg",
+                "Image_File_Name": "7622010001858_P105-24-2020_06-32-08.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643504466/Production/7622010001858/7622010001858_P105-24-2020_06-32-08.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "אוריאו אוראו עוגיות סנדוויץ שוקולד קרם טעם וניל",
+            "ORank": 0.0798703,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643504466/Production/7622010001858/7622010001858_P105-24-2020_06-32-08.jpg"
+          },
+          {
+            "Id": 299291,
+            "BarKod": "7622210137234",
+            "Name": "עוגיות אוראו דאבל קרם",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063878/Production/7622210137234/7622210137234_p101-22-2024_09-20-57.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063878/Production/7622210137234/7622210137234_p101-22-2024_09-20-57.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11485,
+            "SubCategoryName": "עוגיות, וופלים, ביסקווטים וגביעי גלידה",
+            "ManufacturerId": 989,
+            "ManufacturerName": "אוראו Oreo",
+            "MidaKod": "גרם",
+            "UnitSize": 170.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.47,
+            "PricePerUnitDesc": "6.47 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "170 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.9,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7622210137234,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063878/Production/7622210137234/7622210137234_p101-22-2024_09-20-57.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063878/Production/7622210137234/7622210137234_p101-22-2024_09-20-57.jpg",
+                "Image_File_Name": "7622210137234_p101-22-2024_09-20-57.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063878/Production/7622210137234/7622210137234_p101-22-2024_09-20-57.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "אוריאו אוריאו  דאבל  עוגיות  סנדוויץ  קקאו  וניל  קרם וניל",
+            "ORank": 0.00917935,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063878/Production/7622210137234/7622210137234_p101-22-2024_09-20-57.jpg"
+          },
+          {
+            "Id": 334760,
+            "BarKod": "7622300489427",
+            "Name": "עוגיות אוראו בציפוי בטעם שוקולד לבן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1692789496/Production/7622300489427/b68a74fb-eaee-4106-b4eb-427bfd51393b.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692789496/Production/7622300489427/b68a74fb-eaee-4106-b4eb-427bfd51393b.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11485,
+            "SubCategoryName": "עוגיות, וופלים, ביסקווטים וגביעי גלידה",
+            "ManufacturerId": 989,
+            "ManufacturerName": "אוראו Oreo",
+            "MidaKod": "גרם",
+            "UnitSize": 246.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 8.17,
+            "PricePerUnitDesc": "8.17 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "246 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.9,
+            "Price_Regular": 20.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7622300489427,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1692789496/Production/7622300489427/b68a74fb-eaee-4106-b4eb-427bfd51393b.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692789496/Production/7622300489427/b68a74fb-eaee-4106-b4eb-427bfd51393b.jpg",
+                "Image_File_Name": "b68a74fb-eaee-4106-b4eb-427bfd51393b.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1692789496/Production/7622300489427/b68a74fb-eaee-4106-b4eb-427bfd51393b.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "אוריאו אוראו  עוגיות  עוגיה  סנדוויץ  עוגיות סנדוויץ  ממולא  קרם וניל  קרם ווניל  ציפוי שוקולד חלב  שוקולד  OREO   עוגיות לאירוח  אפייה  עוגה  עוגת גבינה עם אוראו",
+            "ORank": 0.00658518,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692789496/Production/7622300489427/b68a74fb-eaee-4106-b4eb-427bfd51393b.jpg"
+          },
+          {
+            "Id": 334759,
+            "BarKod": "7622300489434",
+            "Name": "עוגיות אוראו בציפוי בטעם שוקולד חלב",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1708542455/Production/7622300489434/7622300489434_p102-20-2024_18-10-09.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708542455/Production/7622300489434/7622300489434_p102-20-2024_18-10-09.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11485,
+            "SubCategoryName": "עוגיות, וופלים, ביסקווטים וגביעי גלידה",
+            "ManufacturerId": 989,
+            "ManufacturerName": "אוראו Oreo",
+            "MidaKod": "גרם",
+            "UnitSize": 246.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 8.17,
+            "PricePerUnitDesc": "8.17 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "246 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.9,
+            "Price_Regular": 20.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 01/02/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7622300489434,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1708542455/Production/7622300489434/7622300489434_p102-20-2024_18-10-09.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708542455/Production/7622300489434/7622300489434_p102-20-2024_18-10-09.jpg",
+                "Image_File_Name": "7622300489434_p102-20-2024_18-10-09.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1708542455/Production/7622300489434/7622300489434_p102-20-2024_18-10-09.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "אוריאו אוריאו  פאג'  עוגיות  סנדוויץ  קקאו  וניל  קרם וניל  ציפוי  שוקולד חלב",
+            "ORank": 0.00364181,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708542455/Production/7622300489434/7622300489434_p102-20-2024_18-10-09.jpg"
+          }
+        ]
+      },
+      {
+        "Id": 10859,
+        "Name": "פריכיות, צנימים וקרקרים",
+        "Items": [
+          {
+            "Id": 7749,
+            "BarKod": "7290000074245",
+            "Name": "קרם קרקר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1683711316/Production/7290000074245/22e4eab0-a5a9-4157-9f45-408614ff6f3d.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1683711316/Production/7290000074245/22e4eab0-a5a9-4157-9f45-408614ff6f3d.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10859,
+            "SubCategoryName": "פריכיות, צנימים וקרקרים",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.6,
+            "PricePerUnitDesc": "3.60 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.0,
+            "Price_Regular": 9.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290000074245,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1683711316/Production/7290000074245/22e4eab0-a5a9-4157-9f45-408614ff6f3d.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1683711316/Production/7290000074245/22e4eab0-a5a9-4157-9f45-408614ff6f3d.jpg",
+                "Image_File_Name": "22e4eab0-a5a9-4157-9f45-408614ff6f3d.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1683711316/Production/7290000074245/22e4eab0-a5a9-4157-9f45-408614ff6f3d.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קרקר  קרם קרקר  קרקר אסם  קרקרים",
+            "ORank": 0.00718384,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1683711316/Production/7290000074245/22e4eab0-a5a9-4157-9f45-408614ff6f3d.jpg"
+          },
+          {
+            "Id": 3105,
+            "BarKod": "7290000074252",
+            "Name": "קרקר שומשום",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1685258311/Production/7290000074252/6b78b12f-a045-48c6-9dde-84c20d8335cf.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685258311/Production/7290000074252/6b78b12f-a045-48c6-9dde-84c20d8335cf.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10859,
+            "SubCategoryName": "פריכיות, צנימים וקרקרים",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.0,
+            "PricePerUnitDesc": "4.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 10.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290000074252,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1685258311/Production/7290000074252/6b78b12f-a045-48c6-9dde-84c20d8335cf.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685258311/Production/7290000074252/6b78b12f-a045-48c6-9dde-84c20d8335cf.jpg",
+                "Image_File_Name": "6b78b12f-a045-48c6-9dde-84c20d8335cf.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1685258311/Production/7290000074252/6b78b12f-a045-48c6-9dde-84c20d8335cf.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קרקר  קרם קרקר  קרקר אסם  קרקרים  קרקר שומשום",
+            "ORank": 0.00523821,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685258311/Production/7290000074252/6b78b12f-a045-48c6-9dde-84c20d8335cf.jpg"
+          },
+          {
+            "Id": 1686,
+            "BarKod": "7290000061061",
+            "Name": "קרק בצל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1685260923/Production/7290000061061/ba869262-5f8e-47ed-822b-814e8127f88c.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260923/Production/7290000061061/ba869262-5f8e-47ed-822b-814e8127f88c.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10859,
+            "SubCategoryName": "פריכיות, צנימים וקרקרים",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.4,
+            "PricePerUnitDesc": "4.40 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290000061061,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1685260923/Production/7290000061061/ba869262-5f8e-47ed-822b-814e8127f88c.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260923/Production/7290000061061/ba869262-5f8e-47ed-822b-814e8127f88c.jpg",
+                "Image_File_Name": "ba869262-5f8e-47ed-822b-814e8127f88c.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1685260923/Production/7290000061061/ba869262-5f8e-47ed-822b-814e8127f88c.jpg"
+              },
+              {
+                "Barcode": 7290000061061,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730927975/Production/7290000061061/6909347_7290000061061.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730927975/Production/7290000061061/6909347_7290000061061.jpg",
+                "Image_File_Name": "6909347_7290000061061.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730927975/Production/7290000061061/6909347_7290000061061.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קרקר  קרם קרקר  קרקר אסם  קרקרים  קרקר בצל",
+            "ORank": 0.00159641,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260923/Production/7290000061061/ba869262-5f8e-47ed-822b-814e8127f88c.jpg"
+          },
+          {
+            "Id": 6221,
+            "BarKod": "7290000074276",
+            "Name": "קרקר קלאסי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1685260618/Production/7290000074276/be70bfe9-fbb9-4622-bb1b-8bec2c62545d.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260618/Production/7290000074276/be70bfe9-fbb9-4622-bb1b-8bec2c62545d.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10859,
+            "SubCategoryName": "פריכיות, צנימים וקרקרים",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.0,
+            "PricePerUnitDesc": "4.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 10.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290000074276,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1685260618/Production/7290000074276/be70bfe9-fbb9-4622-bb1b-8bec2c62545d.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260618/Production/7290000074276/be70bfe9-fbb9-4622-bb1b-8bec2c62545d.jpg",
+                "Image_File_Name": "be70bfe9-fbb9-4622-bb1b-8bec2c62545d.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1685260618/Production/7290000074276/be70bfe9-fbb9-4622-bb1b-8bec2c62545d.jpg"
+              },
+              {
+                "Barcode": 7290000074276,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1716574111/Production/7290000074276/6902031_7290000074276.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574111/Production/7290000074276/6902031_7290000074276.jpg",
+                "Image_File_Name": "6902031_7290000074276.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1716574111/Production/7290000074276/6902031_7290000074276.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קרקר  קרם קרקר  קרקר אסם  קרקרים  קרקר שומשום",
+            "ORank": 0.00513844,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260618/Production/7290000074276/be70bfe9-fbb9-4622-bb1b-8bec2c62545d.jpg"
+          },
+          {
+            "Id": 3865,
+            "BarKod": "7290000074375",
+            "Name": "קרקר זהב",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1685260738/Production/7290000074375/7c301134-cf9c-46c3-995b-b52c2c6439a3.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260738/Production/7290000074375/7c301134-cf9c-46c3-995b-b52c2c6439a3.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10859,
+            "SubCategoryName": "פריכיות, צנימים וקרקרים",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 150.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.67,
+            "PricePerUnitDesc": "4.67 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "150 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 7.0,
+            "Price_Regular": 7.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290000074375,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1685260738/Production/7290000074375/7c301134-cf9c-46c3-995b-b52c2c6439a3.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260738/Production/7290000074375/7c301134-cf9c-46c3-995b-b52c2c6439a3.jpg",
+                "Image_File_Name": "7c301134-cf9c-46c3-995b-b52c2c6439a3.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1685260738/Production/7290000074375/7c301134-cf9c-46c3-995b-b52c2c6439a3.jpg"
+              },
+              {
+                "Barcode": 7290000074375,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1716574116/Production/7290000074375/6902008_7290000074375.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574116/Production/7290000074375/6902008_7290000074375.jpg",
+                "Image_File_Name": "6902008_7290000074375.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1716574116/Production/7290000074375/6902008_7290000074375.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קרקר  קרם קרקר  קרקר אסם  קרקרים  קרקר זהב",
+            "ORank": 0.0110252,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685260738/Production/7290000074375/7c301134-cf9c-46c3-995b-b52c2c6439a3.jpg"
+          }
+        ]
+      },
+      {
+        "Id": 11238,
+        "Name": "לחמים ולחמניות מאפייה",
+        "Items": [
+          {
+            "Id": 4009,
+            "BarKod": "170",
+            "Name": "בגט",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/170.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/170.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11238,
+            "SubCategoryName": "לחמים ולחמניות מאפייה",
+            "ManufacturerId": 2146,
+            "ManufacturerName": "בונז'ור",
+            "MidaKod": "יח'",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "יח'",
+            "PricePerUnit": 6.9,
+            "PricePerUnitDesc": "6.90 ₪ ל- 1 יח'",
+            "WeightUnitDesc": "1 יח'",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 6.9,
+            "Price_Regular": 6.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 170,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/170.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/170.jpg",
+                "Image_File_Name": "170.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/170.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0153155,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/170.jpg"
+          },
+          {
+            "Id": 328256,
+            "BarKod": "1461457",
+            "Name": "בגט רוסטיק מקמח מלא",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/1461457.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1461457.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11238,
+            "SubCategoryName": "לחמים ולחמניות מאפייה",
+            "ManufacturerId": 1437,
+            "ManufacturerName": "פילסברי Pillsbury",
+            "MidaKod": "",
+            "UnitSize": 0.0,
+            "UnitSizeDesc": "",
+            "PricePerUnit": 0.0,
+            "PricePerUnitDesc": "",
+            "WeightUnitDesc": "",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.9,
+            "Price_Regular": 10.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 1461457,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/1461457.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1461457.jpg",
+                "Image_File_Name": "1461457.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1461457.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "לחם מחמצת ",
+            "ORank": 0.00384136,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1461457.jpg"
+          },
+          {
+            "Id": 347715,
+            "BarKod": "1461105",
+            "Name": "לחם מחמצת לבן",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/1461105.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1461105.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11238,
+            "SubCategoryName": "לחמים ולחמניות מאפייה",
+            "ManufacturerId": 2389,
+            "ManufacturerName": "רוסטיק Rustic",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.98,
+            "PricePerUnitDesc": "3.98 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 19.9,
+            "Price_Regular": 19.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 80503,
+              "MivzaDesc": "2 ב- 30",
+              "MivzaText": "לחמי מחמצת בטעמים\n2 ב 30 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 11/01/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 1461105,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/1461105.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1461105.jpg",
+                "Image_File_Name": "1461105.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1461105.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00214517,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1461105.jpg"
+          },
+          {
+            "Id": 347716,
+            "BarKod": "1461112",
+            "Name": "לחם מחמצת דגנים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/1461112.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1461112.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11238,
+            "SubCategoryName": "לחמים ולחמניות מאפייה",
+            "ManufacturerId": 2389,
+            "ManufacturerName": "רוסטיק Rustic",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.98,
+            "PricePerUnitDesc": "3.98 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 19.9,
+            "Price_Regular": 19.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 80503,
+              "MivzaDesc": "2 ב- 30",
+              "MivzaText": "לחמי מחמצת בטעמים\n2 ב 30 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 11/01/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 1461112,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/1461112.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1461112.jpg",
+                "Image_File_Name": "1461112.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1461112.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00044899,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1461112.jpg"
+          },
+          {
+            "Id": 347718,
+            "BarKod": "2608516",
+            "Name": "לחם מחמצת מקמח מלא",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2608516.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2608516.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11238,
+            "SubCategoryName": "לחמים ולחמניות מאפייה",
+            "ManufacturerId": 2389,
+            "ManufacturerName": "רוסטיק Rustic",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.98,
+            "PricePerUnitDesc": "3.98 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 19.9,
+            "Price_Regular": 19.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 80503,
+              "MivzaDesc": "2 ב- 30",
+              "MivzaText": "לחמי מחמצת בטעמים\n2 ב 30 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 11/01/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 2608516,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2608516.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2608516.jpg",
+                "Image_File_Name": "2608516.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2608516.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00114742,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2608516.jpg"
+          }
+        ]
+      },
+      {
+        "Id": 11239,
+        "Name": "מאפים מאפייה",
+        "Items": [
+          {
+            "Id": 7871,
+            "BarKod": "2502203",
+            "Name": "בורקס גבינה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2502203.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2502203.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11239,
+            "SubCategoryName": "מאפים מאפייה",
+            "ManufacturerId": 2146,
+            "ManufacturerName": "בונז'ור",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 50.0,
+            "PricePerUnitDesc": "50.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 50.0,
+            "Price_Regular": 50.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 2502203,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2502203.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2502203.jpg",
+                "Image_File_Name": "2502203.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2502203.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0028436,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2502203.jpg"
+          },
+          {
+            "Id": 1596,
+            "BarKod": "6210203",
+            "Name": "בורקס תפוח אדמה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6210203.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6210203.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11239,
+            "SubCategoryName": "מאפים מאפייה",
+            "ManufacturerId": 2146,
+            "ManufacturerName": "בונז'ור",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 50.0,
+            "PricePerUnitDesc": "50.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 50.0,
+            "Price_Regular": 50.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 6210203,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/6210203.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6210203.jpg",
+                "Image_File_Name": "6210203.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6210203.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00209529,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6210203.jpg"
+          },
+          {
+            "Id": 228940,
+            "BarKod": "6210210",
+            "Name": "בורקס ספרדי",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6210210.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6210210.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11239,
+            "SubCategoryName": "מאפים מאפייה",
+            "ManufacturerId": 2146,
+            "ManufacturerName": "בונז'ור",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 50.0,
+            "PricePerUnitDesc": "50.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 50.0,
+            "Price_Regular": 50.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 6210210,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/6210210.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6210210.jpg",
+                "Image_File_Name": "6210210.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6210210.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00254428,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6210210.jpg"
+          },
+          {
+            "Id": 483,
+            "BarKod": "6210357",
+            "Name": "שנק פיצה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6210357.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6210357.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11239,
+            "SubCategoryName": "מאפים מאפייה",
+            "ManufacturerId": 2146,
+            "ManufacturerName": "בונז'ור",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 50.0,
+            "PricePerUnitDesc": "50.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 50.0,
+            "Price_Regular": 50.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 6210357,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/6210357.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6210357.jpg",
+                "Image_File_Name": "6210357.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6210357.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "בורקס ",
+            "ORank": 0.00139686,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6210357.jpg"
+          },
+          {
+            "Id": 409617,
+            "BarKod": "7290115202137",
+            "Name": "בורקס פילו במילוי גבינה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1687412883/Production/7290115202137/16581327-dce6-4df5-9088-ab3549de4ab0.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1687412883/Production/7290115202137/16581327-dce6-4df5-9088-ab3549de4ab0.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 11239,
+            "SubCategoryName": "מאפים מאפייה",
+            "ManufacturerId": 2146,
+            "ManufacturerName": "בונז'ור",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 50.0,
+            "PricePerUnitDesc": "50.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 50.0,
+            "Price_Regular": 50.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290115202137,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1687412883/Production/7290115202137/16581327-dce6-4df5-9088-ab3549de4ab0.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1687412883/Production/7290115202137/16581327-dce6-4df5-9088-ab3549de4ab0.jpg",
+                "Image_File_Name": "16581327-dce6-4df5-9088-ab3549de4ab0.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1687412883/Production/7290115202137/16581327-dce6-4df5-9088-ab3549de4ab0.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1687412883/Production/7290115202137/16581327-dce6-4df5-9088-ab3549de4ab0.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "ErrorResponse": null
+}
