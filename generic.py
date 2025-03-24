@@ -7,13 +7,51 @@ import json
 import xmltodict
 from datetime import datetime
 from abc import ABC, abstractmethod
+
+from pymongo import MongoClient
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
+
 class WebsiteDownloader(ABC):
-    def __init__(self, site_name):
+    def __init__(self, site_name, mongo_uri="mongodb+srv://yuval056:yuval963852@cluster0.ww37i.mongodb.net/",
+                 db_name="supersmart"):
         self.site_name = site_name
+        self.client = MongoClient(mongo_uri)
+        self.db = self.client[db_name]
+        self.collection = self.db["items"]
+
+        # Ensure 'items' collection exists by inserting a sample document
+        if self.collection.count_documents({}) == 0:
+            self.collection.insert_one({"initialized": True})
+
+    def download_all_data(self):
+        return list(self.collection.find({}))
+
+    def convert_xml_to_json(self, xml_path):
+        """Convert XML to JSON format and return as a dictionary"""
+        try:
+            with open(xml_path, 'r', encoding='utf-8') as xml_file:
+                xml_content = xml_file.read()
+
+            data_dict = xmltodict.parse(xml_content)
+            return data_dict  # Return JSON as a dictionary
+        except Exception as e:
+            print(f"Error converting XML to JSON: {str(e)}")
+            return None
+
+
+
+
+    def save_to_mongodb(self, json_data):
+        """Save JSON data to MongoDB"""
+        if json_data:
+            try:
+                self.collection.insert_one(json_data)
+                print("Data successfully saved to MongoDB.")
+            except Exception as e:
+                print(f"Error saving to MongoDB: {str(e)}")
 
     @abstractmethod
     def get_website_url(self) -> str:
@@ -112,7 +150,7 @@ class WebsiteDownloader(ABC):
                 # Wait after extraction
                 time.sleep(1)
 
-                # Convert each file to JSON
+                # Convert each file to JSON and save to MongoDB
                 for filename in os.listdir(temp_dir):
                     if not filename.endswith('.json'):  # Skip if already JSON
                         extracted_file_path = os.path.join(temp_dir, filename)
@@ -128,6 +166,11 @@ class WebsiteDownloader(ABC):
                         )
                         if self.convert_xml_to_json(extracted_file_path, json_path):
                             print(f"Successfully converted {filename} to JSON")
+
+                            # Load JSON data and save to MongoDB
+                            with open(json_path, 'r', encoding='utf-8') as json_file:
+                                json_data = json.load(json_file)
+                                self.save_to_mongodb(json_data)
                         else:
                             print(f"Failed to convert {filename} to JSON")
 

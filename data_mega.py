@@ -18,13 +18,13 @@ class Mega(WebsiteDownloader):
                     try:
                         download_button = row.find_element(By.CLASS_NAME, "downloadBtn")
                         download_button.click()
-                        time.sleep(5)
+                        time.sleep(7)
 
                         if self.wait_for_download(download_directory):
                             downloaded_files = [f for f in os.listdir(download_directory)
                                                 if f.endswith(('.gz', '.zip'))]
                             for file_name in downloaded_files:
-                                time.sleep(5)
+                                time.sleep(7)
                                 self.process_downloaded_file(
                                     os.path.join(download_directory, file_name),
                                     download_directory
@@ -41,7 +41,7 @@ class Mega(WebsiteDownloader):
                 if next_action == "next" and next_button.is_enabled():
                     print("Moving to the next page...")
                     next_button.click()
-                    time.sleep(5)
+                    time.sleep(7)
                 else:
                     print("No more pages. Finished.")
                     break
