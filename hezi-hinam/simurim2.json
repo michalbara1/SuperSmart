@@ -1,0 +1,2087 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/115.png",
+      "SubCategory": {
+        "Id": 11181,
+        "Name": "שימורי מלפפונים",
+        "Items": [
+          {
+            "Id": 378530,
+            "IsShakil": false,
+            "BarKod": "7290113192539",
+            "Name": "מלפפונים במלח גדולים 7-9",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537978/Production/7290113192539/7290113192539_P101-09-2025_15-00-56.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537978/Production/7290113192539/7290113192539_P101-09-2025_15-00-56.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.48,
+            "PricePerUnitDesc": "1.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 2.59,
+            "PricePerUnitNetoDesc": "2.59 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 6.0,
+            "Price_Regular": 8.3,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192539,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537978/Production/7290113192539/7290113192539_P101-09-2025_15-00-56.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537978/Production/7290113192539/7290113192539_P101-09-2025_15-00-56.jpg",
+                "Image_File_Name": "7290113192539_P101-09-2025_15-00-56.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537978/Production/7290113192539/7290113192539_P101-09-2025_15-00-56.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון במלח  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ גדול  מלפפון במלח גדול  אסם  מלפפון במלח גדול  7–9",
+            "ORank": 0.023098,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537978/Production/7290113192539/7290113192539_P101-09-2025_15-00-56.jpg"
+          },
+          {
+            "Id": 378531,
+            "IsShakil": false,
+            "BarKod": "7290113192546",
+            "Name": "מלפפונים בחומץ גדולים 7-9",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537992/Production/7290113192546/7290113192546_P101-09-2025_15-06-29.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537992/Production/7290113192546/7290113192546_P101-09-2025_15-06-29.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.48,
+            "PricePerUnitDesc": "1.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 290.0,
+            "PricePerUnitNeto": 2.86,
+            "PricePerUnitNetoDesc": "2.86 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "290 גרם",
+            "Price_NET": 6.0,
+            "Price_Regular": 8.3,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290113192546,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537992/Production/7290113192546/7290113192546_P101-09-2025_15-06-29.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537992/Production/7290113192546/7290113192546_P101-09-2025_15-06-29.jpg",
+                "Image_File_Name": "7290113192546_P101-09-2025_15-06-29.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537992/Production/7290113192546/7290113192546_P101-09-2025_15-06-29.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון בחומץ  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ גדול  מלפפון בחומץ גדול  אסם  מלפפון בחומץ גדול 7–9",
+            "ORank": 0.00688451,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537992/Production/7290113192546/7290113192546_P101-09-2025_15-06-29.jpg"
+          },
+          {
+            "Id": 378512,
+            "IsShakil": false,
+            "BarKod": "7290113192478",
+            "Name": "מלפפונים במלח בינוניים 10-12",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537919/Production/7290113192478/7290113192478_P101-09-2025_14-15-48.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537919/Production/7290113192478/7290113192478_P101-09-2025_14-15-48.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.77,
+            "PricePerUnitDesc": "1.77 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 3.09,
+            "PricePerUnitNetoDesc": "3.09 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 5.9,
+            "Price_Regular": 9.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87170,
+              "MivzaDesc": "מבצע",
+              "MivzaText": "מלפפון במלח/בחומץ בית השיטה\n1 ב 5.9 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 1.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192478,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537919/Production/7290113192478/7290113192478_P101-09-2025_14-15-48.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537919/Production/7290113192478/7290113192478_P101-09-2025_14-15-48.jpg",
+                "Image_File_Name": "7290113192478_P101-09-2025_14-15-48.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537919/Production/7290113192478/7290113192478_P101-09-2025_14-15-48.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון במלח  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ בינוני  מלפפון במלח בינוני  אסם  מלפפון במלח בינוני 10–12  חמוצים  מלח",
+            "ORank": 0.0398603,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537919/Production/7290113192478/7290113192478_P101-09-2025_14-15-48.jpg"
+          },
+          {
+            "Id": 378513,
+            "IsShakil": false,
+            "BarKod": "7290113192485",
+            "Name": "מלפפונים בחומץ בינוניים 10-12",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537932/Production/7290113192485/7290113192485_P101-09-2025_14-07-08.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537932/Production/7290113192485/7290113192485_P101-09-2025_14-07-08.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.77,
+            "PricePerUnitDesc": "1.77 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 290.0,
+            "PricePerUnitNeto": 3.41,
+            "PricePerUnitNetoDesc": "3.41 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "290 גרם",
+            "Price_NET": 5.9,
+            "Price_Regular": 9.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87170,
+              "MivzaDesc": "מבצע",
+              "MivzaText": "מלפפון במלח/בחומץ בית השיטה\n1 ב 5.9 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 1.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290113192485,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537932/Production/7290113192485/7290113192485_P101-09-2025_14-07-08.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537932/Production/7290113192485/7290113192485_P101-09-2025_14-07-08.jpg",
+                "Image_File_Name": "7290113192485_P101-09-2025_14-07-08.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537932/Production/7290113192485/7290113192485_P101-09-2025_14-07-08.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון בחומץ  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ בינוני  מלפפון בחומץ בינוני  אסם  מלפפון בחומץ בינוני 10–12  חמוצים  חומץ",
+            "ORank": 0.00833125,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537932/Production/7290113192485/7290113192485_P101-09-2025_14-07-08.jpg"
+          },
+          {
+            "Id": 378515,
+            "IsShakil": false,
+            "BarKod": "7290113192508",
+            "Name": "מלפפונים במלח קטנים 13-17",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537953/Production/7290113192508/7290113192508_P101-09-2025_14-27-28.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537953/Production/7290113192508/7290113192508_P101-09-2025_14-27-28.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 3.72,
+            "PricePerUnitNetoDesc": "3.72 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 9.9,
+            "Price_Regular": 11.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192508,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537953/Production/7290113192508/7290113192508_P101-09-2025_14-27-28.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537953/Production/7290113192508/7290113192508_P101-09-2025_14-27-28.jpg",
+                "Image_File_Name": "7290113192508_P101-09-2025_14-27-28.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537953/Production/7290113192508/7290113192508_P101-09-2025_14-27-28.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון במלח  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ קטן  מלפפון במלח קטן  אסם  מלפפון במלח קטן 13–17  חמוצים  מלח",
+            "ORank": 0.0246944,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537953/Production/7290113192508/7290113192508_P101-09-2025_14-27-28.jpg"
+          },
+          {
+            "Id": 378514,
+            "IsShakil": false,
+            "BarKod": "7290113192492",
+            "Name": "מלפפונים בחומץ קטנים 13-17",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537939/Production/7290113192492/7290113192492_P101-09-2025_14-21-10.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537939/Production/7290113192492/7290113192492_P101-09-2025_14-21-10.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 290.0,
+            "PricePerUnitNeto": 4.1,
+            "PricePerUnitNetoDesc": "4.10 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "290 גרם",
+            "Price_NET": 9.9,
+            "Price_Regular": 11.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290113192492,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537939/Production/7290113192492/7290113192492_P101-09-2025_14-21-10.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537939/Production/7290113192492/7290113192492_P101-09-2025_14-21-10.jpg",
+                "Image_File_Name": "7290113192492_P101-09-2025_14-21-10.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537939/Production/7290113192492/7290113192492_P101-09-2025_14-21-10.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון בחומץ  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ קטן  מלפפון בחומץ קטן  אסם  מלפפון בחומץ קטן 13–17  חמוצים  חומץ",
+            "ORank": 0.00598653,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537939/Production/7290113192492/7290113192492_P101-09-2025_14-21-10.jpg"
+          },
+          {
+            "Id": 378528,
+            "IsShakil": false,
+            "BarKod": "7290113192515",
+            "Name": "מלפפונים במלח קטנים מאוד 18-25",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537960/Production/7290113192515/7290113192515_P101-09-2025_14-30-01.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537960/Production/7290113192515/7290113192515_P101-09-2025_14-30-01.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.36,
+            "PricePerUnitDesc": "2.36 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 4.12,
+            "PricePerUnitNetoDesc": "4.12 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 11.9,
+            "Price_Regular": 13.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192515,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537960/Production/7290113192515/7290113192515_P101-09-2025_14-30-01.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537960/Production/7290113192515/7290113192515_P101-09-2025_14-30-01.jpg",
+                "Image_File_Name": "7290113192515_P101-09-2025_14-30-01.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537960/Production/7290113192515/7290113192515_P101-09-2025_14-30-01.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון במלח  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ קטן  מלפפון במלח קטן  אסם  מלפפון במלח קטן מאוד  18–25  חמוצים  מלח",
+            "ORank": 0.0838114,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537960/Production/7290113192515/7290113192515_P101-09-2025_14-30-01.jpg"
+          },
+          {
+            "Id": 378529,
+            "IsShakil": false,
+            "BarKod": "7290113192522",
+            "Name": "מלפפונים בחומץ קטנים מאוד 18-25",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736537972/Production/7290113192522/7290113192522_P101-09-2025_14-57-41.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537972/Production/7290113192522/7290113192522_P101-09-2025_14-57-41.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.36,
+            "PricePerUnitDesc": "2.36 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 290.0,
+            "PricePerUnitNeto": 4.55,
+            "PricePerUnitNetoDesc": "4.55 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "290 גרם",
+            "Price_NET": 11.9,
+            "Price_Regular": 13.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290113192522,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736537972/Production/7290113192522/7290113192522_P101-09-2025_14-57-41.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537972/Production/7290113192522/7290113192522_P101-09-2025_14-57-41.jpg",
+                "Image_File_Name": "7290113192522_P101-09-2025_14-57-41.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736537972/Production/7290113192522/7290113192522_P101-09-2025_14-57-41.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון בחומץ  בית השיטה  מלפפון חמוץ  מלפפונים  מלפפון חמוץ קטן  מלפפון בחומץ קטן  אסם  מלפפון בחומץ קטן מאוד 18–25  חמוצים",
+            "ORank": 0.00753305,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736537972/Production/7290113192522/7290113192522_P101-09-2025_14-57-41.jpg"
+          },
+          {
+            "Id": 378532,
+            "IsShakil": false,
+            "BarKod": "7290113192553",
+            "Name": "מלפפונים במלח באלדי עם פלפל חריף ושום 13-17",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/fbe101d1-8b1a-42e0-8498-aef40d280b03_7290113192553.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/fbe101d1-8b1a-42e0-8498-aef40d280b03_7290113192553.png",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 3.72,
+            "PricePerUnitNetoDesc": "3.72 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 9.9,
+            "Price_Regular": 11.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192553,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/fbe101d1-8b1a-42e0-8498-aef40d280b03_7290113192553.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/fbe101d1-8b1a-42e0-8498-aef40d280b03_7290113192553.png",
+                "Image_File_Name": "fbe101d1-8b1a-42e0-8498-aef40d280b03_7290113192553.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/fbe101d1-8b1a-42e0-8498-aef40d280b03_7290113192553.png"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מלפפון במלח  בית השיטה  מלפפון חמוץ  מלפפונים במלח בלאדי  מלפפון חמוץ  מלפפון במלח בלאדי קטן  אסם  מלפפונים במלח  13–17",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/fbe101d1-8b1a-42e0-8498-aef40d280b03_7290113192553.png"
+          },
+          {
+            "Id": 253503,
+            "IsShakil": false,
+            "BarKod": "7290002317265",
+            "Name": "מלפפונים במלח גדולים 7-9",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317265.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317265.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 670.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.34,
+            "PricePerUnitDesc": "1.34 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "670 גרם",
+            "UnitSizeNeto": 385.0,
+            "PricePerUnitNeto": 2.34,
+            "PricePerUnitNetoDesc": "2.34 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "385 גרם",
+            "Price_NET": 9.0,
+            "Price_Regular": 9.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317265,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317265.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317265.jpg",
+                "Image_File_Name": "2317265.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317265.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "תוספת 20% מתנה מלפפון חמוץ מלפפונים חמוצים שימורים  מוטולה  מלפפונים  במלח  7-9  A-2 +20%  גדול",
+            "ORank": 0.0120728,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317265.jpg"
+          },
+          {
+            "Id": 253579,
+            "IsShakil": false,
+            "BarKod": "7290002317319",
+            "Name": "מלפפונים בחומץ גדולים 7-9",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317319.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317319.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 670.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.34,
+            "PricePerUnitDesc": "1.34 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "670 גרם",
+            "UnitSizeNeto": 348.0,
+            "PricePerUnitNeto": 2.59,
+            "PricePerUnitNetoDesc": "2.59 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "348 גרם",
+            "Price_NET": 9.0,
+            "Price_Regular": 9.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317319,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317319.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317319.jpg",
+                "Image_File_Name": "2317319.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317319.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה מלפפונים  בחומץ  7-9  A-2  גדול\r\n",
+            "ORank": 0.00339237,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317319.jpg"
+          },
+          {
+            "Id": 126480,
+            "IsShakil": false,
+            "BarKod": "7290002317852",
+            "Name": "מלפפונים במלח",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317852.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317852.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 1600.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.2,
+            "PricePerUnitDesc": "2.20 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "1.65 ק\"ג",
+            "UnitSizeNeto": 900.0,
+            "PricePerUnitNeto": 3.91,
+            "PricePerUnitNetoDesc": "3.91 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "900 גרם",
+            "Price_NET": 35.2,
+            "Price_Regular": 35.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317852,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317852.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317852.jpg",
+                "Image_File_Name": "2317852.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317852.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים מוטולה  מאז 1955  מלפפונים במלח  מתכון ביתי אותנטי  ",
+            "ORank": 0.00344225,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317852.jpg"
+          },
+          {
+            "Id": 253504,
+            "IsShakil": false,
+            "BarKod": "7290002317128",
+            "Name": "מלפפונים במלח בינוניים 10-12",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317128.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317128.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.3,
+            "PricePerUnitDesc": "2.30 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 4.03,
+            "PricePerUnitNetoDesc": "4.03 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 12.9,
+            "Price_Regular": 12.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317128,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317128.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317128.jpg",
+                "Image_File_Name": "2317128.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317128.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה  מלפפונים  במלח  10-12  A-2  בינוני",
+            "ORank": 0.00374158,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317128.jpg"
+          },
+          {
+            "Id": 253580,
+            "IsShakil": false,
+            "BarKod": "7290002317166",
+            "Name": "מלפפונים בחומץ בינוניים 10-12",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317166.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317166.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.3,
+            "PricePerUnitDesc": "2.30 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 290.0,
+            "PricePerUnitNeto": 4.45,
+            "PricePerUnitNetoDesc": "4.45 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "290 גרם",
+            "Price_NET": 12.9,
+            "Price_Regular": 12.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317166,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317166.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317166.jpg",
+                "Image_File_Name": "2317166.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317166.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה  מלפפונים  בחומץ  10-12  A-2",
+            "ORank": 0.00149663,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317166.jpg"
+          },
+          {
+            "Id": 253505,
+            "IsShakil": false,
+            "BarKod": "7290002317135",
+            "Name": "מלפפונים במלח קטנים 13-17",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317135.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317135.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.16,
+            "PricePerUnitDesc": "2.16 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 3.78,
+            "PricePerUnitNetoDesc": "3.78 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317135,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317135.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317135.jpg",
+                "Image_File_Name": "2317135.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317135.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה  מלפפונים  במלח  13-17  A-2  קטן",
+            "ORank": 0.0016463,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317135.jpg"
+          },
+          {
+            "Id": 253581,
+            "IsShakil": false,
+            "BarKod": "7290002317173",
+            "Name": "מלפפונים בחומץ קטנים 13-17",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317173.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317173.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.16,
+            "PricePerUnitDesc": "2.16 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 290.0,
+            "PricePerUnitNeto": 4.17,
+            "PricePerUnitNetoDesc": "4.17 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "290 גרם",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317173,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317173.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317173.jpg",
+                "Image_File_Name": "2317173.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317173.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה  מלפפונים  בחומץ  13-17  A-2  קטן\r\n",
+            "ORank": 0.00089798,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317173.jpg"
+          },
+          {
+            "Id": 253506,
+            "IsShakil": false,
+            "BarKod": "7290002317142",
+            "Name": "מלפפונים במלח קטנים מאוד 18-25",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317142.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317142.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.48,
+            "PricePerUnitDesc": "2.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 320.0,
+            "PricePerUnitNeto": 4.34,
+            "PricePerUnitNetoDesc": "4.34 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "320 גרם",
+            "Price_NET": 13.9,
+            "Price_Regular": 13.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317142,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317142.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317142.jpg",
+                "Image_File_Name": "2317142.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317142.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה  מלפפונים  במלח  18-25  A-2  קטן מאוד",
+            "ORank": 0.000299327,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317142.jpg"
+          },
+          {
+            "Id": 253582,
+            "IsShakil": false,
+            "BarKod": "7290002317180",
+            "Name": "מלפפונים בחומץ קטנים מאוד 18-25",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317180.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317180.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.48,
+            "PricePerUnitDesc": "2.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 290.0,
+            "PricePerUnitNeto": 4.79,
+            "PricePerUnitNetoDesc": "4.79 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "290 גרם",
+            "Price_NET": 13.9,
+            "Price_Regular": 13.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317180,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317180.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317180.jpg",
+                "Image_File_Name": "2317180.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317180.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה  מלפפונים  בחומץ  18-25  A-2  קטן מאוד",
+            "ORank": 0.000249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317180.jpg"
+          },
+          {
+            "Id": 253508,
+            "IsShakil": false,
+            "BarKod": "7290002317500",
+            "Name": "מלפפונים במלח 30-36",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317500.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317500.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 3.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 9.63,
+            "PricePerUnitDesc": "9.63 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "3 ק\"ג",
+            "UnitSizeNeto": 1.75,
+            "PricePerUnitNeto": 16.51,
+            "PricePerUnitNetoDesc": "16.51 ₪ ל- 1 ק\"ג",
+            "WeightUnitNetoDesc": "1.75 ק\"ג",
+            "Price_NET": 28.9,
+            "Price_Regular": 28.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317500,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317500.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317500.jpg",
+                "Image_File_Name": "2317500.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317500.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים שימורים  מוטולה  מלפפונים  במלח  30-36  A-10",
+            "ORank": 0.000399102,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317500.jpg"
+          },
+          {
+            "Id": 253584,
+            "IsShakil": false,
+            "BarKod": "7290002317531",
+            "Name": "מלפפונים בחומץ 30-36",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317531.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317531.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 3.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 9.63,
+            "PricePerUnitDesc": "9.63 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "3 ק\"ג",
+            "UnitSizeNeto": 1.7,
+            "PricePerUnitNeto": 17.0,
+            "PricePerUnitNetoDesc": "17.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitNetoDesc": "1.7 ק\"ג",
+            "Price_NET": 28.9,
+            "Price_Regular": 28.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317531,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317531.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317531.jpg",
+                "Image_File_Name": "2317531.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317531.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מלפפונים חמוצים מלפפון חמוץ חומץ  מלפפון  מוטולה  גדול 30-36  vinegar  מלפפונים",
+            "ORank": 0.000149663,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317531.jpg"
+          },
+          {
+            "Id": 8570,
+            "IsShakil": false,
+            "BarKod": "645173911038",
+            "Name": "קורנישונים כבושים בחומץ בצנצנת",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1698298710/Production/645173911038/38027fcb-4eea-4696-b8b9-3153b2bdb041.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1698298710/Production/645173911038/38027fcb-4eea-4696-b8b9-3153b2bdb041.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 670.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.96,
+            "PricePerUnitDesc": "1.96 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "670 גרם",
+            "UnitSizeNeto": 370.0,
+            "PricePerUnitNeto": 3.54,
+            "PricePerUnitNetoDesc": "3.54 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "370 גרם",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 645173911038,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1698298710/Production/645173911038/38027fcb-4eea-4696-b8b9-3153b2bdb041.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1698298710/Production/645173911038/38027fcb-4eea-4696-b8b9-3153b2bdb041.jpg",
+                "Image_File_Name": "38027fcb-4eea-4696-b8b9-3153b2bdb041.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1698298710/Production/645173911038/38027fcb-4eea-4696-b8b9-3153b2bdb041.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " תומר  מלפפונים  מלפפונים חמוצים קורנישונים  כבושים  חומץ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1698298710/Production/645173911038/38027fcb-4eea-4696-b8b9-3153b2bdb041.jpg"
+          },
+          {
+            "Id": 347439,
+            "IsShakil": false,
+            "BarKod": "4607002990290",
+            "Name": "מלפפונים מוחמצים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/ad386e22-9082-4280-a88b-8cb9878f39a3_4607002990290.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/ad386e22-9082-4280-a88b-8cb9878f39a3_4607002990290.png",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 2712,
+            "ManufacturerName": "דדיה ואניה",
+            "MidaKod": "גרם",
+            "UnitSize": 680.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.37,
+            "PricePerUnitDesc": "2.37 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "680 גרם",
+            "UnitSizeNeto": 360.0,
+            "PricePerUnitNeto": 4.47,
+            "PricePerUnitNetoDesc": "4.47 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "360 גרם",
+            "Price_NET": 16.1,
+            "Price_Regular": 16.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4607002990290,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/ad386e22-9082-4280-a88b-8cb9878f39a3_4607002990290.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/ad386e22-9082-4280-a88b-8cb9878f39a3_4607002990290.png",
+                "Image_File_Name": "ad386e22-9082-4280-a88b-8cb9878f39a3_4607002990290.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/ad386e22-9082-4280-a88b-8cb9878f39a3_4607002990290.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/ad386e22-9082-4280-a88b-8cb9878f39a3_4607002990290.png"
+          },
+          {
+            "Id": 4856,
+            "IsShakil": false,
+            "BarKod": "3781065",
+            "Name": "מלפפונים (קורנישונים) בחומץ בסגנון ישראלי, קטן מאוד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1714554748/Production/3781065/d1d6b411-7240-42e6-bbf0-80534cf875cb.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1714554748/Production/3781065/d1d6b411-7240-42e6-bbf0-80534cf875cb.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 680.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.78,
+            "PricePerUnitDesc": "1.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "680 גרם",
+            "UnitSizeNeto": 370.0,
+            "PricePerUnitNeto": 3.27,
+            "PricePerUnitNetoDesc": "3.27 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "370 גרם",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 3781065,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1714554748/Production/3781065/d1d6b411-7240-42e6-bbf0-80534cf875cb.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1714554748/Production/3781065/d1d6b411-7240-42e6-bbf0-80534cf875cb.jpg",
+                "Image_File_Name": "d1d6b411-7240-42e6-bbf0-80534cf875cb.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1714554748/Production/3781065/d1d6b411-7240-42e6-bbf0-80534cf875cb.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "מלפפון חמוץ שימור מלפפונים חמוצים ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1714554748/Production/3781065/d1d6b411-7240-42e6-bbf0-80534cf875cb.jpg"
+          },
+          {
+            "Id": 403707,
+            "IsShakil": false,
+            "BarKod": "7290018380215",
+            "Name": "מלפפונים קורנישונים בחומץ חריפות מעודנת קטנים מאוד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1712873295/Production/7290018380215/7290018380215_s104-03-2022_16-17-33.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1712873295/Production/7290018380215/7290018380215_s104-03-2022_16-17-33.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11181,
+            "SubCategoryName": "שימורי מלפפונים",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 670.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.96,
+            "PricePerUnitDesc": "1.96 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "670 גרם",
+            "UnitSizeNeto": 360.0,
+            "PricePerUnitNeto": 3.64,
+            "PricePerUnitNetoDesc": "3.64 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "360 גרם",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018380215,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1712873295/Production/7290018380215/7290018380215_s104-03-2022_16-17-33.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1712873295/Production/7290018380215/7290018380215_s104-03-2022_16-17-33.jpg",
+                "Image_File_Name": "7290018380215_s104-03-2022_16-17-33.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1712873295/Production/7290018380215/7290018380215_s104-03-2022_16-17-33.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1712873295/Production/7290018380215/7290018380215_s104-03-2022_16-17-33.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 1053,
+            "Name": "בית השיטה"
+          },
+          {
+            "Id": 2712,
+            "Name": "דדיה ואניה"
+          },
+          {
+            "Id": 1159,
+            "Name": "וילי פוד"
+          },
+          {
+            "Id": 1555,
+            "Name": "מוטולה"
+          },
+          {
+            "Id": 1568,
+            "Name": "תומר"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}
