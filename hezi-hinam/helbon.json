@@ -1,0 +1,2802 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/6e9b8995-d34b-4085-9ef2-649ff021a65d.png",
+      "SubCategory": {
+        "Id": 11634,
+        "Name": "חטיפים עם חלבון",
+        "Items": [
+          {
+            "Id": 297398,
+            "IsShakil": false,
+            "BarKod": "8410076610379",
+            "Name": "חטיף Protein בוטנים ושבבי שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1708369405/Production/8410076610379/8410076610379_S1_1502-19-2024_08-40-33.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369405/Production/8410076610379/8410076610379_S1_1502-19-2024_08-40-33.jpg",
+            "CategoryId": 69,
+            "CategoryName": "דגני בוקר, חטיפי דגנים וגרנולה",
+            "SubCategoryId": 11205,
+            "SubCategoryName": "חטיפי דגנים",
+            "ManufacturerId": 1319,
+            "ManufacturerName": "נייצ'ר ואלי Nature Valley",
+            "MidaKod": "גרם",
+            "UnitSize": 160.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 15.12,
+            "PricePerUnitDesc": "15.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 40 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 24.2,
+            "Price_Regular": 24.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "חטיף בוטנים, חלבון סויה ושוקולד מריר עם ציפוי בטעם שוקולד. \n10 גרם חלבון לחטיף, ללא גלוטן",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8410076610379,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1708369405/Production/8410076610379/8410076610379_S1_1502-19-2024_08-40-33.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369405/Production/8410076610379/8410076610379_S1_1502-19-2024_08-40-33.jpg",
+                "Image_File_Name": "8410076610379_S1_1502-19-2024_08-40-33.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1708369405/Production/8410076610379/8410076610379_S1_1502-19-2024_08-40-33.jpg"
+              },
+              {
+                "Barcode": 8410076610379,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1708369406/Production/8410076610379/8410076610379_S1_15_GS102-19-2024_08-41-10.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369406/Production/8410076610379/8410076610379_S1_15_GS102-19-2024_08-41-10.jpg",
+                "Image_File_Name": "8410076610379_S1_15_GS102-19-2024_08-41-10.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1708369406/Production/8410076610379/8410076610379_S1_15_GS102-19-2024_08-41-10.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "סכנת חנק לילדים מתחת לגיל 5. למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "נייטשר וואלי, פרוטאין, חלבון, בוטנים, שוקולד, חטיף נייטשר וואלי  פרוטאין  חלבון  בוטנים  שוקולד",
+            "ORank": 0.00503866,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369405/Production/8410076610379/8410076610379_S1_1502-19-2024_08-40-33.jpg"
+          },
+          {
+            "Id": 297399,
+            "IsShakil": false,
+            "BarKod": "8410076610386",
+            "Name": "חטיף Protein בוטנים עם ציפוי בטעם קרמל מלוח",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1708369409/Production/8410076610386/8410076610386_S1_1502-19-2024_08-23-12.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369409/Production/8410076610386/8410076610386_S1_1502-19-2024_08-23-12.jpg",
+            "CategoryId": 69,
+            "CategoryName": "דגני בוקר, חטיפי דגנים וגרנולה",
+            "SubCategoryId": 11205,
+            "SubCategoryName": "חטיפי דגנים",
+            "ManufacturerId": 1319,
+            "ManufacturerName": "נייצ'ר ואלי Nature Valley",
+            "MidaKod": "גרם",
+            "UnitSize": 160.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 15.12,
+            "PricePerUnitDesc": "15.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 40 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 24.2,
+            "Price_Regular": 24.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "חטיף בוטנים, חלבון סויה ושקדים עם ציפוי בטעם קרמל מלוח. \n10 גרם חלבון לחטיף, ללא גלוטן",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8410076610386,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1708369409/Production/8410076610386/8410076610386_S1_1502-19-2024_08-23-12.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369409/Production/8410076610386/8410076610386_S1_1502-19-2024_08-23-12.jpg",
+                "Image_File_Name": "8410076610386_S1_1502-19-2024_08-23-12.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1708369409/Production/8410076610386/8410076610386_S1_1502-19-2024_08-23-12.jpg"
+              },
+              {
+                "Barcode": 8410076610386,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1708369409/Production/8410076610386/8410076610386_S1_15_GS102-19-2024_08-21-37.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369409/Production/8410076610386/8410076610386_S1_15_GS102-19-2024_08-21-37.jpg",
+                "Image_File_Name": "8410076610386_S1_15_GS102-19-2024_08-21-37.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1708369409/Production/8410076610386/8410076610386_S1_15_GS102-19-2024_08-21-37.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "סכנת חנק לילדים מתחת לגיל 5. למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "נייטשר וואלי, פרוטאין, חטיף בוטנים, חלבון סויה ושקדים, קרמל מלוח,חטיף נייטשר וואלי  פרוטאין  חטיף בוטנים  חלבון סויה ושקדים  קרמל מלוח",
+            "ORank": 0.0056872,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708369409/Production/8410076610386/8410076610386_S1_1502-19-2024_08-23-12.jpg"
+          },
+          {
+            "Id": 527167,
+            "IsShakil": false,
+            "BarKod": "7290112913487",
+            "Name": "חטיף חלבון שוקולד ואגוזים מקס ברנר כשל\"פ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1734376019/Production/7290112913487/7290112913487_s1_1509-18-2023_09-01-24.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1734376019/Production/7290112913487/7290112913487_s1_1509-18-2023_09-01-24.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10843,
+            "SubCategoryName": "חטיפי שוקולד",
+            "ManufacturerId": 3021,
+            "ManufacturerName": "מקס ברנר",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 28.17,
+            "PricePerUnitDesc": "28.17 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 16.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290112913487,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1734376019/Production/7290112913487/7290112913487_s1_1509-18-2023_09-01-24.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1734376019/Production/7290112913487/7290112913487_s1_1509-18-2023_09-01-24.jpg",
+                "Image_File_Name": "7290112913487_s1_1509-18-2023_09-01-24.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1734376019/Production/7290112913487/7290112913487_s1_1509-18-2023_09-01-24.jpg"
+              },
+              {
+                "Barcode": 7290112913487,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1734376019/Production/7290112913487/7290112913487_p109-18-2023_09-01-47.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1734376019/Production/7290112913487/7290112913487_p109-18-2023_09-01-47.jpg",
+                "Image_File_Name": "7290112913487_p109-18-2023_09-01-47.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1734376019/Production/7290112913487/7290112913487_p109-18-2023_09-01-47.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": true,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1734376019/Production/7290112913487/7290112913487_s1_1509-18-2023_09-01-24.jpg"
+          },
+          {
+            "Id": 487135,
+            "IsShakil": false,
+            "BarKod": "7290018043899",
+            "Name": "אולאין חטיף חלבון בטעם בוטנים קרמל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063774/Production/7290018043899/7290018043899H101-28-2024_12-20-08.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063774/Production/7290018043899/7290018043899H101-28-2024_12-20-08.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 23.5,
+            "PricePerUnitDesc": "23.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018043899,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063774/Production/7290018043899/7290018043899H101-28-2024_12-20-08.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063774/Production/7290018043899/7290018043899H101-28-2024_12-20-08.png",
+                "Image_File_Name": "7290018043899H101-28-2024_12-20-08.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063774/Production/7290018043899/7290018043899H101-28-2024_12-20-08.png"
+              },
+              {
+                "Barcode": 7290018043899,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063774/Production/7290018043899/7290018043899_p101-22-2024_09-21-13.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063774/Production/7290018043899/7290018043899_p101-22-2024_09-21-13.jpg",
+                "Image_File_Name": "7290018043899_p101-22-2024_09-21-13.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063774/Production/7290018043899/7290018043899_p101-22-2024_09-21-13.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון  חטיפי חלבון  חטיף חלבון דל קלוריות  protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063774/Production/7290018043899/7290018043899H101-28-2024_12-20-08.png"
+          },
+          {
+            "Id": 487132,
+            "IsShakil": false,
+            "BarKod": "7290018703076",
+            "Name": "אולאין חטיף חלבון בטעם דאבל שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1679854778/Production/7290018703076/7290018703076_p103-16-2023_19-00-47.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679854778/Production/7290018703076/7290018703076_p103-16-2023_19-00-47.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 23.5,
+            "PricePerUnitDesc": "23.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018703076,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679854778/Production/7290018703076/7290018703076_p103-16-2023_19-00-47.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679854778/Production/7290018703076/7290018703076_p103-16-2023_19-00-47.jpg",
+                "Image_File_Name": "7290018703076_p103-16-2023_19-00-47.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679854778/Production/7290018703076/7290018703076_p103-16-2023_19-00-47.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון  חטיפי חלבון  חטיף חלבון דל קלוריות  protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679854778/Production/7290018703076/7290018703076_p103-16-2023_19-00-47.jpg"
+          },
+          {
+            "Id": 487136,
+            "IsShakil": false,
+            "BarKod": "7290018043301",
+            "Name": "אולאין חטיף חלבון בטעם ונילה קראנץ'",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063769/Production/7290018043301/7290018043301H101-28-2024_12-00-27.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063769/Production/7290018043301/7290018043301H101-28-2024_12-00-27.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 23.5,
+            "PricePerUnitDesc": "23.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018043301,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063769/Production/7290018043301/7290018043301H101-28-2024_12-00-27.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063769/Production/7290018043301/7290018043301H101-28-2024_12-00-27.png",
+                "Image_File_Name": "7290018043301H101-28-2024_12-00-27.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063769/Production/7290018043301/7290018043301H101-28-2024_12-00-27.png"
+              },
+              {
+                "Barcode": 7290018043301,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679854774/Production/7290018043301/7290018043301_p103-16-2023_19-00-51.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679854774/Production/7290018043301/7290018043301_p103-16-2023_19-00-51.jpg",
+                "Image_File_Name": "7290018043301_p103-16-2023_19-00-51.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679854774/Production/7290018043301/7290018043301_p103-16-2023_19-00-51.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון  חטיפי חלבון  חטיף חלבון דל קלוריות  protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063769/Production/7290018043301/7290018043301H101-28-2024_12-00-27.png"
+          },
+          {
+            "Id": 487133,
+            "IsShakil": false,
+            "BarKod": "7290018703304",
+            "Name": "אולאין חטיף חלבון בטעם קרם עוגיות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063789/Production/7290018703304/7290018703304H101-28-2024_09-10-28.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063789/Production/7290018703304/7290018703304H101-28-2024_09-10-28.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 23.5,
+            "PricePerUnitDesc": "23.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018703304,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063789/Production/7290018703304/7290018703304H101-28-2024_09-10-28.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063789/Production/7290018703304/7290018703304H101-28-2024_09-10-28.png",
+                "Image_File_Name": "7290018703304H101-28-2024_09-10-28.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063789/Production/7290018703304/7290018703304H101-28-2024_09-10-28.png"
+              },
+              {
+                "Barcode": 7290018703304,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1684261249/Production/7290018703304/7290018703304_p105-14-2023_19-00-51.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1684261249/Production/7290018703304/7290018703304_p105-14-2023_19-00-51.jpg",
+                "Image_File_Name": "7290018703304_p105-14-2023_19-00-51.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1684261249/Production/7290018703304/7290018703304_p105-14-2023_19-00-51.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון  חטיפי חלבון  חטיף חלבון דל קלוריות  protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063789/Production/7290018703304/7290018703304H101-28-2024_09-10-28.png"
+          },
+          {
+            "Id": 487134,
+            "IsShakil": false,
+            "BarKod": "7290018043134",
+            "Name": "אולאין חטיף חלבון בטעם שוקולד לבן עוגיות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063765/Production/7290018043134/7290018043134H101-28-2024_11-57-58.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063765/Production/7290018043134/7290018043134H101-28-2024_11-57-58.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 23.5,
+            "PricePerUnitDesc": "23.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018043134,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063765/Production/7290018043134/7290018043134H101-28-2024_11-57-58.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063765/Production/7290018043134/7290018043134H101-28-2024_11-57-58.png",
+                "Image_File_Name": "7290018043134H101-28-2024_11-57-58.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063765/Production/7290018043134/7290018043134H101-28-2024_11-57-58.png"
+              },
+              {
+                "Barcode": 7290018043134,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679941379/Production/7290018043134/7290018043134_p103-22-2023_19-00-28.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679941379/Production/7290018043134/7290018043134_p103-22-2023_19-00-28.jpg",
+                "Image_File_Name": "7290018043134_p103-22-2023_19-00-28.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679941379/Production/7290018043134/7290018043134_p103-22-2023_19-00-28.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון  חטיפי חלבון  חטיף חלבון דל קלוריות  protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063765/Production/7290018043134/7290018043134H101-28-2024_11-57-58.png"
+          },
+          {
+            "Id": 487131,
+            "IsShakil": false,
+            "BarKod": "7290015446914",
+            "Name": "אולאין חטיף חלבון בטעם שוקולד צ'יפ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063761/Production/7290015446914/7290015446914H101-28-2024_12-24-32.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063761/Production/7290015446914/7290015446914H101-28-2024_12-24-32.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 100.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 18.1,
+            "PricePerUnitDesc": "18.10 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "100 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.1,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290015446914,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063761/Production/7290015446914/7290015446914H101-28-2024_12-24-32.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063761/Production/7290015446914/7290015446914H101-28-2024_12-24-32.png",
+                "Image_File_Name": "7290015446914H101-28-2024_12-24-32.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063761/Production/7290015446914/7290015446914H101-28-2024_12-24-32.png"
+              },
+              {
+                "Barcode": 7290015446914,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679941368/Production/7290015446914/7290015446914_p103-19-2023_19-00-36.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679941368/Production/7290015446914/7290015446914_p103-19-2023_19-00-36.jpg",
+                "Image_File_Name": "7290015446914_p103-19-2023_19-00-36.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679941368/Production/7290015446914/7290015446914_p103-19-2023_19-00-36.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון  חטיפי חלבון  חטיף חלבון 100 גרם  protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063761/Production/7290015446914/7290015446914H101-28-2024_12-24-32.png"
+          },
+          {
+            "Id": 491678,
+            "IsShakil": false,
+            "BarKod": "7290019310679",
+            "Name": "חטיף חלבון אקסטרה סופט בטעם שוקולד חלב קרמל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1692098301/Production/7290019310679/8d5711ee-07ed-4dfc-82c8-ca3eed3697ba.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692098301/Production/7290019310679/8d5711ee-07ed-4dfc-82c8-ca3eed3697ba.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 55.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 25.64,
+            "PricePerUnitDesc": "25.64 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "55 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019310679,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1692098301/Production/7290019310679/8d5711ee-07ed-4dfc-82c8-ca3eed3697ba.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692098301/Production/7290019310679/8d5711ee-07ed-4dfc-82c8-ca3eed3697ba.jpg",
+                "Image_File_Name": "8d5711ee-07ed-4dfc-82c8-ca3eed3697ba.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1692098301/Production/7290019310679/8d5711ee-07ed-4dfc-82c8-ca3eed3697ba.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אולאין סופט  חטיף חלבון סופט אולאין אקסטרה סופט  חטיף חלבון אקסטרה סופט   allin soft  allin extra soft   soft protein bar  extra soft protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692098301/Production/7290019310679/8d5711ee-07ed-4dfc-82c8-ca3eed3697ba.jpg"
+          },
+          {
+            "Id": 491679,
+            "IsShakil": false,
+            "BarKod": "7290019310686",
+            "Name": "חטיף חלבון סופט בטעם שוקולד לבן בוטנים קרמל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063837/Production/7290019310686/7290019310686H101-28-2024_12-02-21.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063837/Production/7290019310686/7290019310686H101-28-2024_12-02-21.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2916,
+            "ManufacturerName": "אולאין allin",
+            "MidaKod": "גרם",
+            "UnitSize": 55.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 25.64,
+            "PricePerUnitDesc": "25.64 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "55 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290019310686,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063837/Production/7290019310686/7290019310686H101-28-2024_12-02-21.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063837/Production/7290019310686/7290019310686H101-28-2024_12-02-21.png",
+                "Image_File_Name": "7290019310686H101-28-2024_12-02-21.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063837/Production/7290019310686/7290019310686H101-28-2024_12-02-21.png"
+              },
+              {
+                "Barcode": 7290019310686,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063837/Production/7290019310686/7290019310686_p107-02-2023_19-00-38.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063837/Production/7290019310686/7290019310686_p107-02-2023_19-00-38.jpg",
+                "Image_File_Name": "7290019310686_p107-02-2023_19-00-38.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063837/Production/7290019310686/7290019310686_p107-02-2023_19-00-38.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אולאין סופט  חטיף חלבון סופט אולאין אקסטרה סופט  חטיף חלבון אקסטרה סופט   allin soft  allin extra soft   soft protein bar  extra soft protein bar",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063837/Production/7290019310686/7290019310686H101-28-2024_12-02-21.png"
+          },
+          {
+            "Id": 502920,
+            "IsShakil": false,
+            "BarKod": "7290119371112",
+            "Name": "חטיף חלבון פרו בטעם קרמל וציפוי שוקולד חלב אגוזי לוז",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1738263836/Production/7290119371112/366363_7290119371112_3.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738263836/Production/7290119371112/366363_7290119371112_3.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 1552,
+            "ManufacturerName": "שטראוס",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 25.17,
+            "PricePerUnitDesc": "25.17 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.9,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290119371112,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1738263836/Production/7290119371112/366363_7290119371112_3.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738263836/Production/7290119371112/366363_7290119371112_3.jpg",
+                "Image_File_Name": "366363_7290119371112_3.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1738263836/Production/7290119371112/366363_7290119371112_3.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון פרו קרמל עם ציפוי שוקולד חלב אגוזי לוז 60 גרם 20 גרם חלבון PRO עשיר בחלבון פרו פרו גרם חלבון יוגורט sbubv teyhnhk ספורטאים טבעי פרו עשיר בחלבון jyh; jkcui",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738263836/Production/7290119371112/366363_7290119371112_3.jpg"
+          },
+          {
+            "Id": 502926,
+            "IsShakil": false,
+            "BarKod": "7290119371105",
+            "Name": "חטיף חלבון פרו עם עוגיות קקאו וציפוי בטעם שוקולד לבן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1738263832/Production/7290119371105/366362_7290119371105_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738263832/Production/7290119371105/366362_7290119371105_1.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 1552,
+            "ManufacturerName": "שטראוס",
+            "MidaKod": "גרם",
+            "UnitSize": 90.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 21.22,
+            "PricePerUnitDesc": "21.22 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "90 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 19.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290119371105,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1738263832/Production/7290119371105/366362_7290119371105_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738263832/Production/7290119371105/366362_7290119371105_1.jpg",
+                "Image_File_Name": "366362_7290119371105_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1738263832/Production/7290119371105/366362_7290119371105_1.jpg"
+              },
+              {
+                "Barcode": 7290119371105,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707056605/Production/7290119371105/366362_7290119371105_201-24-2024_09-25-18.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707056605/Production/7290119371105/366362_7290119371105_201-24-2024_09-25-18.jpg",
+                "Image_File_Name": "366362_7290119371105_201-24-2024_09-25-18.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707056605/Production/7290119371105/366362_7290119371105_201-24-2024_09-25-18.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " פרו חטיף חלבון שוקולד לבן עוגיות 90 גרם PRO \r\nעשיר בחלבון פרו פרו גרם חלבון יוגורט sbubv teyhnhk ספורטאים טבעי פרו עשיר בחלבון jyh; jkcui",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738263832/Production/7290119371105/366362_7290119371105_1.jpg"
+          },
+          {
+            "Id": 410786,
+            "IsShakil": false,
+            "BarKod": "7290017516479",
+            "Name": "חטיף פרוטאין בטעם וניל וקפה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/47bd7036-2e8a-4a34-9251-2c7d0183cd0c_7290017516479.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/47bd7036-2e8a-4a34-9251-2c7d0183cd0c_7290017516479.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2661,
+            "ManufacturerName": "פנגיאה",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.33,
+            "PricePerUnitDesc": "19.33 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.6,
+            "Price_Regular": 11.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017516479,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/47bd7036-2e8a-4a34-9251-2c7d0183cd0c_7290017516479.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/47bd7036-2e8a-4a34-9251-2c7d0183cd0c_7290017516479.png",
+                "Image_File_Name": "47bd7036-2e8a-4a34-9251-2c7d0183cd0c_7290017516479.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/47bd7036-2e8a-4a34-9251-2c7d0183cd0c_7290017516479.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00149663,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/47bd7036-2e8a-4a34-9251-2c7d0183cd0c_7290017516479.png"
+          },
+          {
+            "Id": 411357,
+            "IsShakil": false,
+            "BarKod": "7290017516509",
+            "Name": "חטיף פרוטאין בטעם קרמל מלוח",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6f4f2b08-66e1-4860-a83d-fb503553722f_7290017516509.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6f4f2b08-66e1-4860-a83d-fb503553722f_7290017516509.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2661,
+            "ManufacturerName": "פנגיאה",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.33,
+            "PricePerUnitDesc": "19.33 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.6,
+            "Price_Regular": 11.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290017516509,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/6f4f2b08-66e1-4860-a83d-fb503553722f_7290017516509.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6f4f2b08-66e1-4860-a83d-fb503553722f_7290017516509.png",
+                "Image_File_Name": "6f4f2b08-66e1-4860-a83d-fb503553722f_7290017516509.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6f4f2b08-66e1-4860-a83d-fb503553722f_7290017516509.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00124719,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6f4f2b08-66e1-4860-a83d-fb503553722f_7290017516509.png"
+          },
+          {
+            "Id": 410796,
+            "IsShakil": false,
+            "BarKod": "7290017516318",
+            "Name": "חטיף פרוטאין בטעם שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1716807454/Production/7290017516318/c0de608c-020c-449c-81fe-c7795cd68f3f.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716807454/Production/7290017516318/c0de608c-020c-449c-81fe-c7795cd68f3f.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2661,
+            "ManufacturerName": "פנגיאה",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.33,
+            "PricePerUnitDesc": "19.33 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.6,
+            "Price_Regular": 11.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017516318,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1716807454/Production/7290017516318/c0de608c-020c-449c-81fe-c7795cd68f3f.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716807454/Production/7290017516318/c0de608c-020c-449c-81fe-c7795cd68f3f.jpg",
+                "Image_File_Name": "c0de608c-020c-449c-81fe-c7795cd68f3f.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1716807454/Production/7290017516318/c0de608c-020c-449c-81fe-c7795cd68f3f.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00149663,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716807454/Production/7290017516318/c0de608c-020c-449c-81fe-c7795cd68f3f.jpg"
+          },
+          {
+            "Id": 410778,
+            "IsShakil": false,
+            "BarKod": "7290017516332",
+            "Name": "חטיף פרוטאין עם חמאת בוטנים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/89d25c6a-da2d-49a7-a075-3777fe6140d0_7290017516332.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/89d25c6a-da2d-49a7-a075-3777fe6140d0_7290017516332.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2661,
+            "ManufacturerName": "פנגיאה",
+            "MidaKod": "גרם",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.33,
+            "PricePerUnitDesc": "19.33 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "60 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.6,
+            "Price_Regular": 11.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017516332,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/89d25c6a-da2d-49a7-a075-3777fe6140d0_7290017516332.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/89d25c6a-da2d-49a7-a075-3777fe6140d0_7290017516332.png",
+                "Image_File_Name": "89d25c6a-da2d-49a7-a075-3777fe6140d0_7290017516332.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/89d25c6a-da2d-49a7-a075-3777fe6140d0_7290017516332.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00184585,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/89d25c6a-da2d-49a7-a075-3777fe6140d0_7290017516332.png"
+          },
+          {
+            "Id": 498707,
+            "IsShakil": false,
+            "BarKod": "7290117384664",
+            "Name": "טודיי חטיף חלבון בטעם בננה שוקולד צ'יפס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1719232576/Production/7290117384664/f72d680c-c2b9-4108-8ae6-d1ff61fb34e4.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384664/f72d680c-c2b9-4108-8ae6-d1ff61fb34e4.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2985,
+            "ManufacturerName": "טודיי Today",
+            "MidaKod": "גרם",
+            "UnitSize": 42.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 28.81,
+            "PricePerUnitDesc": "28.81 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "42 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.0,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290117384664,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1719232576/Production/7290117384664/f72d680c-c2b9-4108-8ae6-d1ff61fb34e4.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384664/f72d680c-c2b9-4108-8ae6-d1ff61fb34e4.jpg",
+                "Image_File_Name": "f72d680c-c2b9-4108-8ae6-d1ff61fb34e4.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1719232576/Production/7290117384664/f72d680c-c2b9-4108-8ae6-d1ff61fb34e4.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384664/f72d680c-c2b9-4108-8ae6-d1ff61fb34e4.jpg"
+          },
+          {
+            "Id": 498703,
+            "IsShakil": false,
+            "BarKod": "7290117384596",
+            "Name": "טודיי חטיף חלבון בטעם פאי קינמון",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1719232576/Production/7290117384596/5bf48be6-525f-4c83-923c-085f911c8e50.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384596/5bf48be6-525f-4c83-923c-085f911c8e50.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2985,
+            "ManufacturerName": "טודיי Today",
+            "MidaKod": "גרם",
+            "UnitSize": 65.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 21.69,
+            "PricePerUnitDesc": "21.69 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "65 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290117384596,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1719232576/Production/7290117384596/5bf48be6-525f-4c83-923c-085f911c8e50.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384596/5bf48be6-525f-4c83-923c-085f911c8e50.jpg",
+                "Image_File_Name": "5bf48be6-525f-4c83-923c-085f911c8e50.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1719232576/Production/7290117384596/5bf48be6-525f-4c83-923c-085f911c8e50.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384596/5bf48be6-525f-4c83-923c-085f911c8e50.jpg"
+          },
+          {
+            "Id": 498705,
+            "IsShakil": false,
+            "BarKod": "7290117384572",
+            "Name": "טודיי חטיף חלבון בטעם קרם עוגיות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1719232575/Production/7290117384572/a1179fa4-330a-45ba-b110-e3a237024183.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232575/Production/7290117384572/a1179fa4-330a-45ba-b110-e3a237024183.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2985,
+            "ManufacturerName": "טודיי Today",
+            "MidaKod": "גרם",
+            "UnitSize": 65.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 21.69,
+            "PricePerUnitDesc": "21.69 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "65 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290117384572,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1719232575/Production/7290117384572/a1179fa4-330a-45ba-b110-e3a237024183.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232575/Production/7290117384572/a1179fa4-330a-45ba-b110-e3a237024183.jpg",
+                "Image_File_Name": "a1179fa4-330a-45ba-b110-e3a237024183.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1719232575/Production/7290117384572/a1179fa4-330a-45ba-b110-e3a237024183.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232575/Production/7290117384572/a1179fa4-330a-45ba-b110-e3a237024183.jpg"
+          },
+          {
+            "Id": 498704,
+            "IsShakil": false,
+            "BarKod": "7290117384589",
+            "Name": "טודיי חטיף חלבון בטעם קרמל מלוח",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1719232576/Production/7290117384589/d377ebc7-7857-4539-a0dd-65cacb9bf0f7.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384589/d377ebc7-7857-4539-a0dd-65cacb9bf0f7.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2985,
+            "ManufacturerName": "טודיי Today",
+            "MidaKod": "גרם",
+            "UnitSize": 65.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 21.69,
+            "PricePerUnitDesc": "21.69 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "65 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290117384589,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1719232576/Production/7290117384589/d377ebc7-7857-4539-a0dd-65cacb9bf0f7.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384589/d377ebc7-7857-4539-a0dd-65cacb9bf0f7.jpg",
+                "Image_File_Name": "d377ebc7-7857-4539-a0dd-65cacb9bf0f7.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1719232576/Production/7290117384589/d377ebc7-7857-4539-a0dd-65cacb9bf0f7.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232576/Production/7290117384589/d377ebc7-7857-4539-a0dd-65cacb9bf0f7.jpg"
+          },
+          {
+            "Id": 498706,
+            "IsShakil": false,
+            "BarKod": "7290117384640",
+            "Name": "טודיי חטיף חלבון בטעם שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1719232575/Production/7290117384640/0a0aac4f-6f41-4eef-8280-d79c1e13dfc2.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232575/Production/7290117384640/0a0aac4f-6f41-4eef-8280-d79c1e13dfc2.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2985,
+            "ManufacturerName": "טודיי Today",
+            "MidaKod": "גרם",
+            "UnitSize": 42.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 28.81,
+            "PricePerUnitDesc": "28.81 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "42 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.0,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290117384640,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1719232575/Production/7290117384640/0a0aac4f-6f41-4eef-8280-d79c1e13dfc2.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232575/Production/7290117384640/0a0aac4f-6f41-4eef-8280-d79c1e13dfc2.jpg",
+                "Image_File_Name": "0a0aac4f-6f41-4eef-8280-d79c1e13dfc2.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1719232575/Production/7290117384640/0a0aac4f-6f41-4eef-8280-d79c1e13dfc2.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1719232575/Production/7290117384640/0a0aac4f-6f41-4eef-8280-d79c1e13dfc2.jpg"
+          },
+          {
+            "Id": 499291,
+            "IsShakil": false,
+            "BarKod": "7290019310969",
+            "Name": "פראוד חטיף חלבון בטעם שוקולד חלב קרם נוגט",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063847/Production/7290019310969/7290019310969H101-28-2024_07-40-08.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063847/Production/7290019310969/7290019310969H101-28-2024_07-40-08.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2885,
+            "ManufacturerName": "פראוד PROUD",
+            "MidaKod": "גרם",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 26.2,
+            "PricePerUnitDesc": "26.20 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "50 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87062,
+              "MivzaDesc": "2 ב- 18",
+              "MivzaText": "חטיף חלבון פראוד\n2 ב 18 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019310969,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063847/Production/7290019310969/7290019310969H101-28-2024_07-40-08.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063847/Production/7290019310969/7290019310969H101-28-2024_07-40-08.png",
+                "Image_File_Name": "7290019310969H101-28-2024_07-40-08.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063847/Production/7290019310969/7290019310969H101-28-2024_07-40-08.png"
+              },
+              {
+                "Barcode": 7290019310969,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063847/Production/7290019310969/7290019310969_p101-24-2024_18-10-36.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063847/Production/7290019310969/7290019310969_p101-24-2024_18-10-36.jpg",
+                "Image_File_Name": "7290019310969_p101-24-2024_18-10-36.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063847/Production/7290019310969/7290019310969_p101-24-2024_18-10-36.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון פראוד שוקולד חלב קרם נוגט  חטיף חלבון  חטיף חלבון פראוד פראוד     protein bar  Proud protein bar  proud\r\n",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063847/Production/7290019310969/7290019310969H101-28-2024_07-40-08.png"
+          },
+          {
+            "Id": 499290,
+            "IsShakil": false,
+            "BarKod": "7290019310952",
+            "Name": "פראוד חטיף חלבון בטעם שוקולד חמאת בוטנים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063841/Production/7290019310952/7290019310952H101-28-2024_07-39-00.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063841/Production/7290019310952/7290019310952H101-28-2024_07-39-00.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2885,
+            "ManufacturerName": "פראוד PROUD",
+            "MidaKod": "גרם",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 26.2,
+            "PricePerUnitDesc": "26.20 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "50 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87062,
+              "MivzaDesc": "2 ב- 18",
+              "MivzaText": "חטיף חלבון פראוד\n2 ב 18 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019310952,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063841/Production/7290019310952/7290019310952H101-28-2024_07-39-00.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063841/Production/7290019310952/7290019310952H101-28-2024_07-39-00.png",
+                "Image_File_Name": "7290019310952H101-28-2024_07-39-00.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063841/Production/7290019310952/7290019310952H101-28-2024_07-39-00.png"
+              },
+              {
+                "Barcode": 7290019310952,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063841/Production/7290019310952/7290019310952_p101-24-2024_18-10-38.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063841/Production/7290019310952/7290019310952_p101-24-2024_18-10-38.jpg",
+                "Image_File_Name": "7290019310952_p101-24-2024_18-10-38.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063841/Production/7290019310952/7290019310952_p101-24-2024_18-10-38.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון פראוד שוקולד חמאת בוטנים  חטיף חלבון  חטיף חלבון פראוד פראוד     protein bar  Proud protein bar  proud",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063841/Production/7290019310952/7290019310952H101-28-2024_07-39-00.png"
+          },
+          {
+            "Id": 499292,
+            "IsShakil": false,
+            "BarKod": "7290019310976",
+            "Name": "פראוד חטיף חלבון בטעם שוקולד לבן קוקוס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707063852/Production/7290019310976/7290019310976H101-28-2024_07-41-09.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063852/Production/7290019310976/7290019310976H101-28-2024_07-41-09.png",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 2885,
+            "ManufacturerName": "פראוד PROUD",
+            "MidaKod": "גרם",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 26.2,
+            "PricePerUnitDesc": "26.20 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "50 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87062,
+              "MivzaDesc": "2 ב- 18",
+              "MivzaText": "חטיף חלבון פראוד\n2 ב 18 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019310976,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063852/Production/7290019310976/7290019310976H101-28-2024_07-41-09.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063852/Production/7290019310976/7290019310976H101-28-2024_07-41-09.png",
+                "Image_File_Name": "7290019310976H101-28-2024_07-41-09.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063852/Production/7290019310976/7290019310976H101-28-2024_07-41-09.png"
+              },
+              {
+                "Barcode": 7290019310976,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707063852/Production/7290019310976/7290019310976_p101-24-2024_18-10-34.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063852/Production/7290019310976/7290019310976_p101-24-2024_18-10-34.jpg",
+                "Image_File_Name": "7290019310976_p101-24-2024_18-10-34.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707063852/Production/7290019310976/7290019310976_p101-24-2024_18-10-34.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " חטיף חלבון פראוד שוקולד לבן קוקוס  חטיף חלבון  חטיף חלבון פראוד פראוד     protein bar  Proud protein bar  proud",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707063852/Production/7290019310976/7290019310976H101-28-2024_07-41-09.png"
+          },
+          {
+            "Id": 476321,
+            "IsShakil": false,
+            "BarKod": "4011800290092",
+            "Name": "קורני חטיף 30% חלבון בטעם וניל ללא תוספת סוכר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669140937/Production/4011800290092/4011800290092_p110-27-2022_19-00-58.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140937/Production/4011800290092/4011800290092_p110-27-2022_19-00-58.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 1503,
+            "ManufacturerName": "קורני Corny",
+            "MidaKod": "גרם",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 22.0,
+            "PricePerUnitDesc": "22.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "50 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86990,
+              "MivzaDesc": "2 ב- 15",
+              "MivzaText": "חטיף קורני חלבון\n2 ב 15 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4011800290092,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669140937/Production/4011800290092/4011800290092_p110-27-2022_19-00-58.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140937/Production/4011800290092/4011800290092_p110-27-2022_19-00-58.jpg",
+                "Image_File_Name": "4011800290092_p110-27-2022_19-00-58.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669140937/Production/4011800290092/4011800290092_p110-27-2022_19-00-58.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קורני  חטיף  חלבון  שוקולד  חלב   וניל  ללא תוספת סוכר",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140937/Production/4011800290092/4011800290092_p110-27-2022_19-00-58.jpg"
+          },
+          {
+            "Id": 476322,
+            "IsShakil": false,
+            "BarKod": "4011800290078",
+            "Name": "קורני חטיף 30% חלבון עם עוגיות ללא תוספת סוכר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669140930/Production/4011800290078/4011800290078_p110-27-2022_19-01-03.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140930/Production/4011800290078/4011800290078_p110-27-2022_19-01-03.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 1503,
+            "ManufacturerName": "קורני Corny",
+            "MidaKod": "גרם",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 22.0,
+            "PricePerUnitDesc": "22.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "50 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86990,
+              "MivzaDesc": "2 ב- 15",
+              "MivzaText": "חטיף קורני חלבון\n2 ב 15 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4011800290078,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669140930/Production/4011800290078/4011800290078_p110-27-2022_19-01-03.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140930/Production/4011800290078/4011800290078_p110-27-2022_19-01-03.jpg",
+                "Image_File_Name": "4011800290078_p110-27-2022_19-01-03.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669140930/Production/4011800290078/4011800290078_p110-27-2022_19-01-03.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קורני  חטיף  חלבון  שוקולד  חלב  עוגיות  30% חלבון   50 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140930/Production/4011800290078/4011800290078_p110-27-2022_19-01-03.jpg"
+          },
+          {
+            "Id": 476214,
+            "IsShakil": false,
+            "BarKod": "4011800290054",
+            "Name": "קורני חטיף 30% חלבון עם קוקוס בציפוי שוקולד חלב",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669140923/Production/4011800290054/4011800290054_p104-13-2022_19-00-59.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140923/Production/4011800290054/4011800290054_p104-13-2022_19-00-59.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 1503,
+            "ManufacturerName": "קורני Corny",
+            "MidaKod": "גרם",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 22.0,
+            "PricePerUnitDesc": "22.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "50 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86990,
+              "MivzaDesc": "2 ב- 15",
+              "MivzaText": "חטיף קורני חלבון\n2 ב 15 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4011800290054,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669140923/Production/4011800290054/4011800290054_p104-13-2022_19-00-59.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140923/Production/4011800290054/4011800290054_p104-13-2022_19-00-59.jpg",
+                "Image_File_Name": "4011800290054_p104-13-2022_19-00-59.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669140923/Production/4011800290054/4011800290054_p104-13-2022_19-00-59.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קורני  חטיף  חלבון  עם  קוקוס  בציפוי  שוקולד  חלב  ללא  תוספת  סוכר  30% חלבון  50 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140923/Production/4011800290054/4011800290054_p104-13-2022_19-00-59.jpg"
+          },
+          {
+            "Id": 476213,
+            "IsShakil": false,
+            "BarKod": "4011800290030",
+            "Name": "קורני חטיף 30% חלבון עם שוקולד חלב",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669140916/Production/4011800290030/4011800290030_s1_1504-13-2022_19-01-03.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140916/Production/4011800290030/4011800290030_s1_1504-13-2022_19-01-03.jpg",
+            "CategoryId": 136,
+            "CategoryName": "מוצרים עם חלבון",
+            "SubCategoryId": 11634,
+            "SubCategoryName": "חטיפים עם חלבון",
+            "ManufacturerId": 1503,
+            "ManufacturerName": "קורני Corny",
+            "MidaKod": "גרם",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 22.0,
+            "PricePerUnitDesc": "22.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "50 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86990,
+              "MivzaDesc": "2 ב- 15",
+              "MivzaText": "חטיף קורני חלבון\n2 ב 15 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4011800290030,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669140916/Production/4011800290030/4011800290030_s1_1504-13-2022_19-01-03.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140916/Production/4011800290030/4011800290030_s1_1504-13-2022_19-01-03.jpg",
+                "Image_File_Name": "4011800290030_s1_1504-13-2022_19-01-03.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669140916/Production/4011800290030/4011800290030_s1_1504-13-2022_19-01-03.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קורני  חטיף  חלבון  עם  שוקולד  חלב  ללא  תוספת  סוכר  30% חלבון  50 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669140916/Production/4011800290030/4011800290030_s1_1504-13-2022_19-01-03.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 2916,
+            "Name": "אולאין allin"
+          },
+          {
+            "Id": 2985,
+            "Name": "טודיי Today"
+          },
+          {
+            "Id": 3021,
+            "Name": "מקס ברנר"
+          },
+          {
+            "Id": 1319,
+            "Name": "נייצ'ר ואלי Nature Valley"
+          },
+          {
+            "Id": 2661,
+            "Name": "פנגיאה"
+          },
+          {
+            "Id": 2885,
+            "Name": "פראוד PROUD"
+          },
+          {
+            "Id": 1503,
+            "Name": "קורני Corny"
+          },
+          {
+            "Id": 1552,
+            "Name": "שטראוס"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

@@ -1,188 +1,3 @@
-# import os
-# import json
-# import datetime
-# from pymongo import MongoClient, UpdateOne
-# from pymongo.errors import BulkWriteError
-# from urllib.parse import quote_plus
-#
-#
-# def transform_product(product):
-#     """Extract and validate product data"""
-#     # Ensure barcode exists and is valid
-#     barcode = str(product.get("BarKod", "")).strip()
-#     if not barcode:
-#         return None  # Skip products without barcodes
-#
-#     return {
-#         "product_id": product.get("Id"),
-#         "barcode": barcode,
-#         "name": product.get("Name"),
-#         "category": product.get("CategoryName"),
-#         "brand": product.get("ManufacturerName"),
-#         "price": product.get("Price_Regular"),
-#         "unit_price": product.get("PricePerUnit"),
-#         "image_url": product.get("Img"),
-#         "in_stock": product.get("IsInStock"),
-#         "last_updated": datetime.datetime.utcnow()
-#     }
-#
-#
-# def get_mongo_client(uri):
-#     """Create MongoDB client with proper timeout settings"""
-#     return MongoClient(
-#         uri,
-#         serverSelectionTimeoutMS=10000,
-#         socketTimeoutMS=30000,
-#         connectTimeoutMS=10000,
-#         retryWrites=True,
-#         w="majority"
-#     )
-#
-#
-# def main():
-#     # Configuration
-#     username = "yuval056"
-#     password = "yuval963852"
-#     cluster_url = "cluster0.ww37i.mongodb.net"
-#     db_name = "supersmart"
-#     collection_name = "items"
-#
-#     # Escape credentials
-#     escaped_username = quote_plus(username)
-#     escaped_password = quote_plus(password)
-#     mongo_uri = f"mongodb+srv://{escaped_username}:{escaped_password}@{cluster_url}/{db_name}?retryWrites=true&w=majority"
-#
-#     # Directory containing JSON files
-#     data_dir = r'C:\Users\yuval\OneDrive\שולחן העבודה\year c\pythonProject\hezi-hinam' # change it accordign to your path
-#
-#     try:
-#         # Establish connection
-#         print("Connecting to MongoDB...")
-#         client = get_mongo_client(mongo_uri)
-#         client.server_info()  # Test connection
-#         print("✓ Connected successfully")
-#
-#         db = client[db_name]
-#         collection = db[collection_name]
-#
-#         # Clean existing data if needed (optional)
-#         # collection.delete_many({})
-#
-#         # Create non-unique index first
-#         print("Creating indexes...")
-#         collection.create_index("barcode", background=True)
-#         collection.create_index([("category", 1), ("subcategory", 1)], background=True)
-#
-#         # Process files
-#         processed_files = 0
-#         valid_items = 0
-#         skipped_items = 0
-#
-#         print(f"\nProcessing files from: {data_dir}")
-#         for filename in os.listdir(data_dir):
-#             if not filename.endswith('.json'):
-#                 continue
-#
-#             file_path = os.path.join(data_dir, filename)
-#             print(f"\n• Processing {filename}...")
-#
-#             try:
-#                 with open(file_path, 'r', encoding='utf-8') as f:
-#                     data = json.load(f)
-#
-#                     if not data.get("IsOK") or not data.get("Results"):
-#                         print(f"⚠ Invalid structure - skipping")
-#                         continue
-#
-#                     # Prepare bulk operations
-#                     bulk_ops = []
-#
-#                     for subcategory in data["Results"].get("SubCategories", []):
-#                         for product in subcategory.get("Items", []):
-#                             transformed = transform_product(product)
-#                             if not transformed:
-#                                 skipped_items += 1
-#                                 continue
-#
-#                             bulk_ops.append(
-#                                 UpdateOne(
-#                                     {"barcode": transformed["barcode"]},
-#                                     {"$set": transformed},
-#                                     upsert=True
-#                                 )
-#                             )
-#                             valid_items += 1
-#
-#                     # Execute bulk write
-#                     if bulk_ops:
-#                         try:
-#                             result = collection.bulk_write(bulk_ops, ordered=False)
-#                             print(f"  ✓ Inserted/Updated: {result.upserted_count + result.modified_count}")
-#                         except BulkWriteError as bwe:
-#                             print(f"  ⚠ Bulk write errors (continuing): {str(bwe.details)}")
-#
-#                     processed_files += 1
-#
-#             except json.JSONDecodeError as e:
-#                 print(f"⚠ Invalid JSON: {str(e)}")
-#             except Exception as e:
-#                 print(f"⚠ Error processing file: {str(e)}")
-#
-#         # After all data loaded, convert to unique index
-#         print("\nConverting to unique index...")
-#         try:
-#             collection.drop_index("barcode_1")  # Drop existing non-unique
-#             collection.create_index("barcode", unique=True, background=True)
-#             print("✓ Unique index created successfully")
-#         except Exception as e:
-#             print(f"⚠ Could not create unique index: {str(e)}")
-#             print("  Some products may have duplicate/null barcodes")
-#
-#         # Final report
-#         print("\n" + "=" * 50)
-#         print("IMPORT COMPLETE")
-#         print(f"• Processed files: {processed_files}")
-#         print(f"• Valid products processed: {valid_items}")
-#         print(f"• Products skipped (no barcode): {skipped_items}")
-#         print(f"• Total products in collection: {collection.count_documents({})}")
-#
-#         # Check for potential duplicates
-#         duplicates = collection.aggregate([
-#             {"$group": {
-#                 "_id": "$barcode",
-#                 "count": {"$sum": 1},
-#                 "docs": {"$push": "$_id"}
-#             }},
-#             {"$match": {"count": {"$gt": 1}}}
-#         ])
-#
-#         dup_count = 0
-#         for dup in duplicates:
-#             dup_count += 1
-#             if dup_count == 1:
-#                 print("\n⚠ Duplicate barcodes found:")
-#             print(f"- Barcode {dup['_id']} appears {dup['count']} times")
-#
-#         if dup_count == 0:
-#             print("✓ No duplicate barcodes found")
-#         print("=" * 50)
-#
-#
-#
-#     except Exception as e:
-#         print(f"⛔ Fatal error: {str(e)}")
-#     finally:
-#         if 'client' in locals():
-#             client.close()
-#             print("\nDatabase connection closed")
-#
-#
-#
-# if __name__ == "__main__":
-#     main()
-
-
-
 import os
 import json
 import datetime
@@ -190,7 +5,6 @@ from pymongo import MongoClient, UpdateOne
 from pymongo.errors import BulkWriteError
 from urllib.parse import quote_plus
 from bson import ObjectId
-
 
 DEFAULT_STORE_ID = ObjectId("65a4e1e1e1e1e1e1e1e1e1e1")
 
@@ -228,23 +42,21 @@ def main():
     # Escape credentials
     escaped_username = quote_plus(username)
     escaped_password = quote_plus(password)
-    #mongo_uri = f"mongodb+srv://{escaped_username}:{escaped_password}@{cluster_url}/{db_name}?retryWrites=true&w=majority"
+    # mongo_uri = f"mongodb+srv://{escaped_username}:{escaped_password}@{cluster_url}/{db_name}?retryWrites=true&w=majority"
     mongo_uri = "mongodb://localhost:27017/supersmarDB"
-    data_dir = r'C:\Users\gedon\OneDrive\שולחן העבודה\SuperSmart-python\SuperSmart\hezi-hinam'
+    data_dir = r'C:\Users\yuval\OneDrive\שולחן העבודה\year c\SuperSmart\hezi-hinam'
 
     try:
         print("Connecting to MongoDB...")
         client = MongoClient(mongo_uri)
-        client.server_info()  # בדיקת חיבור
+        client.server_info()
         print("✓ Connected successfully")
 
         db = client[db_name]
         collection = db[collection_name]
 
-
         print("Creating indexes...")
         collection.create_index("barcode", unique=True, background=True)
-
 
         processed_files = 0
         valid_items = 0
@@ -267,9 +79,32 @@ def main():
                         continue
 
                     bulk_ops = []
+                    file_items_count = 0
 
-                    for subcategory in data["Results"].get("SubCategories", []):
-                        for product in subcategory.get("Items", []):
+                    # Try processing via SubCategories path first
+                    if data["Results"].get("SubCategories"):
+                        print(f"  Structure: Using SubCategories format")
+                        for subcategory in data["Results"].get("SubCategories", []):
+                            for product in subcategory.get("Items", []):
+                                transformed = transform_product(product)
+                                if not transformed:
+                                    skipped_items += 1
+                                    continue
+
+                                bulk_ops.append(
+                                    UpdateOne(
+                                        {"barcode": transformed["barcode"]},
+                                        {"$set": transformed},
+                                        upsert=True
+                                    )
+                                )
+                                valid_items += 1
+                                file_items_count += 1
+
+                    # Try processing direct Items array if no SubCategories or no items found
+                    if file_items_count == 0 and data["Results"].get("Items"):
+                        print(f"  Structure: Using direct Items array")
+                        for product in data["Results"].get("Items", []):
                             transformed = transform_product(product)
                             if not transformed:
                                 skipped_items += 1
@@ -283,6 +118,131 @@ def main():
                                 )
                             )
                             valid_items += 1
+                            file_items_count += 1
+
+                    # Try Category-based structure (most common in your logs)
+                    if file_items_count == 0 and data["Results"].get("Category"):
+                        print(f"  Structure: Using Category format")
+                        category_data = data["Results"].get("Category", {})
+
+                        # Get products from Category.Items if it exists
+                        for product in category_data.get("Items", []):
+                            transformed = transform_product(product)
+                            if not transformed:
+                                skipped_items += 1
+                                continue
+
+                            bulk_ops.append(
+                                UpdateOne(
+                                    {"barcode": transformed["barcode"]},
+                                    {"$set": transformed},
+                                    upsert=True
+                                )
+                            )
+                            valid_items += 1
+                            file_items_count += 1
+
+                        # Try processing Products array if present
+                        for product in category_data.get("Products", []):
+                            transformed = transform_product(product)
+                            if not transformed:
+                                skipped_items += 1
+                                continue
+
+                            bulk_ops.append(
+                                UpdateOne(
+                                    {"barcode": transformed["barcode"]},
+                                    {"$set": transformed},
+                                    upsert=True
+                                )
+                            )
+                            valid_items += 1
+                            file_items_count += 1
+
+                        # Check for SubCategory (singular) structure
+                        if file_items_count == 0 and category_data.get("SubCategory"):
+                            print(f"  Structure: Using Category.SubCategory format")
+                            subcategories = category_data.get("SubCategory")
+
+                            # Make sure it's a list (sometimes it's a single object)
+                            if not isinstance(subcategories, list):
+                                subcategories = [subcategories]
+
+                            for subcat in subcategories:
+                                # Process Items in each SubCategory
+                                for product in subcat.get("Items", []):
+                                    transformed = transform_product(product)
+                                    if not transformed:
+                                        skipped_items += 1
+                                        continue
+
+                                    bulk_ops.append(
+                                        UpdateOne(
+                                            {"barcode": transformed["barcode"]},
+                                            {"$set": transformed},
+                                            upsert=True
+                                        )
+                                    )
+                                    valid_items += 1
+                                    file_items_count += 1
+
+                                # Also check Products in each SubCategory
+                                for product in subcat.get("Products", []):
+                                    transformed = transform_product(product)
+                                    if not transformed:
+                                        skipped_items += 1
+                                        continue
+
+                                    bulk_ops.append(
+                                        UpdateOne(
+                                            {"barcode": transformed["barcode"]},
+                                            {"$set": transformed},
+                                            upsert=True
+                                        )
+                                    )
+                                    valid_items += 1
+                                    file_items_count += 1
+
+                    # Handle potential other structures
+                    if file_items_count == 0:
+                        print(f"  ⚠ No processable items found in the file")
+                        print(f"  Structure: {list(data['Results'].keys())}")
+
+                        # Dump a sample of the structure for debugging
+                        print(f"  Sample structure:")
+                        if "Category" in data["Results"]:
+                            cat_keys = list(data["Results"]["Category"].keys())
+                            print(f"    Category keys: {cat_keys}")
+
+                            # Check if there's a SubCategory with nested SubCategory
+                            if "SubCategory" in cat_keys:
+                                subcats = data["Results"]["Category"]["SubCategory"]
+                                if not isinstance(subcats, list):
+                                    subcats = [subcats]
+
+                                for i, sc in enumerate(subcats):
+                                    print(f"    SubCategory {i + 1} keys: {list(sc.keys())}")
+
+                                    # Try to find items in a more deeply nested structure
+                                    if "SubCategory" in sc:
+                                        nested_subcats = sc["SubCategory"]
+                                        if not isinstance(nested_subcats, list):
+                                            nested_subcats = [nested_subcats]
+
+                                        print(f"    Found nested SubCategories, processing...")
+                                        for nested_sc in nested_subcats:
+                                            for product in nested_sc.get("Items", []):
+                                                transformed = transform_product(product)
+                                                if transformed:
+                                                    bulk_ops.append(
+                                                        UpdateOne(
+                                                            {"barcode": transformed["barcode"]},
+                                                            {"$set": transformed},
+                                                            upsert=True
+                                                        )
+                                                    )
+                                                    valid_items += 1
+                                                    file_items_count += 1
 
                     if bulk_ops:
                         try:

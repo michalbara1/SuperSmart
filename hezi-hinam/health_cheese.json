@@ -1,0 +1,2001 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/165.png",
+      "SubCategory": {
+        "Id": 11437,
+        "Name": "תחליפי גבינה, מעדנים ורטבים",
+        "Items": [
+          {
+            "Id": 326280,
+            "IsShakil": false,
+            "BarKod": "453866",
+            "Name": "נטורינה תחליף מרגרינה עשיר בשמן קוקוס כשל\"פ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1673442553/Production/453866/0a51fd6e-70ab-427b-abde-aed6b8a175c0.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1673442553/Production/453866/0a51fd6e-70ab-427b-abde-aed6b8a175c0.jpg",
+            "CategoryId": 78,
+            "CategoryName": "מוצרי חלב וביצים",
+            "SubCategoryId": 10868,
+            "SubCategoryName": "חמאה ומרגרינה",
+            "ManufacturerId": 1990,
+            "ManufacturerName": "שמרית",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.5,
+            "PricePerUnitDesc": "4.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.0,
+            "Price_Regular": 9.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 453866,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1673442553/Production/453866/0a51fd6e-70ab-427b-abde-aed6b8a175c0.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1673442553/Production/453866/0a51fd6e-70ab-427b-abde-aed6b8a175c0.jpg",
+                "Image_File_Name": "0a51fd6e-70ab-427b-abde-aed6b8a175c0.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1673442553/Production/453866/0a51fd6e-70ab-427b-abde-aed6b8a175c0.jpg"
+              },
+              {
+                "Barcode": 453866,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1728196102/Production/453866/7bdabcf3-58b2-4bb0-adef-1e1da83d9c3c.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728196102/Production/453866/7bdabcf3-58b2-4bb0-adef-1e1da83d9c3c.jpg",
+                "Image_File_Name": "7bdabcf3-58b2-4bb0-adef-1e1da83d9c3c.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1728196102/Production/453866/7bdabcf3-58b2-4bb0-adef-1e1da83d9c3c.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "שימרית ",
+            "ORank": 0.00698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1673442553/Production/453866/0a51fd6e-70ab-427b-abde-aed6b8a175c0.jpg"
+          },
+          {
+            "Id": 499478,
+            "IsShakil": false,
+            "BarKod": "7290000453859",
+            "Name": "נטורינה בטעם חמאה - ממרח משמנים צמחיים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1708436577/Production/7290000453859/10af90bc-eaf1-4a27-9a22-9f812269d6f3.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708436577/Production/7290000453859/10af90bc-eaf1-4a27-9a22-9f812269d6f3.jpg",
+            "CategoryId": 78,
+            "CategoryName": "מוצרי חלב וביצים",
+            "SubCategoryId": 10868,
+            "SubCategoryName": "חמאה ומרגרינה",
+            "ManufacturerId": 1990,
+            "ManufacturerName": "שמרית",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.5,
+            "PricePerUnitDesc": "4.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.0,
+            "Price_Regular": 9.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290000453859,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1708436577/Production/7290000453859/10af90bc-eaf1-4a27-9a22-9f812269d6f3.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708436577/Production/7290000453859/10af90bc-eaf1-4a27-9a22-9f812269d6f3.jpg",
+                "Image_File_Name": "10af90bc-eaf1-4a27-9a22-9f812269d6f3.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1708436577/Production/7290000453859/10af90bc-eaf1-4a27-9a22-9f812269d6f3.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שמרית  נטורינה  תחליף  מרגרינה  עשיר  בשמן קוקוס  לאפייה  ובישול  200 גרם ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1708436577/Production/7290000453859/10af90bc-eaf1-4a27-9a22-9f812269d6f3.jpg"
+          },
+          {
+            "Id": 296483,
+            "IsShakil": false,
+            "BarKod": "7290109640020",
+            "Name": "גוש טבעוני בטעם מוצרלה 18%",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290109640020.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290109640020.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2158,
+            "ManufacturerName": "MASHUמשו",
+            "MidaKod": "גרם",
+            "UnitSize": 300.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.03,
+            "PricePerUnitDesc": "7.03 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "300 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 21.1,
+            "Price_Regular": 21.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290109640020,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7290109640020.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290109640020.jpg",
+                "Image_File_Name": "7290109640020.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290109640020.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "משומשו דל לקטוז ",
+            "ORank": 0.00089798,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290109640020.jpg"
+          },
+          {
+            "Id": 284151,
+            "IsShakil": false,
+            "BarKod": "7297488099890",
+            "Name": "פרוסות בסגנון קלאסי 9% שומן טבעוני",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1715193430/Production/7297488099890/7297488099890_P109-09-2021_11-04-49.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193430/Production/7297488099890/7297488099890_P109-09-2021_11-04-49.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2158,
+            "ManufacturerName": "MASHUמשו",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 10.05,
+            "PricePerUnitDesc": "10.05 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 20.1,
+            "Price_Regular": 20.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7297488099890,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1715193430/Production/7297488099890/7297488099890_P109-09-2021_11-04-49.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193430/Production/7297488099890/7297488099890_P109-09-2021_11-04-49.jpg",
+                "Image_File_Name": "7297488099890_P109-09-2021_11-04-49.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1715193430/Production/7297488099890/7297488099890_P109-09-2021_11-04-49.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "משומשו טבעוני דל לקטוז פרוסות  בסגנון  קלאסי  9%  200  גרם",
+            "ORank": 0.000249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193430/Production/7297488099890/7297488099890_P109-09-2021_11-04-49.jpg"
+          },
+          {
+            "Id": 377207,
+            "IsShakil": false,
+            "BarKod": "7290109640464",
+            "Name": "פתיתים טבעוניים בסגנון פרמז'ן ללא לקטוז",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1715193322/Production/7290109640464/7290109640464_P109-09-2021_10-42-32.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193322/Production/7290109640464/7290109640464_P109-09-2021_10-42-32.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2158,
+            "ManufacturerName": "MASHUמשו",
+            "MidaKod": "גרם",
+            "UnitSize": 150.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 14.07,
+            "PricePerUnitDesc": "14.07 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "150 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 21.1,
+            "Price_Regular": 21.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290109640464,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1715193322/Production/7290109640464/7290109640464_P109-09-2021_10-42-32.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193322/Production/7290109640464/7290109640464_P109-09-2021_10-42-32.jpg",
+                "Image_File_Name": "7290109640464_P109-09-2021_10-42-32.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1715193322/Production/7290109640464/7290109640464_P109-09-2021_10-42-32.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " פתיתים  טבעוניים  בסגנון  פרמז'ן  150  גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193322/Production/7290109640464/7290109640464_P109-09-2021_10-42-32.jpg"
+          },
+          {
+            "Id": 356238,
+            "IsShakil": false,
+            "BarKod": "7290015599078",
+            "Name": "פרוסות צהובה טבעונית בתוספת עשבי תיבול",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669165913/Production/7290015599078/7290015599078_P103-22-2020_08-45-14.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669165913/Production/7290015599078/7290015599078_P103-22-2020_08-45-14.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2436,
+            "ManufacturerName": "וגה מוצרים טבעוניים VEGA",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 12.1,
+            "PricePerUnitDesc": "12.10 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 24.2,
+            "Price_Regular": 24.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290015599078,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669165913/Production/7290015599078/7290015599078_P103-22-2020_08-45-14.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669165913/Production/7290015599078/7290015599078_P103-22-2020_08-45-14.jpg",
+                "Image_File_Name": "7290015599078_P103-22-2020_08-45-14.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669165913/Production/7290015599078/7290015599078_P103-22-2020_08-45-14.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " צהובה  עשבי תיבול  טבעונית  וגה  מוצרים  טבעוניים  Herbs  תיבול  Herbs   ",
+            "ORank": 0.000249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669165913/Production/7290015599078/7290015599078_P103-22-2020_08-45-14.jpg"
+          },
+          {
+            "Id": 285635,
+            "IsShakil": false,
+            "BarKod": "5202390015618",
+            "Name": "פרוסות הצהובה הטבעונית בטעם אורגינל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643468442/Production/5202390015618/5202390015618_p102-14-2021_21-08-20.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643468442/Production/5202390015618/5202390015618_p102-14-2021_21-08-20.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2164,
+            "ManufacturerName": "ויולייף Violife",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 12.6,
+            "PricePerUnitDesc": "12.60 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 25.2,
+            "Price_Regular": 25.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5202390015618,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643468442/Production/5202390015618/5202390015618_p102-14-2021_21-08-20.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643468442/Production/5202390015618/5202390015618_p102-14-2021_21-08-20.jpg",
+                "Image_File_Name": "5202390015618_p102-14-2021_21-08-20.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643468442/Production/5202390015618/5202390015618_p102-14-2021_21-08-20.jpg"
+              },
+              {
+                "Barcode": 5202390015618,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1729018252/Production/5202390015618/5202390015618H10-14-2024_05-15-19.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1729018252/Production/5202390015618/5202390015618H10-14-2024_05-15-19.jpg",
+                "Image_File_Name": "5202390015618H10-14-2024_05-15-19.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1729018252/Production/5202390015618/5202390015618H10-14-2024_05-15-19.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "טבעוני טבעונית ויולייף  הצהובה הטבעונית  פרוסות  תחליב שומן צמחי  בטעם אורגינלי  200 גרם  גבינה טבעונית  טבעוני  טבעונית",
+            "ORank": 0.000648541,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643468442/Production/5202390015618/5202390015618_p102-14-2021_21-08-20.jpg"
+          },
+          {
+            "Id": 292666,
+            "IsShakil": false,
+            "BarKod": "5202390016325",
+            "Name": "פרוסות הצהובה הטבעונית בסגנון מעושן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669147754/Production/5202390016325/5202390016325_p102-14-2021_21-04-38.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669147754/Production/5202390016325/5202390016325_p102-14-2021_21-04-38.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2164,
+            "ManufacturerName": "ויולייף Violife",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 12.6,
+            "PricePerUnitDesc": "12.60 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 25.2,
+            "Price_Regular": 25.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5202390016325,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669147754/Production/5202390016325/5202390016325_p102-14-2021_21-04-38.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669147754/Production/5202390016325/5202390016325_p102-14-2021_21-04-38.jpg",
+                "Image_File_Name": "5202390016325_p102-14-2021_21-04-38.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669147754/Production/5202390016325/5202390016325_p102-14-2021_21-04-38.jpg"
+              },
+              {
+                "Barcode": 5202390016325,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1729018337/Production/5202390016325/5202390016325H10-14-2024_05-21-08.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1729018337/Production/5202390016325/5202390016325H10-14-2024_05-21-08.jpg",
+                "Image_File_Name": "5202390016325H10-14-2024_05-21-08.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1729018337/Production/5202390016325/5202390016325H10-14-2024_05-21-08.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ויולייף  הצהובה הטבעונית  פרוסות  תחליב שומן צמחי  בטעם אורגינלי  200 גרם  גבינה טבעונית  טבעוני  טבעונית",
+            "ORank": 0.000199551,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669147754/Production/5202390016325/5202390016325_p102-14-2021_21-04-38.jpg"
+          },
+          {
+            "Id": 353049,
+            "IsShakil": false,
+            "BarKod": "7290109640402",
+            "Name": "ממרח בטעם טבעי על בסיס רכיבי קוקוס 9%",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290109640402.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290109640402.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2158,
+            "ManufacturerName": "MASHUמשו",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 9.05,
+            "PricePerUnitDesc": "9.05 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.1,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290109640402,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7290109640402.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290109640402.jpg",
+                "Image_File_Name": "7290109640402.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290109640402.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "גבינת שמנת משומשו ",
+            "ORank": 0.000349214,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290109640402.jpg"
+          },
+          {
+            "Id": 363443,
+            "IsShakil": false,
+            "BarKod": "7290110324711",
+            "Name": "ממרח סויה בטעם טבעי 9% כשל\"פ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1707056736/Production/7290110324711/7290110324711_P101-31-2024_10-08-12.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707056736/Production/7290110324711/7290110324711_P101-31-2024_10-08-12.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2520,
+            "ManufacturerName": "תנובה  Alternative",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.4,
+            "PricePerUnitDesc": "4.40 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290110324711,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1707056736/Production/7290110324711/7290110324711_P101-31-2024_10-08-12.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707056736/Production/7290110324711/7290110324711_P101-31-2024_10-08-12.jpg",
+                "Image_File_Name": "7290110324711_P101-31-2024_10-08-12.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1707056736/Production/7290110324711/7290110324711_P101-31-2024_10-08-12.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אלטרנטיב  תנובה אלטרנטיב  ALTERNATIVE  סויה  ממרח  ממרח סויה  ממרח סויה תנובה  ממרח סויה אלטרנטיב  ממרח סויה תנובה אלטרנטיב  9%  ממרח סויה 9%  ממרח סויה בטעם טבעי  ממרח סויה טבעי  ממרח סויה בטעם טבעי 9%  ממרח סויה טבעי 9%",
+            "ORank": 0.00548765,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1707056736/Production/7290110324711/7290110324711_P101-31-2024_10-08-12.jpg"
+          },
+          {
+            "Id": 145136,
+            "IsShakil": false,
+            "BarKod": "5411188096108",
+            "Name": "מוצר סויה לבישול",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642683915/Production/5411188096108/355946_5411188096108_2.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683915/Production/5411188096108/355946_5411188096108_2.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1014,
+            "ManufacturerName": "אלפרו Alpro",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 4.4,
+            "PricePerUnitDesc": "4.40 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "250 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 5411188096108,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683915/Production/5411188096108/355946_5411188096108_2.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683915/Production/5411188096108/355946_5411188096108_2.jpg",
+                "Image_File_Name": "355946_5411188096108_2.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683915/Production/5411188096108/355946_5411188096108_2.jpg"
+              },
+              {
+                "Barcode": 5411188096108,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683915/Production/5411188096108/355946_5411188096108.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683915/Production/5411188096108/355946_5411188096108.jpg",
+                "Image_File_Name": "355946_5411188096108.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683915/Production/5411188096108/355946_5411188096108.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שמנת צמחית לבישול סויה אלפרו סויה לבישול  שמנת צמחית  סויה לבישול  אלפרו לבישול  סויה צמחי  סויה לבישול  שמנת לבישול  תחליף חלב לבישול",
+            "ORank": 0.00384136,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683915/Production/5411188096108/355946_5411188096108_2.jpg"
+          },
+          {
+            "Id": 447856,
+            "IsShakil": false,
+            "BarKod": "7290110329792",
+            "Name": "מעדן סויה BIO עם אפרסק כשל\"פ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1717093805/Production/7290110329792/729011032979205-30-2024_06-35-37.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717093805/Production/7290110329792/729011032979205-30-2024_06-35-37.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2520,
+            "ManufacturerName": "תנובה  Alternative",
+            "MidaKod": "גרם",
+            "UnitSize": 150.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.53,
+            "PricePerUnitDesc": "3.53 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "150 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 5.3,
+            "Price_Regular": 5.3,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86804,
+              "MivzaDesc": "2 ב- 8",
+              "MivzaText": "מעדן סויה\n2 ב 8 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290110329792,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1717093805/Production/7290110329792/729011032979205-30-2024_06-35-37.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717093805/Production/7290110329792/729011032979205-30-2024_06-35-37.jpg",
+                "Image_File_Name": "729011032979205-30-2024_06-35-37.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1717093805/Production/7290110329792/729011032979205-30-2024_06-35-37.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00429035,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717093805/Production/7290110329792/729011032979205-30-2024_06-35-37.jpg"
+          },
+          {
+            "Id": 328246,
+            "IsShakil": false,
+            "BarKod": "7290014760134",
+            "Name": "מעדן סויה בטעם וניל כשל\"פ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1743357762/Production/7290014760134/7290014760134_P103-30-2025_09-24-17.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1743357762/Production/7290014760134/7290014760134_P103-30-2025_09-24-17.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2520,
+            "ManufacturerName": "תנובה  Alternative",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 125.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 3.68,
+            "PricePerUnitDesc": "3.68 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "125 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 4.6,
+            "Price_Regular": 4.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86806,
+              "MivzaDesc": "2 ב- 7",
+              "MivzaText": "מעדן סויה בטעם שוקולד/וניל\n2 ב 7 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290014760134,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1743357762/Production/7290014760134/7290014760134_P103-30-2025_09-24-17.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1743357762/Production/7290014760134/7290014760134_P103-30-2025_09-24-17.jpg",
+                "Image_File_Name": "7290014760134_P103-30-2025_09-24-17.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1743357762/Production/7290014760134/7290014760134_P103-30-2025_09-24-17.jpg"
+              },
+              {
+                "Barcode": 7290014760134,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1743357762/Production/7290014760134/7290014760134_S1_1503-30-2025_09-24-18.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1743357762/Production/7290014760134/7290014760134_S1_1503-30-2025_09-24-18.jpg",
+                "Image_File_Name": "7290014760134_S1_1503-30-2025_09-24-18.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1743357762/Production/7290014760134/7290014760134_S1_1503-30-2025_09-24-18.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " סויה  מעדן  מעדן סויה  וניל  מעדן מעודן  יוגורט מעודן  מעדן סויה וניל  מעדן סויה בטעם וניל   מעדן סויה טעם וניל  אלטרנטיב  תנובה אלטרנטיב  תנובה",
+            "ORank": 0.00434023,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1743357762/Production/7290014760134/7290014760134_P103-30-2025_09-24-17.jpg"
+          },
+          {
+            "Id": 449353,
+            "IsShakil": false,
+            "BarKod": "5411188513483",
+            "Name": "אלפרו סויה לבישול",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1673174154/Production/5411188513483/da8e7135-4d51-47a5-b4e5-de6b336508a5.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1673174154/Production/5411188513483/da8e7135-4d51-47a5-b4e5-de6b336508a5.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1014,
+            "ManufacturerName": "אלפרו Alpro",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 4.4,
+            "PricePerUnitDesc": "4.40 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "250 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 5411188513483,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1673174154/Production/5411188513483/da8e7135-4d51-47a5-b4e5-de6b336508a5.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1673174154/Production/5411188513483/da8e7135-4d51-47a5-b4e5-de6b336508a5.jpg",
+                "Image_File_Name": "da8e7135-4d51-47a5-b4e5-de6b336508a5.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1673174154/Production/5411188513483/da8e7135-4d51-47a5-b4e5-de6b336508a5.jpg"
+              },
+              {
+                "Barcode": 5411188513483,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669111514/Production/5411188513483/362311_5411188513483.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669111514/Production/5411188513483/362311_5411188513483.jpg",
+                "Image_File_Name": "362311_5411188513483.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669111514/Production/5411188513483/362311_5411188513483.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אלפרו  ALPRO  שמנת צימחית  שמנת צמחית  שמנת לבישול  אלפרו לבישול  סויה לבישול  קצפת  שמנת  טבעוני  צמחוני  תחליף שמנת לבישול  שמנת ללא חלב",
+            "ORank": 0.000598653,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1673174154/Production/5411188513483/da8e7135-4d51-47a5-b4e5-de6b336508a5.jpg"
+          },
+          {
+            "Id": 376815,
+            "IsShakil": false,
+            "BarKod": "7290110325305",
+            "Name": "מעדן סויה GO במתיקות מעודנת 3% כשל\"פ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1728518300/Production/7290110325305/7290110325305_S1_1510-09-2024_13-01-36.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518300/Production/7290110325305/7290110325305_S1_1510-09-2024_13-01-36.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1573,
+            "ManufacturerName": "תנובה",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.2,
+            "PricePerUnitDesc": "3.20 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 6.4,
+            "Price_Regular": 6.4,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "ללא חלב, ללא גלוטן, 20 גרם חלבון בגביע",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290110325305,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1728518300/Production/7290110325305/7290110325305_S1_1510-09-2024_13-01-36.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518300/Production/7290110325305/7290110325305_S1_1510-09-2024_13-01-36.jpg",
+                "Image_File_Name": "7290110325305_S1_1510-09-2024_13-01-36.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1728518300/Production/7290110325305/7290110325305_S1_1510-09-2024_13-01-36.jpg"
+              },
+              {
+                "Barcode": 7290110325305,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1728518300/Production/7290110325305/7290110325305_P110-09-2024_13-01-36.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518300/Production/7290110325305/7290110325305_P110-09-2024_13-01-36.jpg",
+                "Image_File_Name": "7290110325305_P110-09-2024_13-01-36.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1728518300/Production/7290110325305/7290110325305_P110-09-2024_13-01-36.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מעדן גו עם חלבון טבעוני יופלה  גו יוגורט  תנובה  חלבון  סויה  GO  יוגורט  יוגורט גו  יופלה גו  יוגורט GO  יופלה GO  מעדן  מעדן סויה  20 גרם חלבון  מעדן סויה 20 גרם חלבון  מתיקות מעודנת  מעדן מעודן  יוגורט מעודן  מעדן סויה מעודן  מעדן סויה במתיקות מעודנת  20 גרם חלבון בגביע  אלטרנטיב  תנובה אלטרנטיב  תנובה",
+            "ORank": 0.0056872,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518300/Production/7290110325305/7290110325305_S1_1510-09-2024_13-01-36.jpg"
+          },
+          {
+            "Id": 376814,
+            "IsShakil": false,
+            "BarKod": "7290110325312",
+            "Name": "מעדן סויה GO בטעם תות כשל\"פ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1728518302/Production/7290110325312/7290110325312_S1_1510-09-2024_12-38-38.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518302/Production/7290110325312/7290110325312_S1_1510-09-2024_12-38-38.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1573,
+            "ManufacturerName": "תנובה",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.2,
+            "PricePerUnitDesc": "3.20 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 6.4,
+            "Price_Regular": 6.4,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "ללא חלב, ללא גלוטן, 20 גרם חלבון בגביע",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290110325312,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1728518302/Production/7290110325312/7290110325312_S1_1510-09-2024_12-38-38.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518302/Production/7290110325312/7290110325312_S1_1510-09-2024_12-38-38.jpg",
+                "Image_File_Name": "7290110325312_S1_1510-09-2024_12-38-38.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1728518302/Production/7290110325312/7290110325312_S1_1510-09-2024_12-38-38.jpg"
+              },
+              {
+                "Barcode": 7290110325312,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1728518302/Production/7290110325312/7290110325312_P110-09-2024_12-38-39.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518302/Production/7290110325312/7290110325312_P110-09-2024_12-38-39.jpg",
+                "Image_File_Name": "7290110325312_P110-09-2024_12-38-39.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1728518302/Production/7290110325312/7290110325312_P110-09-2024_12-38-39.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "מעדן גו עם חלבון טבעוני יופלה  גו יוגורט  תנובה  חלבון  סויה  GO  יוגורט  יוגורט גו  יופלה גו  יוגורט GO  יופלה GO  מעדן  מעדן סויה  20 גרם חלבון  מעדן סויה 20 גרם חלבון  תות  מעדן מעודן  יוגורט מעודן  מעדן סויה מעודן  מעדן סויה תות  20 גרם חלבון בגביע  מעדן סויה בטעם תות  מעדן סויה טעם תות  פרי  פירות  חתיכות פרי  אלטרנטיב  תנובה אלטרנטיב  תנובה",
+            "ORank": 0.00429035,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1728518302/Production/7290110325312/7290110325312_S1_1510-09-2024_12-38-38.jpg"
+          },
+          {
+            "Id": 1870,
+            "IsShakil": false,
+            "BarKod": "5411188094159",
+            "Name": "רביעיית מעדן סויה בטעם שוקו מריר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642683909/Production/5411188094159/355906_5411188094159.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683909/Production/5411188094159/355906_5411188094159.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1014,
+            "ManufacturerName": "אלפרו Alpro",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.82,
+            "PricePerUnitDesc": "3.82 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 125 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 19.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5411188094159,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683909/Production/5411188094159/355906_5411188094159.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683909/Production/5411188094159/355906_5411188094159.jpg",
+                "Image_File_Name": "355906_5411188094159.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683909/Production/5411188094159/355906_5411188094159.jpg"
+              },
+              {
+                "Barcode": 5411188094159,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683909/Production/5411188094159/355906_5411188094159_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683909/Production/5411188094159/355906_5411188094159_1.jpg",
+                "Image_File_Name": "355906_5411188094159_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683909/Production/5411188094159/355906_5411188094159_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אלפרו  מעדן סויה שוקולד מריר  מעדן סויה בטעם שוקולד מריר  מעדן שוקולד מריר  מעדן בטעם שוקולד מריר  מעדן ללא חלב  מעדן טבעוני \r\n\r\n\r\n",
+            "ORank": 0.00174607,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683909/Production/5411188094159/355906_5411188094159.jpg"
+          },
+          {
+            "Id": 5833,
+            "IsShakil": false,
+            "BarKod": "54051140",
+            "Name": "רביעיית מעדן סויה בטעם וניל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642683884/Production/54051140/355910_54051140.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683884/Production/54051140/355910_54051140.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1014,
+            "ManufacturerName": "אלפרו Alpro",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.82,
+            "PricePerUnitDesc": "3.82 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 125 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 19.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 54051140,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683884/Production/54051140/355910_54051140.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683884/Production/54051140/355910_54051140.jpg",
+                "Image_File_Name": "355910_54051140.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683884/Production/54051140/355910_54051140.jpg"
+              },
+              {
+                "Barcode": 54051140,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683884/Production/54051140/355910_54051140_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683884/Production/54051140/355910_54051140_1.jpg",
+                "Image_File_Name": "355910_54051140_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683884/Production/54051140/355910_54051140_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אלפרו  מעדן סויה בטעם וניל  מעדן סויה וניל  מעדן וניל  מעדן בטעם וניל  מעדן ללא חלב  מעדן טבעוני\r\n",
+            "ORank": 0.00114742,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683884/Production/54051140/355910_54051140.jpg"
+          },
+          {
+            "Id": 4822,
+            "IsShakil": false,
+            "BarKod": "54051157",
+            "Name": "רביעיית מעדן סויה בטעם שוקו",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642683891/Production/54051157/355908_54051157.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683891/Production/54051157/355908_54051157.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1014,
+            "ManufacturerName": "אלפרו Alpro",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.82,
+            "PricePerUnitDesc": "3.82 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 125 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 19.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 54051157,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683891/Production/54051157/355908_54051157.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683891/Production/54051157/355908_54051157.jpg",
+                "Image_File_Name": "355908_54051157.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683891/Production/54051157/355908_54051157.jpg"
+              },
+              {
+                "Barcode": 54051157,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642683891/Production/54051157/355908_54051157_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683891/Production/54051157/355908_54051157_1.jpg",
+                "Image_File_Name": "355908_54051157_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642683891/Production/54051157/355908_54051157_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אלפרו מעדן סויה בטעם שוקולד  מעדן סויה שוקולד  מעדן שוקולד  מעדן בטעם שוקולד  מעדן ללא חלב  מעדן טבעוני\r\n",
+            "ORank": 0.000997755,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642683891/Production/54051157/355908_54051157.jpg"
+          },
+          {
+            "Id": 496523,
+            "IsShakil": false,
+            "BarKod": "7290019167082",
+            "Name": "מלבי טבעוני",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1700555547/Production/7290019167082/c9df6cd3-6666-4b2c-b519-d418081f87ee.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1700555547/Production/7290019167082/c9df6cd3-6666-4b2c-b519-d418081f87ee.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2600,
+            "ManufacturerName": "עדן קינוחים  Eden",
+            "MidaKod": "גרם",
+            "UnitSize": 150.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.0,
+            "PricePerUnitDesc": "6.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "150 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 7.5,
+            "Price_Regular": 9.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290019167082,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1700555547/Production/7290019167082/c9df6cd3-6666-4b2c-b519-d418081f87ee.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1700555547/Production/7290019167082/c9df6cd3-6666-4b2c-b519-d418081f87ee.jpg",
+                "Image_File_Name": "c9df6cd3-6666-4b2c-b519-d418081f87ee.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1700555547/Production/7290019167082/c9df6cd3-6666-4b2c-b519-d418081f87ee.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1700555547/Production/7290019167082/c9df6cd3-6666-4b2c-b519-d418081f87ee.jpg"
+          },
+          {
+            "Id": 461638,
+            "IsShakil": false,
+            "BarKod": "7290116531885",
+            "Name": "ממרח טבעוני ויגן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669130628/Production/7290116531885/7290116531885.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669130628/Production/7290116531885/7290116531885.png",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 1130,
+            "ManufacturerName": "הלמנס hellmann's",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.02,
+            "PricePerUnitDesc": "3.02 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290116531885,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669130628/Production/7290116531885/7290116531885.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669130628/Production/7290116531885/7290116531885.png",
+                "Image_File_Name": "7290116531885.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669130628/Production/7290116531885/7290116531885.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אלף האיים הלמנז הלמנס הלמנ'ס ויניגרט ממרח ממרח פסטו פסטו רוב לבלט רוטב רוטב אלף האיים רוטב אלף האיים לסלט רוטב הלמנס רוטב ויניגרט רוטב חרדל רוטב חרדל ודבש רוטב לסלט רוטב לסלט הלמנס רוטב סלט רוטב סלט הלמנס רוטב שום רוטב שום הלמנס רוטב שום לסלט רטבים לסלט תיבול",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669130628/Production/7290116531885/7290116531885.png"
+          },
+          {
+            "Id": 429602,
+            "IsShakil": false,
+            "BarKod": "7290109640648",
+            "Name": "משומשו ממרח בטעם חמאה על בסיס שמן קוקוס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1715193337/Production/7290109640648/7290109640648_P109-13-2021_10-51-02.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193337/Production/7290109640648/7290109640648_P109-13-2021_10-51-02.jpg",
+            "CategoryId": 129,
+            "CategoryName": "הצמחוניה",
+            "SubCategoryId": 11437,
+            "SubCategoryName": "תחליפי גבינה, מעדנים ורטבים",
+            "ManufacturerId": 2158,
+            "ManufacturerName": "MASHUמשו",
+            "MidaKod": "גרם",
+            "UnitSize": 150.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 8.73,
+            "PricePerUnitDesc": "8.73 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "150 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290109640648,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1715193337/Production/7290109640648/7290109640648_P109-13-2021_10-51-02.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193337/Production/7290109640648/7290109640648_P109-13-2021_10-51-02.jpg",
+                "Image_File_Name": "7290109640648_P109-13-2021_10-51-02.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1715193337/Production/7290109640648/7290109640648_P109-13-2021_10-51-02.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " MASHUמשו  ממרח  בטעם  חמאה  150 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1715193337/Production/7290109640648/7290109640648_P109-13-2021_10-51-02.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 2158,
+            "Name": "MASHUמשו"
+          },
+          {
+            "Id": 1014,
+            "Name": "אלפרו Alpro"
+          },
+          {
+            "Id": 1130,
+            "Name": "הלמנס hellmann's"
+          },
+          {
+            "Id": 2436,
+            "Name": "וגה מוצרים טבעוניים VEGA"
+          },
+          {
+            "Id": 2164,
+            "Name": "ויולייף Violife"
+          },
+          {
+            "Id": 2600,
+            "Name": "עדן קינוחים  Eden"
+          },
+          {
+            "Id": 1990,
+            "Name": "שמרית"
+          },
+          {
+            "Id": 1573,
+            "Name": "תנובה"
+          },
+          {
+            "Id": 2520,
+            "Name": "תנובה  Alternative"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

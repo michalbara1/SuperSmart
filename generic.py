@@ -5,7 +5,7 @@ import zipfile
 import shutil
 import json
 import xmltodict
-from datetime import datetime
+import datetime
 from abc import ABC, abstractmethod
 
 from pymongo import MongoClient
@@ -15,7 +15,7 @@ from selenium.webdriver.common.by import By
 
 
 class WebsiteDownloader(ABC):
-    def __init__(self, site_name, mongo_uri="mongodb+srv://yuval056:yuval963852@cluster0.ww37i.mongodb.net/",
+    def __init__(self, site_name, mongo_uri="mongodb://localhost:27017/supersmarDB",
                  db_name="supersmart"):
         self.site_name = site_name
         self.client = MongoClient(mongo_uri)

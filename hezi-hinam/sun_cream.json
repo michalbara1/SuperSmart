@@ -1,0 +1,716 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/20.png",
+      "SubCategory": {
+        "Id": 11599,
+        "Name": "הגנה מהשמש",
+        "Items": [
+          {
+            "Id": 313851,
+            "IsShakil": false,
+            "BarKod": "7290017062105",
+            "Name": "ג'ל אלוורה להרגעה ורענון העור",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290017062105.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290017062105.jpg",
+            "CategoryId": 68,
+            "CategoryName": "היגיינה וטיפוח",
+            "SubCategoryId": 11201,
+            "SubCategoryName": "טיפוח הגוף",
+            "ManufacturerId": 2144,
+            "ManufacturerName": "פרפקט Perfect",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 7.95,
+            "PricePerUnitDesc": "7.95 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "200 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017062105,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7290017062105.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290017062105.jpg",
+                "Image_File_Name": "7290017062105.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290017062105.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "ירוק ",
+            "ORank": 0.000299327,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290017062105.jpg"
+          },
+          {
+            "Id": 291591,
+            "IsShakil": false,
+            "BarKod": "7290015848978",
+            "Name": "אולטרסול קרם הגנה לפנים SPF 30",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1731266824/Production/7290015848978/729001584897804-24-2024_13-22-49.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731266824/Production/7290015848978/729001584897804-24-2024_13-22-49.jpg",
+            "CategoryId": 68,
+            "CategoryName": "היגיינה וטיפוח",
+            "SubCategoryId": 11599,
+            "SubCategoryName": "הגנה מהשמש",
+            "ManufacturerId": 1097,
+            "ManufacturerName": "ד\"ר פישר Dr fischer",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 75.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 44.27,
+            "PricePerUnitDesc": "44.27 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "75 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 29.9,
+            "Price_Regular": 33.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290015848978,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731266824/Production/7290015848978/729001584897804-24-2024_13-22-49.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731266824/Production/7290015848978/729001584897804-24-2024_13-22-49.jpg",
+                "Image_File_Name": "729001584897804-24-2024_13-22-49.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731266824/Production/7290015848978/729001584897804-24-2024_13-22-49.jpg"
+              },
+              {
+                "Barcode": 7290015848978,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731266824/Production/7290015848978/7290015848978_group04-24-2024_13-22-06.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731266824/Production/7290015848978/7290015848978_group04-24-2024_13-22-06.jpg",
+                "Image_File_Name": "7290015848978_group04-24-2024_13-22-06.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731266824/Production/7290015848978/7290015848978_group04-24-2024_13-22-06.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "הבחירה של רופאי העור - 1 עפ\"י סקר שנערך במכון רושינק בקרב רופאי עור, ספטמבר 2023",
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שמש דוקטור קרם פנים  30  anti aging  מרקם קל  נספג במהירות  לא דביק  לא שמנוני  דר פישר",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731266824/Production/7290015848978/729001584897804-24-2024_13-22-49.jpg"
+          },
+          {
+            "Id": 291727,
+            "IsShakil": false,
+            "BarKod": "7290015848923",
+            "Name": "אולטרסול תחליב הגנה SPF 30",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1717956086/Production/7290015848923/729001584892306-09-2024_15-26-07.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717956086/Production/7290015848923/729001584892306-09-2024_15-26-07.jpg",
+            "CategoryId": 68,
+            "CategoryName": "היגיינה וטיפוח",
+            "SubCategoryId": 11599,
+            "SubCategoryName": "הגנה מהשמש",
+            "ManufacturerId": 1097,
+            "ManufacturerName": "ד\"ר פישר Dr fischer",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 22.16,
+            "PricePerUnitDesc": "22.16 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "250 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 44.9,
+            "Price_Regular": 55.4,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290015848923,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1717956086/Production/7290015848923/729001584892306-09-2024_15-26-07.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717956086/Production/7290015848923/729001584892306-09-2024_15-26-07.jpg",
+                "Image_File_Name": "729001584892306-09-2024_15-26-07.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1717956086/Production/7290015848923/729001584892306-09-2024_15-26-07.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "1. הבחירה של רופאי העור- עפ\"י סקר שנערך במכון רושניק בקרב רופאי העור בישראל, ספטמבר 2023",
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "קרם שמש דוקטור דר' פישר  אולטרסול  מרקם קל  נספג במהירות  לא דביק  לא שמנוני",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717956086/Production/7290015848923/729001584892306-09-2024_15-26-07.jpg"
+          },
+          {
+            "Id": 311597,
+            "IsShakil": false,
+            "BarKod": "7290016621495",
+            "Name": "אולטרסול תחליב הגנה לילדים +50 SPF",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-24.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-24.jpg",
+            "CategoryId": 68,
+            "CategoryName": "היגיינה וטיפוח",
+            "SubCategoryId": 11599,
+            "SubCategoryName": "הגנה מהשמש",
+            "ManufacturerId": 1097,
+            "ManufacturerName": "ד\"ר פישר Dr fischer",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 26.2,
+            "PricePerUnitDesc": "26.20 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "250 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 65.5,
+            "Price_Regular": 65.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290016621495,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-24.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-24.jpg",
+                "Image_File_Name": "729001662149504-24-2024_14-08-24.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-24.jpg"
+              },
+              {
+                "Barcode": 7290016621495,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-40.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-40.jpg",
+                "Image_File_Name": "729001662149504-24-2024_14-08-40.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-40.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "1. הבחירה של רופאי העור- עפ\"י סקר שנערך במכון רושניק בקרב רופאי העור בישראל, ספטמבר 2023",
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "קרם שמש דוקטור דר' פישר  אולטרסול  קידס  מרקם קל  נספג במהירות  לא דביק  לא שמנוני",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1713981642/Production/7290016621495/729001662149504-24-2024_14-08-24.jpg"
+          },
+          {
+            "Id": 388331,
+            "IsShakil": false,
+            "BarKod": "7290017917610",
+            "Name": "אולטרסול Spectrum ספריי תחליבי +SPF 50",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1718560953/Production/7290017917610/729001791761006-16-2024_15-01-09.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1718560953/Production/7290017917610/729001791761006-16-2024_15-01-09.jpg",
+            "CategoryId": 68,
+            "CategoryName": "היגיינה וטיפוח",
+            "SubCategoryId": 11599,
+            "SubCategoryName": "הגנה מהשמש",
+            "ManufacturerId": 1097,
+            "ManufacturerName": "ד\"ר פישר Dr fischer",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 32.75,
+            "PricePerUnitDesc": "32.75 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "200 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 65.5,
+            "Price_Regular": 65.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "מסייע להגנה מספקטרום רחב במיוחד של קרני השמש המזיקות",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017917610,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1718560953/Production/7290017917610/729001791761006-16-2024_15-01-09.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1718560953/Production/7290017917610/729001791761006-16-2024_15-01-09.jpg",
+                "Image_File_Name": "729001791761006-16-2024_15-01-09.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1718560953/Production/7290017917610/729001791761006-16-2024_15-01-09.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "קרם הגנה בתרסיס ספקטרום דוקטור אולטרסול  הגנה משמש  ספריי תחליבי להגנה מהשמש",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1718560953/Production/7290017917610/729001791761006-16-2024_15-01-09.jpg"
+          },
+          {
+            "Id": 388325,
+            "IsShakil": false,
+            "BarKod": "7290017917580",
+            "Name": "אולטרסול מקס קרם פנים +SPF 50",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1723616658/Production/7290017917580/1dec79ff-793a-428b-8986-2bb63906420e.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1723616658/Production/7290017917580/1dec79ff-793a-428b-8986-2bb63906420e.jpg",
+            "CategoryId": 68,
+            "CategoryName": "היגיינה וטיפוח",
+            "SubCategoryId": 11599,
+            "SubCategoryName": "הגנה מהשמש",
+            "ManufacturerId": 1097,
+            "ManufacturerName": "ד\"ר פישר Dr fischer",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 50.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 131.0,
+            "PricePerUnitDesc": "131.00 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "50 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 65.5,
+            "Price_Regular": 65.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017917580,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1723616658/Production/7290017917580/1dec79ff-793a-428b-8986-2bb63906420e.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1723616658/Production/7290017917580/1dec79ff-793a-428b-8986-2bb63906420e.jpg",
+                "Image_File_Name": "1dec79ff-793a-428b-8986-2bb63906420e.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1723616658/Production/7290017917580/1dec79ff-793a-428b-8986-2bb63906420e.jpg"
+              },
+              {
+                "Barcode": 7290017917580,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731267051/Production/7290017917580/7290017917580_box04-24-2024_13-38-47.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731267051/Production/7290017917580/7290017917580_box04-24-2024_13-38-47.jpg",
+                "Image_File_Name": "7290017917580_box04-24-2024_13-38-47.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731267051/Production/7290017917580/7290017917580_box04-24-2024_13-38-47.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "1. חדשנות בלעדית- בהשוואה למוצרי הגנה משמש בישראל ב2023",
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קרם פנים להגנה מהשמש  קרם הגנה  הגנה מוגברת במיוחד",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1723616658/Production/7290017917580/1dec79ff-793a-428b-8986-2bb63906420e.jpg"
+          },
+          {
+            "Id": 357448,
+            "IsShakil": false,
+            "BarKod": "7290104964701",
+            "Name": "קרם הגנה לגולשים SPF 50 עמיד במים לאורך זמן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1690203122/Production/7290104964701/a57f199d-52bb-476d-9d5d-3939642e585c.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1690203122/Production/7290104964701/a57f199d-52bb-476d-9d5d-3939642e585c.jpg",
+            "CategoryId": 68,
+            "CategoryName": "היגיינה וטיפוח",
+            "SubCategoryId": 11599,
+            "SubCategoryName": "הגנה מהשמש",
+            "ManufacturerId": 2276,
+            "ManufacturerName": "סקין גארד Skin Gard",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 60.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 67.5,
+            "PricePerUnitDesc": "67.50 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "60 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 40.5,
+            "Price_Regular": 40.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290104964701,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1690203122/Production/7290104964701/a57f199d-52bb-476d-9d5d-3939642e585c.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1690203122/Production/7290104964701/a57f199d-52bb-476d-9d5d-3939642e585c.jpg",
+                "Image_File_Name": "a57f199d-52bb-476d-9d5d-3939642e585c.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1690203122/Production/7290104964701/a57f199d-52bb-476d-9d5d-3939642e585c.jpg"
+              },
+              {
+                "Barcode": 7290104964701,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/84c3d449-3594-4e20-8519-60c99ba7e767_7290104964701.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/84c3d449-3594-4e20-8519-60c99ba7e767_7290104964701.png",
+                "Image_File_Name": "84c3d449-3594-4e20-8519-60c99ba7e767_7290104964701.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/84c3d449-3594-4e20-8519-60c99ba7e767_7290104964701.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " סקין גארד  קרם  הגנה  לגולשים  50SPF",
+            "ORank": 4.98878E-05,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1690203122/Production/7290104964701/a57f199d-52bb-476d-9d5d-3939642e585c.jpg"
+          },
+          {
+            "Id": 324888,
+            "IsShakil": false,
+            "BarKod": "7290016621952",
+            "Name": "קמיל בלו קרם פנים לתינוק SPF 30",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1742501997/Production/7290016621952/7290016621952_203-20-2025_14-46-37.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742501997/Production/7290016621952/7290016621952_203-20-2025_14-46-37.jpg",
+            "CategoryId": 62,
+            "CategoryName": "תינוקות ופעוטות",
+            "SubCategoryId": 10833,
+            "SubCategoryName": "היגיינת פעוטות",
+            "ManufacturerId": 1097,
+            "ManufacturerName": "ד\"ר פישר Dr fischer",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 75.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 40.27,
+            "PricePerUnitDesc": "40.27 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "75 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 30.2,
+            "Price_Regular": 30.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290016621952,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1742501997/Production/7290016621952/7290016621952_203-20-2025_14-46-37.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742501997/Production/7290016621952/7290016621952_203-20-2025_14-46-37.jpg",
+                "Image_File_Name": "7290016621952_203-20-2025_14-46-37.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1742501997/Production/7290016621952/7290016621952_203-20-2025_14-46-37.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "הגנה משמש דר' פישר  קמיל בלו  קרם פנים  תינוק  יובש  עור  טיפול  הגנה  שמש  לחות",
+            "ORank": 0.00044899,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742501997/Production/7290016621952/7290016621952_203-20-2025_14-46-37.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 1097,
+            "Name": "ד\"ר פישר Dr fischer"
+          },
+          {
+            "Id": 2276,
+            "Name": "סקין גארד Skin Gard"
+          },
+          {
+            "Id": 2144,
+            "Name": "פרפקט Perfect"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}
