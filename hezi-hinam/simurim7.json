@@ -1,0 +1,1354 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/115.png",
+      "SubCategory": {
+        "Id": 11186,
+        "Name": "שימורי פירות",
+        "Items": [
+          {
+            "Id": 3980,
+            "IsShakil": false,
+            "BarKod": "4165017",
+            "Name": "רסק תפוחים בלי תוספת סוכר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1697108677/Production/4165017/cc8792a3-fff3-4b9d-b93d-16a930435e07.png",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1697108677/Production/4165017/cc8792a3-fff3-4b9d-b93d-16a930435e07.png",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1221,
+            "ManufacturerName": "יכין",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.8,
+            "PricePerUnitDesc": "1.80 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.1,
+            "Price_Regular": 10.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4165017,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1697108677/Production/4165017/cc8792a3-fff3-4b9d-b93d-16a930435e07.png",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1697108677/Production/4165017/cc8792a3-fff3-4b9d-b93d-16a930435e07.png",
+                "Image_File_Name": "cc8792a3-fff3-4b9d-b93d-16a930435e07.png",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1697108677/Production/4165017/cc8792a3-fff3-4b9d-b93d-16a930435e07.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1697108677/Production/4165017/cc8792a3-fff3-4b9d-b93d-16a930435e07.png"
+          },
+          {
+            "Id": 151631,
+            "IsShakil": false,
+            "BarKod": "1482186",
+            "Name": "חתיכות אננס בסירופ קל",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/9626a04a-0d55-4445-9816-c0d799f54dbb_1482186.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/9626a04a-0d55-4445-9816-c0d799f54dbb_1482186.png",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 565.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.24,
+            "PricePerUnitDesc": "1.24 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "565 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 2.06,
+            "PricePerUnitNetoDesc": "2.06 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 7.0,
+            "Price_Regular": 7.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 1482186,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/9626a04a-0d55-4445-9816-c0d799f54dbb_1482186.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/9626a04a-0d55-4445-9816-c0d799f54dbb_1482186.png",
+                "Image_File_Name": "9626a04a-0d55-4445-9816-c0d799f54dbb_1482186.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/9626a04a-0d55-4445-9816-c0d799f54dbb_1482186.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "אננס חתוך בסירופ ",
+            "ORank": 0.0180594,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/9626a04a-0d55-4445-9816-c0d799f54dbb_1482186.png"
+          },
+          {
+            "Id": 40015,
+            "IsShakil": false,
+            "BarKod": "1482384",
+            "Name": "חתיכות אננס בסירופ קל",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/1482384.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1482384.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 227.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.2,
+            "PricePerUnitDesc": "2.20 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "227 גרם",
+            "UnitSizeNeto": 137.0,
+            "PricePerUnitNeto": 3.65,
+            "PricePerUnitNetoDesc": "3.65 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "137 גרם",
+            "Price_NET": 5.0,
+            "Price_Regular": 5.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 1482384,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/1482384.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1482384.jpg",
+                "Image_File_Name": "1482384.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1482384.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "חתוך משומר ",
+            "ORank": 0.00429035,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/1482384.jpg"
+          },
+          {
+            "Id": 2689,
+            "IsShakil": false,
+            "BarKod": "3578313",
+            "Name": "דובדבנים חמוצים ללא חרצנים בסירופ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1717922408/Production/3578313/8c16335b-1247-4535-8857-6c23d965bde6.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717922408/Production/3578313/8c16335b-1247-4535-8857-6c23d965bde6.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 680.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.78,
+            "PricePerUnitDesc": "1.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "680 גרם",
+            "UnitSizeNeto": 350.0,
+            "PricePerUnitNeto": 3.46,
+            "PricePerUnitNetoDesc": "3.46 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "350 גרם",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 3578313,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1717922408/Production/3578313/8c16335b-1247-4535-8857-6c23d965bde6.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717922408/Production/3578313/8c16335b-1247-4535-8857-6c23d965bde6.jpg",
+                "Image_File_Name": "8c16335b-1247-4535-8857-6c23d965bde6.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1717922408/Production/3578313/8c16335b-1247-4535-8857-6c23d965bde6.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00229484,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1717922408/Production/3578313/8c16335b-1247-4535-8857-6c23d965bde6.jpg"
+          },
+          {
+            "Id": 8662,
+            "IsShakil": false,
+            "BarKod": "2881209",
+            "Name": "רסק תפוחים ממותק",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/180f27a6-ab86-40bc-a28f-05acf5542241_2881209.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/180f27a6-ab86-40bc-a28f-05acf5542241_2881209.png",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 720.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.82,
+            "PricePerUnitDesc": "1.82 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "720 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 2881209,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/180f27a6-ab86-40bc-a28f-05acf5542241_2881209.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/180f27a6-ab86-40bc-a28f-05acf5542241_2881209.png",
+                "Image_File_Name": "180f27a6-ab86-40bc-a28f-05acf5542241_2881209.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/180f27a6-ab86-40bc-a28f-05acf5542241_2881209.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "שימור ",
+            "ORank": 0.00194562,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/180f27a6-ab86-40bc-a28f-05acf5542241_2881209.png"
+          },
+          {
+            "Id": 5508,
+            "IsShakil": false,
+            "BarKod": "2881216",
+            "Name": "רסק תפוחים ללא תוספת סוכר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1721907586/Production/2881216/0462ed05-9c07-4ae7-b799-0f017a26bae0.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907586/Production/2881216/0462ed05-9c07-4ae7-b799-0f017a26bae0.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.87,
+            "PricePerUnitDesc": "1.87 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "700 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 2881216,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1721907586/Production/2881216/0462ed05-9c07-4ae7-b799-0f017a26bae0.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907586/Production/2881216/0462ed05-9c07-4ae7-b799-0f017a26bae0.jpg",
+                "Image_File_Name": "0462ed05-9c07-4ae7-b799-0f017a26bae0.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1721907586/Production/2881216/0462ed05-9c07-4ae7-b799-0f017a26bae0.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "שימור ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907586/Production/2881216/0462ed05-9c07-4ae7-b799-0f017a26bae0.jpg"
+          },
+          {
+            "Id": 15480,
+            "IsShakil": false,
+            "BarKod": "2881278",
+            "Name": "חצאי אפרסקים בסירופ קל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1721907695/Production/2881278/e8a4c781-ec52-4952-8608-3925d7de5f7a.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907695/Production/2881278/e8a4c781-ec52-4952-8608-3925d7de5f7a.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 820.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.22,
+            "PricePerUnitDesc": "1.22 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "820 גרם",
+            "UnitSizeNeto": 460.0,
+            "PricePerUnitNeto": 2.17,
+            "PricePerUnitNetoDesc": "2.17 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "460 גרם",
+            "Price_NET": 10.0,
+            "Price_Regular": 10.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 2881278,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1721907695/Production/2881278/e8a4c781-ec52-4952-8608-3925d7de5f7a.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907695/Production/2881278/e8a4c781-ec52-4952-8608-3925d7de5f7a.jpg",
+                "Image_File_Name": "e8a4c781-ec52-4952-8608-3925d7de5f7a.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1721907695/Production/2881278/e8a4c781-ec52-4952-8608-3925d7de5f7a.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907695/Production/2881278/e8a4c781-ec52-4952-8608-3925d7de5f7a.jpg"
+          },
+          {
+            "Id": 183092,
+            "IsShakil": false,
+            "BarKod": "7290012019258",
+            "Name": "רסק תפוחי עץ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669146039/Production/7290012019258/7290012019258_s106-30-2020_22-27-41.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146039/Production/7290012019258/7290012019258_s106-30-2020_22-27-41.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 452.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.9,
+            "PricePerUnitDesc": "2.90 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 113 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290012019258,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669146039/Production/7290012019258/7290012019258_s106-30-2020_22-27-41.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146039/Production/7290012019258/7290012019258_s106-30-2020_22-27-41.jpg",
+                "Image_File_Name": "7290012019258_s106-30-2020_22-27-41.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669146039/Production/7290012019258/7290012019258_s106-30-2020_22-27-41.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " תומר  רסק  תפוחי עץ  ללא חומרים משמרים",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146039/Production/7290012019258/7290012019258_s106-30-2020_22-27-41.jpg"
+          },
+          {
+            "Id": 183118,
+            "IsShakil": false,
+            "BarKod": "7290012642678",
+            "Name": "חתיכות אננס בסירופ קל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669146058/Production/7290012642678/7290012642678_s106-30-2020_22-22-39.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146058/Production/7290012642678/7290012642678_s106-30-2020_22-22-39.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 452.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.43,
+            "PricePerUnitDesc": "2.43 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 113 גרם",
+            "UnitSizeNeto": 260.0,
+            "PricePerUnitNeto": 4.23,
+            "PricePerUnitNetoDesc": "4.23 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "260 גרם",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290012642678,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669146058/Production/7290012642678/7290012642678_s106-30-2020_22-22-39.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146058/Production/7290012642678/7290012642678_s106-30-2020_22-22-39.jpg",
+                "Image_File_Name": "7290012642678_s106-30-2020_22-22-39.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669146058/Production/7290012642678/7290012642678_s106-30-2020_22-22-39.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימור חתוך משומר קוקטייל פירות  חתיכות אננס  סירופ קל  תומר אננס",
+            "ORank": 0.000997755,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146058/Production/7290012642678/7290012642678_s106-30-2020_22-22-39.jpg"
+          },
+          {
+            "Id": 327149,
+            "IsShakil": false,
+            "BarKod": "7290017058146",
+            "Name": "רסק תפוחי עץ עם אפרסק",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/ef55b732-70ee-420b-b631-abe743b992b9_7290017058146.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/ef55b732-70ee-420b-b631-abe743b992b9_7290017058146.png",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 452.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.9,
+            "PricePerUnitDesc": "2.90 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 113 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290017058146,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/ef55b732-70ee-420b-b631-abe743b992b9_7290017058146.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/ef55b732-70ee-420b-b631-abe743b992b9_7290017058146.png",
+                "Image_File_Name": "ef55b732-70ee-420b-b631-abe743b992b9_7290017058146.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/ef55b732-70ee-420b-b631-abe743b992b9_7290017058146.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " תומר  מחית  תפוחי עץ  אפרסק  ללא חומרים משמרים",
+            "ORank": 0.00209529,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/ef55b732-70ee-420b-b631-abe743b992b9_7290017058146.png"
+          },
+          {
+            "Id": 303059,
+            "IsShakil": false,
+            "BarKod": "4009309742426",
+            "Name": "רסק תפוחים ומנגו אורגני ללא תוספת סוכר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1722191455/Production/4009309742426/4009309742426_P107-28-2024_14-49-20.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1722191455/Production/4009309742426/4009309742426_P107-28-2024_14-49-20.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 2381,
+            "ManufacturerName": "נטורפוד",
+            "MidaKod": "גרם",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.59,
+            "PricePerUnitDesc": "2.59 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "700 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.1,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4009309742426,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1722191455/Production/4009309742426/4009309742426_P107-28-2024_14-49-20.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1722191455/Production/4009309742426/4009309742426_P107-28-2024_14-49-20.jpg",
+                "Image_File_Name": "4009309742426_P107-28-2024_14-49-20.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1722191455/Production/4009309742426/4009309742426_P107-28-2024_14-49-20.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " נטור פוד רסק תפוחים אטרגהע ומנגו ",
+            "ORank": 0.00109753,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1722191455/Production/4009309742426/4009309742426_P107-28-2024_14-49-20.jpg"
+          },
+          {
+            "Id": 401353,
+            "IsShakil": false,
+            "BarKod": "7290017715964",
+            "Name": "מחית תפוחי עץ עם אפרסק ללא תוספת סוכר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669146191/Production/7290017715964/7290017715964_s110-13-2020_15-07-55.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146191/Production/7290017715964/7290017715964_s110-13-2020_15-07-55.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 452.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.9,
+            "PricePerUnitDesc": "2.90 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "4 * 113 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017715964,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669146191/Production/7290017715964/7290017715964_s110-13-2020_15-07-55.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146191/Production/7290017715964/7290017715964_s110-13-2020_15-07-55.jpg",
+                "Image_File_Name": "7290017715964_s110-13-2020_15-07-55.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669146191/Production/7290017715964/7290017715964_s110-13-2020_15-07-55.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " תומר  מחית  תפוחי עץ  אפרסק  ללא חומרים משמרים",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669146191/Production/7290017715964/7290017715964_s110-13-2020_15-07-55.jpg"
+          },
+          {
+            "Id": 32038,
+            "IsShakil": false,
+            "BarKod": "2881247",
+            "Name": "פרוסות אננס בסירופ קל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1721907628/Production/2881247/f55064f2-fe39-4944-a091-484efe3129e0.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907628/Production/2881247/f55064f2-fe39-4944-a091-484efe3129e0.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1568,
+            "ManufacturerName": "תומר",
+            "MidaKod": "גרם",
+            "UnitSize": 850.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.18,
+            "PricePerUnitDesc": "1.18 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "850 גרם",
+            "UnitSizeNeto": 450.0,
+            "PricePerUnitNeto": 2.22,
+            "PricePerUnitNetoDesc": "2.22 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "450 גרם",
+            "Price_NET": 10.0,
+            "Price_Regular": 10.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87145,
+              "MivzaDesc": "2 ב- 18",
+              "MivzaText": "אננס פרוס/חתוך \n2 ב 18 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 2881247,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1721907628/Production/2881247/f55064f2-fe39-4944-a091-484efe3129e0.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907628/Production/2881247/f55064f2-fe39-4944-a091-484efe3129e0.jpg",
+                "Image_File_Name": "f55064f2-fe39-4944-a091-484efe3129e0.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1721907628/Production/2881247/f55064f2-fe39-4944-a091-484efe3129e0.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721907628/Production/2881247/f55064f2-fe39-4944-a091-484efe3129e0.jpg"
+          },
+          {
+            "Id": 429337,
+            "IsShakil": false,
+            "BarKod": "7290016106411",
+            "Name": "פרוסות מנגו בסירופ קל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1641457365/Production/7290016106411/ee06830e-badf-4fc4-8fa6-6a76a4b2c92c.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1641457365/Production/7290016106411/ee06830e-badf-4fc4-8fa6-6a76a4b2c92c.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1206,
+            "ManufacturerName": "טעמן",
+            "MidaKod": "גרם",
+            "UnitSize": 425.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.88,
+            "PricePerUnitDesc": "1.88 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "425 גרם",
+            "UnitSizeNeto": 250.0,
+            "PricePerUnitNeto": 3.2,
+            "PricePerUnitNetoDesc": "3.20 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "250 גרם",
+            "Price_NET": 6.5,
+            "Price_Regular": 8.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290016106411,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1641457365/Production/7290016106411/ee06830e-badf-4fc4-8fa6-6a76a4b2c92c.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1641457365/Production/7290016106411/ee06830e-badf-4fc4-8fa6-6a76a4b2c92c.jpg",
+                "Image_File_Name": "ee06830e-badf-4fc4-8fa6-6a76a4b2c92c.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1641457365/Production/7290016106411/ee06830e-badf-4fc4-8fa6-6a76a4b2c92c.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימורי מנגו פרוס בסירופ של טעמן פרוסות מנגו  מנגו  שימורים  שימורי פירות",
+            "ORank": 0.00114742,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1641457365/Production/7290016106411/ee06830e-badf-4fc4-8fa6-6a76a4b2c92c.jpg"
+          },
+          {
+            "Id": 41697,
+            "IsShakil": false,
+            "BarKod": "4737443",
+            "Name": "קוקטייל פירות בסירופ קל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1713443037/Production/4737443/71e4e937-3b33-4033-9f97-8660cd0407c9.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1713443037/Production/4737443/71e4e937-3b33-4033-9f97-8660cd0407c9.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 820.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.34,
+            "PricePerUnitDesc": "1.34 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "820 גרם",
+            "UnitSizeNeto": 480.0,
+            "PricePerUnitNeto": 2.29,
+            "PricePerUnitNetoDesc": "2.29 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "480 גרם",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4737443,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1713443037/Production/4737443/71e4e937-3b33-4033-9f97-8660cd0407c9.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1713443037/Production/4737443/71e4e937-3b33-4033-9f97-8660cd0407c9.jpg",
+                "Image_File_Name": "71e4e937-3b33-4033-9f97-8660cd0407c9.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1713443037/Production/4737443/71e4e937-3b33-4033-9f97-8660cd0407c9.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "שימור ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1713443037/Production/4737443/71e4e937-3b33-4033-9f97-8660cd0407c9.jpg"
+          },
+          {
+            "Id": 316954,
+            "IsShakil": false,
+            "BarKod": "7290013903594",
+            "Name": "רסק תפוחים טבעי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643770848/Production/7290013903594/7290013903594_P102-09-2021_07-37-53.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643770848/Production/7290013903594/7290013903594_P102-09-2021_07-37-53.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11186,
+            "SubCategoryName": "שימורי פירות",
+            "ManufacturerId": 2159,
+            "ManufacturerName": "ליב אורגני",
+            "MidaKod": "גרם",
+            "UnitSize": 670.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.81,
+            "PricePerUnitDesc": "1.81 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "670 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": true,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 1,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/healthy.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290013903594,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643770848/Production/7290013903594/7290013903594_P102-09-2021_07-37-53.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643770848/Production/7290013903594/7290013903594_P102-09-2021_07-37-53.jpg",
+                "Image_File_Name": "7290013903594_P102-09-2021_07-37-53.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643770848/Production/7290013903594/7290013903594_P102-09-2021_07-37-53.jpg"
+              },
+              {
+                "Barcode": 7290013903594,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643770848/Production/7290013903594/7290013903594_S1_1510-04-2020_23-00-33.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643770848/Production/7290013903594/7290013903594_S1_1510-04-2020_23-00-33.jpg",
+                "Image_File_Name": "7290013903594_S1_1510-04-2020_23-00-33.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643770848/Production/7290013903594/7290013903594_S1_1510-04-2020_23-00-33.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ליב  רסק  תפוחי עץ  100% טבעי",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643770848/Production/7290013903594/7290013903594_P102-09-2021_07-37-53.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 1159,
+            "Name": "וילי פוד"
+          },
+          {
+            "Id": 1206,
+            "Name": "טעמן"
+          },
+          {
+            "Id": 1221,
+            "Name": "יכין"
+          },
+          {
+            "Id": 2159,
+            "Name": "ליב אורגני"
+          },
+          {
+            "Id": 2381,
+            "Name": "נטורפוד"
+          },
+          {
+            "Id": 1568,
+            "Name": "תומר"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

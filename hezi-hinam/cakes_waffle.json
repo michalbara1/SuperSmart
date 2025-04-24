@@ -1,0 +1,1990 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/90.png",
+      "SubCategory": {
+        "Id": 10847,
+        "Name": "עוגות ועוגות אישיות",
+        "Items": [
+          {
+            "Id": 341920,
+            "IsShakil": false,
+            "BarKod": "8000500267103",
+            "Name": "מארז 10 עוגות אישיות קינדר דליס",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1505,
+            "ManufacturerName": "קינדר Kinder",
+            "MidaKod": "גרם",
+            "UnitSize": 390.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.21,
+            "PricePerUnitDesc": "6.21 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "10 * 39 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 23.1,
+            "Price_Regular": 24.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500267103,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+                "Image_File_Name": "d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "עוגות קטנות מיני קינדר דליס עוגת ספוג קקאו במילוי חלבי",
+            "ORank": 0.0120728,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/d027d717-9cfd-4d44-8d34-d68cbab21940_8000500267103.png"
+          },
+          {
+            "Id": 449279,
+            "IsShakil": false,
+            "BarKod": "7290018894217",
+            "Name": "עוגות אישיות במילוי קרם קקאו ובציפוי קרם קקאו",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1904,
+            "ManufacturerName": "בלקוני Balconi",
+            "MidaKod": "גרם",
+            "UnitSize": 350.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.6,
+            "PricePerUnitDesc": "4.60 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "350 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.0,
+            "Price_Regular": 16.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "10 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018894217,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg",
+                "Image_File_Name": "7290018894217_p101-20-2022_12-02-26.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg"
+              },
+              {
+                "Barcode": 7290018894217,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900833/Production/7290018894217/7290018894217_s101-20-2022_12-02-09.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_s101-20-2022_12-02-09.jpg",
+                "Image_File_Name": "7290018894217_s101-20-2022_12-02-09.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900833/Production/7290018894217/7290018894217_s101-20-2022_12-02-09.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900833/Production/7290018894217/7290018894217_p101-20-2022_12-02-26.jpg"
+          },
+          {
+            "Id": 434760,
+            "IsShakil": false,
+            "BarKod": "7290018893661",
+            "Name": "עוגות אישיות במילוי קרם קקאו ציפוי בטעם שוקולד מריר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 240.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.29,
+            "PricePerUnitDesc": "6.29 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "240 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "8 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87546,
+              "MivzaDesc": "2 ב- 20",
+              "MivzaText": "עוגות אישיות צ'וקטה\n2 ב 20 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893661,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg",
+                "Image_File_Name": "7290018893661_p104-17-2023_11-30-52.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " צ'וקטה  עוגות  אישיות  קרם קאו  ציפוי שוקולד מריר",
+            "ORank": 0.00144674,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755733/Production/7290018893661/7290018893661_p104-17-2023_11-30-52.jpg"
+          },
+          {
+            "Id": 434763,
+            "IsShakil": false,
+            "BarKod": "7290018893876",
+            "Name": "עוגות אישיות רכות עם מילוי קרם בטעם וניל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.55,
+            "PricePerUnitDesc": "7.55 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "8 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87546,
+              "MivzaDesc": "2 ב- 20",
+              "MivzaText": "עוגות אישיות צ'וקטה\n2 ב 20 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893876,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg",
+                "Image_File_Name": "7290018893876_P108-16-2021_10-51-41.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg"
+              },
+              {
+                "Barcode": 7290018893876,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900802/Production/7290018893876/7290018893876_S108-16-2021_10-51-29.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_S108-16-2021_10-51-29.jpg",
+                "Image_File_Name": "7290018893876_S108-16-2021_10-51-29.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900802/Production/7290018893876/7290018893876_S108-16-2021_10-51-29.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00139686,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900802/Production/7290018893876/7290018893876_P108-16-2021_10-51-41.jpg"
+          },
+          {
+            "Id": 434761,
+            "IsShakil": false,
+            "BarKod": "7290018893265",
+            "Name": "עוגות אישיות חמש שכבות מריר - פרווה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 240.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.29,
+            "PricePerUnitDesc": "6.29 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "240 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "8 יחידות במארז. עוגות אישיות חמש שכבות במילוי קרם עם קקאו ועיטורים בטעם שוקולד מריר",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87546,
+              "MivzaDesc": "2 ב- 20",
+              "MivzaText": "עוגות אישיות צ'וקטה\n2 ב 20 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893265,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg",
+                "Image_File_Name": "7290018893265_p104-17-2023_11-35-08.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00104764,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1681755701/Production/7290018893265/7290018893265_p104-17-2023_11-35-08.jpg"
+          },
+          {
+            "Id": 434759,
+            "IsShakil": false,
+            "BarKod": "7290018893456",
+            "Name": "צוקטה עוגות אישיות במילוי קרם ובציפוי בטעם שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1672902951/Production/7290018893456/7290018893456_P108-16-2021_10-35-20.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672902951/Production/7290018893456/7290018893456_P108-16-2021_10-35-20.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 300.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.03,
+            "PricePerUnitDesc": "5.03 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "300 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "10 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893456,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672902951/Production/7290018893456/7290018893456_P108-16-2021_10-35-20.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672902951/Production/7290018893456/7290018893456_P108-16-2021_10-35-20.jpg",
+                "Image_File_Name": "7290018893456_P108-16-2021_10-35-20.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672902951/Production/7290018893456/7290018893456_P108-16-2021_10-35-20.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " צ'וקטה  עוגה  אישי  שוקולד",
+            "ORank": 0.00803193,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672902951/Production/7290018893456/7290018893456_P108-16-2021_10-35-20.jpg"
+          },
+          {
+            "Id": 444297,
+            "IsShakil": false,
+            "BarKod": "7290018893487",
+            "Name": "עוגות אישיות במילוי בטעם קוקוס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1638447191/Production/7290018893487/7af79a16-ee2d-4897-b680-585aa9cc2209.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1638447191/Production/7290018893487/7af79a16-ee2d-4897-b680-585aa9cc2209.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 350.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.31,
+            "PricePerUnitDesc": "4.31 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "350 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "10 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893487,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1638447191/Production/7290018893487/7af79a16-ee2d-4897-b680-585aa9cc2209.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1638447191/Production/7290018893487/7af79a16-ee2d-4897-b680-585aa9cc2209.jpg",
+                "Image_File_Name": "7af79a16-ee2d-4897-b680-585aa9cc2209.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1638447191/Production/7290018893487/7af79a16-ee2d-4897-b680-585aa9cc2209.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " צ'וקטה  עוגות אישיות  קוקוס  350 גרם",
+            "ORank": 0.000947867,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1638447191/Production/7290018893487/7af79a16-ee2d-4897-b680-585aa9cc2209.jpg"
+          },
+          {
+            "Id": 434762,
+            "IsShakil": false,
+            "BarKod": "7290018893258",
+            "Name": "עוגות אישיות בטעם קרמל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1672900622/Production/7290018893258/7290018893258_P108-16-2021_10-38-30.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900622/Production/7290018893258/7290018893258_P108-16-2021_10-38-30.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 300.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.03,
+            "PricePerUnitDesc": "5.03 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "300 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "10 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893258,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1672900622/Production/7290018893258/7290018893258_P108-16-2021_10-38-30.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900622/Production/7290018893258/7290018893258_P108-16-2021_10-38-30.jpg",
+                "Image_File_Name": "7290018893258_P108-16-2021_10-38-30.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1672900622/Production/7290018893258/7290018893258_P108-16-2021_10-38-30.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " צ'וקטה  עוגות  אישיות  קרם קרמל  ציפוי שוקולד",
+            "ORank": 0.000748316,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1672900622/Production/7290018893258/7290018893258_P108-16-2021_10-38-30.jpg"
+          },
+          {
+            "Id": 444296,
+            "IsShakil": false,
+            "BarKod": "7290018893081",
+            "Name": "עוגות מגולגלות במילוי קרם חלבי וציפוי בטעם שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1638446546/Production/7290018893081/51807670-b393-4ce1-b6c9-76fe487886b8.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1638446546/Production/7290018893081/51807670-b393-4ce1-b6c9-76fe487886b8.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 222.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.45,
+            "PricePerUnitDesc": "5.45 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "222 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "6 יחידות במארז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87546,
+              "MivzaDesc": "2 ב- 20",
+              "MivzaText": "עוגות אישיות צ'וקטה\n2 ב 20 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893081,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1638446546/Production/7290018893081/51807670-b393-4ce1-b6c9-76fe487886b8.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1638446546/Production/7290018893081/51807670-b393-4ce1-b6c9-76fe487886b8.jpg",
+                "Image_File_Name": "51807670-b393-4ce1-b6c9-76fe487886b8.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1638446546/Production/7290018893081/51807670-b393-4ce1-b6c9-76fe487886b8.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " צ'וקטה  עוגות  מגולגלות  קרם חלבי  ציפוי שוקולד",
+            "ORank": 0.00254428,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1638446546/Production/7290018893081/51807670-b393-4ce1-b6c9-76fe487886b8.jpg"
+          },
+          {
+            "Id": 444295,
+            "IsShakil": false,
+            "BarKod": "7290018893289",
+            "Name": "עוגות מגולגלות בטעם קקאו - 6 יחידות במארז",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1657519562/Production/7290018893289/24912827-9e89-4c77-93a7-f21906ec963f.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1657519562/Production/7290018893289/24912827-9e89-4c77-93a7-f21906ec963f.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 2191,
+            "ManufacturerName": "צ'וקטה Chocketa",
+            "MidaKod": "גרם",
+            "UnitSize": 222.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.45,
+            "PricePerUnitDesc": "5.45 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "222 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "עוגות מגולגלות בטעם קקאו במילוי קרם קקאו וציפוי בטעם שוקולד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87546,
+              "MivzaDesc": "2 ב- 20",
+              "MivzaText": "עוגות אישיות צ'וקטה\n2 ב 20 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290018893289,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1657519562/Production/7290018893289/24912827-9e89-4c77-93a7-f21906ec963f.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1657519562/Production/7290018893289/24912827-9e89-4c77-93a7-f21906ec963f.jpg",
+                "Image_File_Name": "24912827-9e89-4c77-93a7-f21906ec963f.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1657519562/Production/7290018893289/24912827-9e89-4c77-93a7-f21906ec963f.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "עוגות אישיות עטופות צ'וקטה  עוגה  מגולגלת  שוקולד",
+            "ORank": 0.00169618,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1657519562/Production/7290018893289/24912827-9e89-4c77-93a7-f21906ec963f.jpg"
+          },
+          {
+            "Id": 4083,
+            "IsShakil": false,
+            "BarKod": "7290006983763",
+            "Name": "עוגת הבית בטעם שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1730928731/Production/7290006983763/6916331_7290006983763.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928731/Production/7290006983763/6916331_7290006983763.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 400.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.72,
+            "PricePerUnitDesc": "3.72 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "400 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290006983763,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730928731/Production/7290006983763/6916331_7290006983763.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928731/Production/7290006983763/6916331_7290006983763.jpg",
+                "Image_File_Name": "6916331_7290006983763.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730928731/Production/7290006983763/6916331_7290006983763.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגה אסם  עוגת שוקולד  עוגה בחושה שוקולד",
+            "ORank": 0.00254428,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928731/Production/7290006983763/6916331_7290006983763.jpg"
+          },
+          {
+            "Id": 2470,
+            "IsShakil": false,
+            "BarKod": "7290006983787",
+            "Name": "עוגת הבית שוקולד צ'יפס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1730928742/Production/7290006983787/6916334_7290006983787_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928742/Production/7290006983787/6916334_7290006983787_1.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 400.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.72,
+            "PricePerUnitDesc": "3.72 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "400 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290006983787,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730928742/Production/7290006983787/6916334_7290006983787_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928742/Production/7290006983787/6916334_7290006983787_1.jpg",
+                "Image_File_Name": "6916334_7290006983787_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730928742/Production/7290006983787/6916334_7290006983787_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגת שוקולד צ'יפס  עוגה אסם  עוגת שוקו צ'יפס  עוגת שוקוציפס",
+            "ORank": 0.0028436,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928742/Production/7290006983787/6916334_7290006983787_1.jpg"
+          },
+          {
+            "Id": 5285,
+            "IsShakil": false,
+            "BarKod": "7290006983770",
+            "Name": "עוגת הבית שיש",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1730928734/Production/7290006983770/6916332_7290006983770_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928734/Production/7290006983770/6916332_7290006983770_1.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 400.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.72,
+            "PricePerUnitDesc": "3.72 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "400 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290006983770,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730928734/Production/7290006983770/6916332_7290006983770_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928734/Production/7290006983770/6916332_7290006983770_1.jpg",
+                "Image_File_Name": "6916332_7290006983770_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730928734/Production/7290006983770/6916332_7290006983770_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגת שיש  עוגה אסם",
+            "ORank": 0.00354203,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928734/Production/7290006983770/6916332_7290006983770_1.jpg"
+          },
+          {
+            "Id": 259923,
+            "IsShakil": false,
+            "BarKod": "7290106578821",
+            "Name": "עוגת הבית שמרים קלאסית בטעם שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1730929674/Production/7290106578821/6929381_7290106578821.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730929674/Production/7290106578821/6929381_7290106578821.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 350.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.4,
+            "PricePerUnitDesc": "5.40 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "350 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.9,
+            "Price_Regular": 18.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290106578821,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730929674/Production/7290106578821/6929381_7290106578821.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730929674/Production/7290106578821/6929381_7290106578821.jpg",
+                "Image_File_Name": "6929381_7290106578821.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730929674/Production/7290106578821/6929381_7290106578821.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגת שמרים  עוגת שוקולד  עוגה אסם  עוגת שמרים שוקולד",
+            "ORank": 0.00349214,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730929674/Production/7290106578821/6929381_7290106578821.jpg"
+          },
+          {
+            "Id": 249007,
+            "IsShakil": false,
+            "BarKod": "7290106574793",
+            "Name": "עוגת הבית שוקו שוקוצ'יפס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1721239389/Production/7290106574793/6928925_7290106574793_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721239389/Production/7290106574793/6928925_7290106574793_1.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 350.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.26,
+            "PricePerUnitDesc": "4.26 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "350 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290106574793,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1721239389/Production/7290106574793/6928925_7290106574793_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721239389/Production/7290106574793/6928925_7290106574793_1.jpg",
+                "Image_File_Name": "6928925_7290106574793_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1721239389/Production/7290106574793/6928925_7290106574793_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגת שוקולד צ'יפס  עוגה אסם  עוגת שוקולד עם שוקוצ'יפס  עוגת שוקו צ'יפס",
+            "ORank": 0.00114742,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1721239389/Production/7290106574793/6928925_7290106574793_1.jpg"
+          },
+          {
+            "Id": 911,
+            "IsShakil": false,
+            "BarKod": "7290006983794",
+            "Name": "עוגת הבית בטעם תפוז",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1730928752/Production/7290006983794/6916335_7290006983794_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928752/Production/7290006983794/6916335_7290006983794_1.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 400.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.72,
+            "PricePerUnitDesc": "3.72 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "400 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290006983794,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730928752/Production/7290006983794/6916335_7290006983794_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928752/Production/7290006983794/6916335_7290006983794_1.jpg",
+                "Image_File_Name": "6916335_7290006983794_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730928752/Production/7290006983794/6916335_7290006983794_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגת תפוז  עוגה אסם",
+            "ORank": 0.00279371,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730928752/Production/7290006983794/6916335_7290006983794_1.jpg"
+          },
+          {
+            "Id": 187043,
+            "IsShakil": false,
+            "BarKod": "7290104503184",
+            "Name": "עוגת הבית בראוניס בטעם שוקולד ריבת חלב",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1738350303/Production/7290104503184/6926177_7290104503184_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738350303/Production/7290104503184/6926177_7290104503184_1.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 380.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.97,
+            "PricePerUnitDesc": "4.97 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "380 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.9,
+            "Price_Regular": 18.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290104503184,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1738350303/Production/7290104503184/6926177_7290104503184_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738350303/Production/7290104503184/6926177_7290104503184_1.jpg",
+                "Image_File_Name": "6926177_7290104503184_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1738350303/Production/7290104503184/6926177_7290104503184_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "בראוניז עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגה אסם  בראוניס  עוגת בראוניז ריבת חלב  בראוניס ריבת חלב  בראוניז",
+            "ORank": 0.0016463,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738350303/Production/7290104503184/6926177_7290104503184_1.jpg"
+          },
+          {
+            "Id": 150485,
+            "IsShakil": false,
+            "BarKod": "7290000075693",
+            "Name": "עוגת הבית בריוש שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642755862/Production/7290000075693/6924831_7290000075693_L_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642755862/Production/7290000075693/6924831_7290000075693_L_1.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 360.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.75,
+            "PricePerUnitDesc": "4.75 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "360 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 17.1,
+            "Price_Regular": 17.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290000075693,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642755862/Production/7290000075693/6924831_7290000075693_L_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642755862/Production/7290000075693/6924831_7290000075693_L_1.jpg",
+                "Image_File_Name": "6924831_7290000075693_L_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642755862/Production/7290000075693/6924831_7290000075693_L_1.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  הבית  עוגות הבית  עוגת שמרים  בריוש  עוגת שוקולד  עוגה אסם  עוגת שמרים שוקולד  בריוש שוקולד",
+            "ORank": 0.00224495,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642755862/Production/7290000075693/6924831_7290000075693_L_1.jpg"
+          },
+          {
+            "Id": 2978,
+            "IsShakil": false,
+            "BarKod": "7290006983527",
+            "Name": "עוגת הבית תפוחים פירורים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1716574265/Production/7290006983527/6916360_7290006983527.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574265/Production/7290006983527/6916360_7290006983527.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 400.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.72,
+            "PricePerUnitDesc": "4.72 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "400 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.9,
+            "Price_Regular": 18.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290006983527,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1716574265/Production/7290006983527/6916360_7290006983527.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574265/Production/7290006983527/6916360_7290006983527.jpg",
+                "Image_File_Name": "6916360_7290006983527.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1716574265/Production/7290006983527/6916360_7290006983527.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  עוגת תפוחים  עוגה עשירה  עוגה אסם  עוגת תפוחי עץ  עוגת פירורים  עוגת תפוחים עם פירורים",
+            "ORank": 0.00124719,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574265/Production/7290006983527/6916360_7290006983527.jpg"
+          },
+          {
+            "Id": 253225,
+            "IsShakil": false,
+            "BarKod": "7290106575257",
+            "Name": "עוגת הבית עוגת סופלה בטעם שוקולד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1716574589/Production/7290106575257/6928997_7290106575257.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574589/Production/7290106575257/6928997_7290106575257.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.38,
+            "PricePerUnitDesc": "4.38 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290106575257,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1716574589/Production/7290106575257/6928997_7290106575257.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574589/Production/7290106575257/6928997_7290106575257.jpg",
+                "Image_File_Name": "6928997_7290106575257.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1716574589/Production/7290106575257/6928997_7290106575257.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  סופלה  סופלה שוקולד  עוגה אסם  עוגת סופלה",
+            "ORank": 0.00169618,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574589/Production/7290106575257/6928997_7290106575257.jpg"
+          },
+          {
+            "Id": 253226,
+            "IsShakil": false,
+            "BarKod": "7290106575431",
+            "Name": "עוגת הבית סופלה בטעם שוקו וניל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1716574595/Production/7290106575431/6929015_7290106575431.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574595/Production/7290106575431/6929015_7290106575431.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 1018,
+            "ManufacturerName": "אסם",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.38,
+            "PricePerUnitDesc": "4.38 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290106575431,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1716574595/Production/7290106575431/6929015_7290106575431.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574595/Production/7290106575431/6929015_7290106575431.jpg",
+                "Image_File_Name": "6929015_7290106575431.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1716574595/Production/7290106575431/6929015_7290106575431.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " עוגה  עוגות  עוגה בחושה  הבית  עוגות הבית  סופלה  סופלה שוקולד  עוגה אסם  עוגת סופלה",
+            "ORank": 0.00219506,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716574595/Production/7290106575431/6929015_7290106575431.jpg"
+          },
+          {
+            "Id": 109837,
+            "IsShakil": false,
+            "BarKod": "6775337",
+            "Name": "עוגת שמרים במילוי פרג",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1685448252/Production/6775337/4cf8b297-910c-4f37-a275-105c9a99f6e8.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685448252/Production/6775337/4cf8b297-910c-4f37-a275-105c9a99f6e8.jpg",
+            "CategoryId": 67,
+            "CategoryName": "לחמים, עוגות ועוגיות",
+            "SubCategoryId": 10847,
+            "SubCategoryName": "עוגות ועוגות אישיות",
+            "ManufacturerId": 996,
+            "ManufacturerName": "אחוה",
+            "MidaKod": "גרם",
+            "UnitSize": 400.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.75,
+            "PricePerUnitDesc": "2.75 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "400 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 6775337,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1685448252/Production/6775337/4cf8b297-910c-4f37-a275-105c9a99f6e8.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685448252/Production/6775337/4cf8b297-910c-4f37-a275-105c9a99f6e8.jpg",
+                "Image_File_Name": "4cf8b297-910c-4f37-a275-105c9a99f6e8.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1685448252/Production/6775337/4cf8b297-910c-4f37-a275-105c9a99f6e8.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000548765,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1685448252/Production/6775337/4cf8b297-910c-4f37-a275-105c9a99f6e8.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 996,
+            "Name": "אחוה"
+          },
+          {
+            "Id": 1018,
+            "Name": "אסם"
+          },
+          {
+            "Id": 1904,
+            "Name": "בלקוני Balconi"
+          },
+          {
+            "Id": 2191,
+            "Name": "צ'וקטה Chocketa"
+          },
+          {
+            "Id": 1505,
+            "Name": "קינדר Kinder"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

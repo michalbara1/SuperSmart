@@ -1,0 +1,2869 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/115.png",
+      "SubCategory": {
+        "Id": 11182,
+        "Name": "שימורי זיתים",
+        "Items": [
+          {
+            "Id": 378500,
+            "IsShakil": false,
+            "BarKod": "7290113192355",
+            "Name": "חרוזית - זיתים ירוקים ללא גלעין",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642802668/Production/7290113192355/12442361_7290113192355.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802668/Production/7290113192355/12442361_7290113192355.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.48,
+            "PricePerUnitDesc": "2.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 275.0,
+            "PricePerUnitNeto": 5.05,
+            "PricePerUnitNetoDesc": "5.05 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "275 גרם",
+            "Price_NET": 13.9,
+            "Price_Regular": 13.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192355,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642802668/Production/7290113192355/12442361_7290113192355.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802668/Production/7290113192355/12442361_7290113192355.jpg",
+                "Image_File_Name": "12442361_7290113192355.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642802668/Production/7290113192355/12442361_7290113192355.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זית  זיתים  ירוק  שחור  זית ללא גלעין  בית השיטה  חמוצים  חרוזית בית השיטה  אסם  בית השיטה  חרוזית  זיתים ירוקים ללא גלעין  חרוזית ירוק",
+            "ORank": 0.0582689,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802668/Production/7290113192355/12442361_7290113192355.jpg"
+          },
+          {
+            "Id": 378499,
+            "IsShakil": false,
+            "BarKod": "7290113192348",
+            "Name": "זיתים ירוקים שלמים גדולים מאוד בטעם שום",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642802660/Production/7290113192348/12442330_7290113192348.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802660/Production/7290113192348/12442330_7290113192348.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 3.5,
+            "PricePerUnitNetoDesc": "3.50 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 11.0,
+            "Price_Regular": 11.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192348,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642802660/Production/7290113192348/12442330_7290113192348.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802660/Production/7290113192348/12442330_7290113192348.jpg",
+                "Image_File_Name": "12442330_7290113192348.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642802660/Production/7290113192348/12442330_7290113192348.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זית  זיתים  ירוק  שחור  בית השיטה  חמוצים  זית ירוק בטעם שום  חמוצים בטעם שום  זיתים ירוקים בטעם שום בית השיטה  אסם  בית השיטה  זיתים שלמים",
+            "ORank": 0.00374158,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802660/Production/7290113192348/12442330_7290113192348.jpg"
+          },
+          {
+            "Id": 388786,
+            "IsShakil": false,
+            "BarKod": "7290113193017",
+            "Name": "זיתים חרוזית קוקטייל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642806197/Production/7290113193017/12447425_7290113193017.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806197/Production/7290113193017/12447425_7290113193017.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.84,
+            "PricePerUnitDesc": "2.84 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 275.0,
+            "PricePerUnitNeto": 5.78,
+            "PricePerUnitNetoDesc": "5.78 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "275 גרם",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "זיתים ירוקים ללא גלעין, זיתים שחורים מרינד ללא גלעין",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113193017,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642806197/Production/7290113193017/12447425_7290113193017.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806197/Production/7290113193017/12447425_7290113193017.jpg",
+                "Image_File_Name": "12447425_7290113193017.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642806197/Production/7290113193017/12447425_7290113193017.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "זיתים חרוזית בית השיטה חרוזית קוקטייל זיתים 12* 275 גר חרוזית קוקטייל חרוזית קוקטייל בית השיטה 7290113193017 12447425",
+            "ORank": 0.00668496,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806197/Production/7290113193017/12447425_7290113193017.jpg"
+          },
+          {
+            "Id": 387958,
+            "IsShakil": false,
+            "BarKod": "7290113193031",
+            "Name": "חרוזית קלמטה - זיתים שחורים ללא גלעין קלמטה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642806208/Production/7290113193031/12447316_7290113193031.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806208/Production/7290113193031/12447316_7290113193031.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.84,
+            "PricePerUnitDesc": "2.84 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 275.0,
+            "PricePerUnitNeto": 5.78,
+            "PricePerUnitNetoDesc": "5.78 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "275 גרם",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113193031,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642806208/Production/7290113193031/12447316_7290113193031.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806208/Production/7290113193031/12447316_7290113193031.jpg",
+                "Image_File_Name": "12447316_7290113193031.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642806208/Production/7290113193031/12447316_7290113193031.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " בית השיטה חרוזית קלמטה 12* 275 גר' חרוזית קלמטה חרוזית קלמטה בית השיטה 7290113193031 12447316",
+            "ORank": 0.00623597,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806208/Production/7290113193031/12447316_7290113193031.jpg"
+          },
+          {
+            "Id": 378502,
+            "IsShakil": false,
+            "BarKod": "7290113192379",
+            "Name": "זיתים ירוקים מבוקעים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290113192379.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290113192379.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 3.5,
+            "PricePerUnitNetoDesc": "3.50 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 11.9,
+            "Price_Regular": 11.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192379,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7290113192379.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290113192379.jpg",
+                "Image_File_Name": "7290113192379.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290113192379.jpg"
+              },
+              {
+                "Barcode": 7290113192379,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1637619585/Production/7290113192379/12442354_7290113192379.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1637619585/Production/7290113192379/12442354_7290113192379.jpg",
+                "Image_File_Name": "12442354_7290113192379.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1637619585/Production/7290113192379/12442354_7290113192379.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זית  זיתים  ירוק  שחור  בית השיטה  חמוצים  זית ירוק מבוקע בית השיטה  אסם  בית השיטה זית מבוקע  זיתים ירוקים מבוקעים  זית ירוק מבוקע",
+            "ORank": 0.00104764,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290113192379.jpg"
+          },
+          {
+            "Id": 378452,
+            "IsShakil": false,
+            "BarKod": "7290113192324",
+            "Name": "זיתים ירוקים שלמים בינוניים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642802645/Production/7290113192324/12442322_7290113192324_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802645/Production/7290113192324/12442322_7290113192324_1.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 1.88,
+            "PricePerUnitDesc": "1.88 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 3.09,
+            "PricePerUnitNetoDesc": "3.09 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 10.5,
+            "Price_Regular": 10.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192324,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642802645/Production/7290113192324/12442322_7290113192324_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802645/Production/7290113192324/12442322_7290113192324_1.jpg",
+                "Image_File_Name": "12442322_7290113192324_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642802645/Production/7290113192324/12442322_7290113192324_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זית  זיתים  ירוק  שחור  בית השיטה  חמוצים  זיתים ירוקים בינוניים  זיתים ירוקים בינוניים בית השיטה  אסם  זיתים שלמים",
+            "ORank": 0.00394113,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802645/Production/7290113192324/12442322_7290113192324_1.jpg"
+          },
+          {
+            "Id": 378498,
+            "IsShakil": false,
+            "BarKod": "7290113192331",
+            "Name": "זיתים ירוקים שלמים גדולים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642802653/Production/7290113192331/12442218_7290113192331.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802653/Production/7290113192331/12442218_7290113192331.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.3,
+            "PricePerUnitDesc": "2.30 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 3.79,
+            "PricePerUnitNetoDesc": "3.79 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 12.9,
+            "Price_Regular": 12.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192331,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642802653/Production/7290113192331/12442218_7290113192331.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802653/Production/7290113192331/12442218_7290113192331.jpg",
+                "Image_File_Name": "12442218_7290113192331.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642802653/Production/7290113192331/12442218_7290113192331.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זית  זיתים  ירוק  שחור  בית השיטה  חמוצים  זיתים ירוקים גדולים  זיתים ירוקים גדולים בית השיטה  אסם  זיתים שלמים",
+            "ORank": 0.0024445,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642802653/Production/7290113192331/12442218_7290113192331.jpg"
+          },
+          {
+            "Id": 388785,
+            "IsShakil": false,
+            "BarKod": "7290113193406",
+            "Name": "קוקטייל טבעות זיתים - זיתים ירוקים, שחורים מרינד",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642806227/Production/7290113193406/12450533_7290113193406.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806227/Production/7290113193406/12450533_7290113193406.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.84,
+            "PricePerUnitDesc": "2.84 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 280.0,
+            "PricePerUnitNeto": 5.68,
+            "PricePerUnitNetoDesc": "5.68 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "280 גרם",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113193406,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642806227/Production/7290113193406/12450533_7290113193406.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806227/Production/7290113193406/12450533_7290113193406.jpg",
+                "Image_File_Name": "12450533_7290113193406.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642806227/Production/7290113193406/12450533_7290113193406.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " בית השיטה טבעות קוקטייל זיתים א2 12*336 גרם טבעות קוקטייל זיתים טבעות קוקטייל זיתים בית השיטה 7290113193406 12450533",
+            "ORank": 0.00154652,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806227/Production/7290113193406/12450533_7290113193406.jpg"
+          },
+          {
+            "Id": 388482,
+            "IsShakil": false,
+            "BarKod": "7290113192997",
+            "Name": "זית מרוקאי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642806177/Production/7290113192997/12447443_7290113192997.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806177/Production/7290113192997/12447443_7290113192997.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.68,
+            "PricePerUnitDesc": "4.68 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192997,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642806177/Production/7290113192997/12447443_7290113192997.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806177/Production/7290113192997/12447443_7290113192997.jpg",
+                "Image_File_Name": "12447443_7290113192997.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642806177/Production/7290113192997/12447443_7290113192997.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " בית השיטה זית מרוקאי 12*340 גר זית מרוקאי זית מרוקאי בית השיטה 7290113192997 12447443",
+            "ORank": 0.00144674,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642806177/Production/7290113192997/12447443_7290113192997.jpg"
+          },
+          {
+            "Id": 378450,
+            "IsShakil": false,
+            "BarKod": "7290113192300",
+            "Name": "חרוזית זיתים מושחרים ללא גלעין",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1676527914/Production/7290113192300/589a85f6-bef0-44ed-ab9f-298b5b92c361.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1676527914/Production/7290113192300/589a85f6-bef0-44ed-ab9f-298b5b92c361.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 275.0,
+            "PricePerUnitNeto": 4.33,
+            "PricePerUnitNetoDesc": "4.33 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "275 גרם",
+            "Price_NET": 11.9,
+            "Price_Regular": 11.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290113192300,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1676527914/Production/7290113192300/589a85f6-bef0-44ed-ab9f-298b5b92c361.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1676527914/Production/7290113192300/589a85f6-bef0-44ed-ab9f-298b5b92c361.jpg",
+                "Image_File_Name": "589a85f6-bef0-44ed-ab9f-298b5b92c361.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1676527914/Production/7290113192300/589a85f6-bef0-44ed-ab9f-298b5b92c361.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "זיתים שחורים בלי חרצנים זית  זיתים  ירוק  שחור  זית ללא גלעין  בית השיטה  חמוצים  חרוזית בית השיטה  אסם  בית השיטה  חרוזית  זיתים ירוקים ללא גלעין  חרוזית מושחר  זיתים שחורים",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1676527914/Production/7290113192300/589a85f6-bef0-44ed-ab9f-298b5b92c361.jpg"
+          },
+          {
+            "Id": 253514,
+            "IsShakil": false,
+            "BarKod": "7290002317081",
+            "Name": "זיתים ירוקים נטולי גלעין",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1705239487/Production/7290002317081/18816d3b-f60f-47d5-a9c0-5af73569452f.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1705239487/Production/7290002317081/18816d3b-f60f-47d5-a9c0-5af73569452f.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 275.0,
+            "PricePerUnitNeto": 5.42,
+            "PricePerUnitNetoDesc": "5.42 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "275 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317081,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1705239487/Production/7290002317081/18816d3b-f60f-47d5-a9c0-5af73569452f.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1705239487/Production/7290002317081/18816d3b-f60f-47d5-a9c0-5af73569452f.jpg",
+                "Image_File_Name": "18816d3b-f60f-47d5-a9c0-5af73569452f.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1705239487/Production/7290002317081/18816d3b-f60f-47d5-a9c0-5af73569452f.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימורים חרוזית מוטולה זיתים ירוקים נטולי גלעין תוספת 20% 670 גרם",
+            "ORank": 0.0104265,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1705239487/Production/7290002317081/18816d3b-f60f-47d5-a9c0-5af73569452f.jpg"
+          },
+          {
+            "Id": 253512,
+            "IsShakil": false,
+            "BarKod": "7290002317326",
+            "Name": "זיתים ירוקים מנזנילו",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1705239398/Production/7290002317326/78bdc1ba-e1ff-409b-86ab-8b801cfdafde.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1705239398/Production/7290002317326/78bdc1ba-e1ff-409b-86ab-8b801cfdafde.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.12,
+            "PricePerUnitDesc": "2.12 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 3.5,
+            "PricePerUnitNetoDesc": "3.50 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 11.9,
+            "Price_Regular": 11.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317326,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1705239398/Production/7290002317326/78bdc1ba-e1ff-409b-86ab-8b801cfdafde.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1705239398/Production/7290002317326/78bdc1ba-e1ff-409b-86ab-8b801cfdafde.jpg",
+                "Image_File_Name": "78bdc1ba-e1ff-409b-86ab-8b801cfdafde.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1705239398/Production/7290002317326/78bdc1ba-e1ff-409b-86ab-8b801cfdafde.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימורים מנזלינו שימורים  מוטולה  זיתים  ירוקים  מנזנילו  בינוני ",
+            "ORank": 0.00134697,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1705239398/Production/7290002317326/78bdc1ba-e1ff-409b-86ab-8b801cfdafde.jpg"
+          },
+          {
+            "Id": 253529,
+            "IsShakil": false,
+            "BarKod": "7290002317678",
+            "Name": "זיתים ירוקים נטולי גרעין",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317678.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317678.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 265.0,
+            "PricePerUnitNeto": 5.62,
+            "PricePerUnitNetoDesc": "5.62 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "265 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317678,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317678.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317678.jpg",
+                "Image_File_Name": "2317678.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317678.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שימורים  זיתים ירוקים  נטולי גלעין  צנצנת זכוכית",
+            "ORank": 0.00349214,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317678.jpg"
+          },
+          {
+            "Id": 253527,
+            "IsShakil": false,
+            "BarKod": "7290002317654",
+            "Name": "זיתים ירוקים נובו ענק בצנצנת",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317654.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317654.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.27,
+            "PricePerUnitDesc": "2.27 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "700 גרם",
+            "UnitSizeNeto": 410.0,
+            "PricePerUnitNeto": 3.88,
+            "PricePerUnitNetoDesc": "3.88 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "410 גרם",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317654,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317654.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317654.jpg",
+                "Image_File_Name": "2317654.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317654.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שימורים  מוטולה  זיתים  ירוקים  נובו ענק  700 גרם",
+            "ORank": 0.000997755,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317654.jpg"
+          },
+          {
+            "Id": 253531,
+            "IsShakil": false,
+            "BarKod": "7290002317753",
+            "Name": "טבעות זיתים ירוקים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1662618562/Production/2317753/1cb652c2-020e-4e47-bd02-ba0e4e02f9bd.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1662618562/Production/2317753/1cb652c2-020e-4e47-bd02-ba0e4e02f9bd.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 275.0,
+            "PricePerUnitNeto": 5.42,
+            "PricePerUnitNetoDesc": "5.42 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "275 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317753,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1662618562/Production/2317753/1cb652c2-020e-4e47-bd02-ba0e4e02f9bd.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1662618562/Production/2317753/1cb652c2-020e-4e47-bd02-ba0e4e02f9bd.jpg",
+                "Image_File_Name": "1cb652c2-020e-4e47-bd02-ba0e4e02f9bd.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1662618562/Production/2317753/1cb652c2-020e-4e47-bd02-ba0e4e02f9bd.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שימורים  טבעות  זיתים ירוקים  צנצנת זכוכית",
+            "ORank": 0.00249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1662618562/Production/2317753/1cb652c2-020e-4e47-bd02-ba0e4e02f9bd.jpg"
+          },
+          {
+            "Id": 253687,
+            "IsShakil": false,
+            "BarKod": "7290002317661",
+            "Name": "זיתים ירוקים מנזנילו גדול בצנצנת",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317661.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317661.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 330.0,
+            "PricePerUnitNeto": 4.52,
+            "PricePerUnitNetoDesc": "4.52 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "330 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317661,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317661.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317661.jpg",
+                "Image_File_Name": "2317661.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317661.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שימורים  מוטולה  זיתים ירוקים  מנזנילו  גדול  צנצנת זכוכית ",
+            "ORank": 0.000947867,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317661.jpg"
+          },
+          {
+            "Id": 253515,
+            "IsShakil": false,
+            "BarKod": "7290002317579",
+            "Name": "טבעות זיתים ירוקים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317579.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317579.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 270.0,
+            "PricePerUnitNeto": 5.52,
+            "PricePerUnitNetoDesc": "5.52 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "270 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317579,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317579.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317579.jpg",
+                "Image_File_Name": "2317579.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317579.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימור שימורים  מוטולה  טבעות  זיתים ירוקים  560 גרם",
+            "ORank": 0.000748316,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317579.jpg"
+          },
+          {
+            "Id": 124577,
+            "IsShakil": false,
+            "BarKod": "7290002317616",
+            "Name": "זיתים חתוכים מרינט",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317616.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317616.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.48,
+            "PricePerUnitDesc": "2.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 4.09,
+            "PricePerUnitNetoDesc": "4.09 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 13.9,
+            "Price_Regular": 13.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317616,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317616.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317616.jpg",
+                "Image_File_Name": "2317616.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317616.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שימורים  מוטולה  זיתים  חתוכים  מרינד  A-2",
+            "ORank": 0.000648541,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317616.jpg"
+          },
+          {
+            "Id": 253522,
+            "IsShakil": false,
+            "BarKod": "7290002317005",
+            "Name": "טבעות זיתים מושחרים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317005.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317005.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 270.0,
+            "PricePerUnitNeto": 5.52,
+            "PricePerUnitNetoDesc": "5.52 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "270 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317005,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317005.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317005.jpg",
+                "Image_File_Name": "2317005.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317005.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימור שימורים  מוטולה  טבעות  זיתים  מושחרים  A-2",
+            "ORank": 0.000249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317005.jpg"
+          },
+          {
+            "Id": 253521,
+            "IsShakil": false,
+            "BarKod": "7290002317371",
+            "Name": "זיתים מושחרים נטולי גלעין",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317371.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317371.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 275.0,
+            "PricePerUnitNeto": 5.42,
+            "PricePerUnitNetoDesc": "5.42 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "275 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317371,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317371.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317371.jpg",
+                "Image_File_Name": "2317371.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317371.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימור חרוזית שימורים  מוטולה  זיתים  מושחרים  נוטולי גלעין  A-2",
+            "ORank": 0.000249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317371.jpg"
+          },
+          {
+            "Id": 253520,
+            "IsShakil": false,
+            "BarKod": "7290002317234",
+            "Name": "זיתים מושחרים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317234.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317234.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 4.38,
+            "PricePerUnitNetoDesc": "4.38 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317234,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317234.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317234.jpg",
+                "Image_File_Name": "2317234.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317234.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימור שימורים  מוטולה  זיתים  מושחרים  A-2",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317234.jpg"
+          },
+          {
+            "Id": 253519,
+            "IsShakil": false,
+            "BarKod": "7290002317241",
+            "Name": "זיתים מבוקעים סורי",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/2317241.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317241.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.84,
+            "PricePerUnitDesc": "2.84 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 4.68,
+            "PricePerUnitNetoDesc": "4.68 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 15.9,
+            "Price_Regular": 15.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290002317241,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2317241.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2317241.jpg",
+                "Image_File_Name": "2317241.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317241.jpg"
+              },
+              {
+                "Barcode": 7290002317241,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1722859304/Production/7290002317241/efe6c178-dc7c-4cf2-bddb-f3f3ee061174.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1722859304/Production/7290002317241/efe6c178-dc7c-4cf2-bddb-f3f3ee061174.jpg",
+                "Image_File_Name": "efe6c178-dc7c-4cf2-bddb-f3f3ee061174.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1722859304/Production/7290002317241/efe6c178-dc7c-4cf2-bddb-f3f3ee061174.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שימור זיתים  מבוקעים  סורי  A-2",
+            "ORank": 0.000698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2317241.jpg"
+          },
+          {
+            "Id": 312992,
+            "IsShakil": false,
+            "BarKod": "7290012212055",
+            "Name": "קוקטייל זיתים ישראלי",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290012212055.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290012212055.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1555,
+            "ManufacturerName": "מוטולה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.66,
+            "PricePerUnitDesc": "2.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 4.38,
+            "PricePerUnitNetoDesc": "4.38 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 14.9,
+            "Price_Regular": 14.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290012212055,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7290012212055.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290012212055.jpg",
+                "Image_File_Name": "7290012212055.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290012212055.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " קוקטל  זיתים  ישראלי  חתוכים מרינד  ירוקים שלמים  מבוקעים",
+            "ORank": 0.000149663,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290012212055.jpg"
+          },
+          {
+            "Id": 410948,
+            "IsShakil": false,
+            "BarKod": "7290011947781",
+            "Name": "מיקס זית ירוק וזית קלמטה ללא גלעין",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1735499155/Production/7290011947781/7290011947781_P111-10-2024_07-08-04.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1735499155/Production/7290011947781/7290011947781_P111-10-2024_07-08-04.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 165.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 9.15,
+            "PricePerUnitDesc": "9.15 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "165 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290011947781,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1735499155/Production/7290011947781/7290011947781_P111-10-2024_07-08-04.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1735499155/Production/7290011947781/7290011947781_P111-10-2024_07-08-04.jpg",
+                "Image_File_Name": "7290011947781_P111-10-2024_07-08-04.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1735499155/Production/7290011947781/7290011947781_P111-10-2024_07-08-04.jpg"
+              },
+              {
+                "Barcode": 7290011947781,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1735499155/Production/7290011947781/7290011947781_S1_1512-29-2024_07-10-43.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1735499155/Production/7290011947781/7290011947781_S1_1512-29-2024_07-10-43.jpg",
+                "Image_File_Name": "7290011947781_S1_1512-29-2024_07-10-43.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1735499155/Production/7290011947781/7290011947781_S1_1512-29-2024_07-10-43.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זיתים  קלמטה  זיתא  זית ירוק",
+            "ORank": 0.00194562,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1735499155/Production/7290011947781/7290011947781_P111-10-2024_07-08-04.jpg"
+          },
+          {
+            "Id": 342131,
+            "IsShakil": false,
+            "BarKod": "7290011947316",
+            "Name": "זיתי קלמטה עם שמן זית כתית מעולה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736881471/Production/7290011947316/7290011947316_P111-10-2024_07-06-38.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736881471/Production/7290011947316/7290011947316_P111-10-2024_07-06-38.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 215.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.02,
+            "PricePerUnitDesc": "7.02 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "215 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290011947316,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736881471/Production/7290011947316/7290011947316_P111-10-2024_07-06-38.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736881471/Production/7290011947316/7290011947316_P111-10-2024_07-06-38.jpg",
+                "Image_File_Name": "7290011947316_P111-10-2024_07-06-38.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736881471/Production/7290011947316/7290011947316_P111-10-2024_07-06-38.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "זיתים שחורים זיתים  קלמטה  זיתא",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736881471/Production/7290011947316/7290011947316_P111-10-2024_07-06-38.jpg"
+          },
+          {
+            "Id": 8714,
+            "IsShakil": false,
+            "BarKod": "5201940010011",
+            "Name": "ויליפוד זיתים שחורים מזן קלמטה במי מלח בפח",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643580049/Production/5201940010011/5201940010011_P1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643580049/Production/5201940010011/5201940010011_P1.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 454.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.33,
+            "PricePerUnitDesc": "3.33 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "454 גרם",
+            "UnitSizeNeto": 250.0,
+            "PricePerUnitNeto": 6.04,
+            "PricePerUnitNetoDesc": "6.04 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "250 גרם",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5201940010011,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643580049/Production/5201940010011/5201940010011_P1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643580049/Production/5201940010011/5201940010011_P1.jpg",
+                "Image_File_Name": "5201940010011_P1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643580049/Production/5201940010011/5201940010011_P1.jpg"
+              },
+              {
+                "Barcode": 5201940010011,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643580049/Production/5201940010011/5201940010011_S1_15.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643580049/Production/5201940010011/5201940010011_S1_15.jpg",
+                "Image_File_Name": "5201940010011_S1_15.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643580049/Production/5201940010011/5201940010011_S1_15.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ויליפוד  זיתים  זיתים שחורים  קלמטה  מי מלח  454 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643580049/Production/5201940010011/5201940010011_P1.jpg"
+          },
+          {
+            "Id": 515690,
+            "IsShakil": false,
+            "BarKod": "7290019233114",
+            "Name": "זית בלאדי - זית ירוק מבוקע עם גלעין זיתא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1731265251/Production/7290019233114/7290019233114_P111-10-2024_07-11-44.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265251/Production/7290019233114/7290019233114_P111-10-2024_07-11-44.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 215.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.02,
+            "PricePerUnitDesc": "7.02 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "215 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019233114,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731265251/Production/7290019233114/7290019233114_P111-10-2024_07-11-44.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265251/Production/7290019233114/7290019233114_P111-10-2024_07-11-44.jpg",
+                "Image_File_Name": "7290019233114_P111-10-2024_07-11-44.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731265251/Production/7290019233114/7290019233114_P111-10-2024_07-11-44.jpg"
+              },
+              {
+                "Barcode": 7290019233114,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730142165/Production/7290019233114/7290019233114S11510-08-2024_15-03-59.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142165/Production/7290019233114/7290019233114S11510-08-2024_15-03-59.jpg",
+                "Image_File_Name": "7290019233114S11510-08-2024_15-03-59.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730142165/Production/7290019233114/7290019233114S11510-08-2024_15-03-59.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זיתים  זיתא  זית ירוק  ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265251/Production/7290019233114/7290019233114_P111-10-2024_07-11-44.jpg"
+          },
+          {
+            "Id": 518924,
+            "IsShakil": false,
+            "BarKod": "7290019233169",
+            "Name": "זית ירוק יווני עם שום ללא גלעין זיתא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1731265255/Production/7290019233169/7290019233169_P111-10-2024_07-12-46.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265255/Production/7290019233169/7290019233169_P111-10-2024_07-12-46.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 190.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.95,
+            "PricePerUnitDesc": "7.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "190 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019233169,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731265255/Production/7290019233169/7290019233169_P111-10-2024_07-12-46.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265255/Production/7290019233169/7290019233169_P111-10-2024_07-12-46.jpg",
+                "Image_File_Name": "7290019233169_P111-10-2024_07-12-46.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731265255/Production/7290019233169/7290019233169_P111-10-2024_07-12-46.jpg"
+              },
+              {
+                "Barcode": 7290019233169,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730142168/Production/7290019233169/7290019233169099910-08-2024_14-19-31.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142168/Production/7290019233169/7290019233169099910-08-2024_14-19-31.jpg",
+                "Image_File_Name": "7290019233169099910-08-2024_14-19-31.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730142168/Production/7290019233169/7290019233169099910-08-2024_14-19-31.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זיתים  זיתא  שום  זית ירוק  יווני",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265255/Production/7290019233169/7290019233169_P111-10-2024_07-12-46.jpg"
+          },
+          {
+            "Id": 515691,
+            "IsShakil": false,
+            "BarKod": "7290019233107",
+            "Name": "זית ירוק עם עשבי תיבול עם גלעין זיתא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1730142161/Production/7290019233107/7290019233107P11210-08-2024_15-14-06.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142161/Production/7290019233107/7290019233107P11210-08-2024_15-14-06.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 215.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.02,
+            "PricePerUnitDesc": "7.02 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "215 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019233107,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730142161/Production/7290019233107/7290019233107P11210-08-2024_15-14-06.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142161/Production/7290019233107/7290019233107P11210-08-2024_15-14-06.jpg",
+                "Image_File_Name": "7290019233107P11210-08-2024_15-14-06.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730142161/Production/7290019233107/7290019233107P11210-08-2024_15-14-06.jpg"
+              },
+              {
+                "Barcode": 7290019233107,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730142161/Production/7290019233107/7290019233107P1110-08-2024_15-13-31.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142161/Production/7290019233107/7290019233107P1110-08-2024_15-13-31.jpg",
+                "Image_File_Name": "7290019233107P1110-08-2024_15-13-31.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730142161/Production/7290019233107/7290019233107P1110-08-2024_15-13-31.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זיתים  זיתא  זית ירוק",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142161/Production/7290019233107/7290019233107P11210-08-2024_15-14-06.jpg"
+          },
+          {
+            "Id": 515692,
+            "IsShakil": false,
+            "BarKod": "7290019233190",
+            "Name": "זית ירוק עם צ'ילי חריף עם גלעין זיתא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1731265275/Production/7290019233190/7290019233190_P111-10-2024_07-16-40.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265275/Production/7290019233190/7290019233190_P111-10-2024_07-16-40.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 215.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.02,
+            "PricePerUnitDesc": "7.02 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "215 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019233190,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731265275/Production/7290019233190/7290019233190_P111-10-2024_07-16-40.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265275/Production/7290019233190/7290019233190_P111-10-2024_07-16-40.jpg",
+                "Image_File_Name": "7290019233190_P111-10-2024_07-16-40.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731265275/Production/7290019233190/7290019233190_P111-10-2024_07-16-40.jpg"
+              },
+              {
+                "Barcode": 7290019233190,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730142178/Production/7290019233190/7290019233190S11510-08-2024_15-16-47.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142178/Production/7290019233190/7290019233190S11510-08-2024_15-16-47.jpg",
+                "Image_File_Name": "7290019233190S11510-08-2024_15-16-47.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730142178/Production/7290019233190/7290019233190S11510-08-2024_15-16-47.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זיתים  זיתא  זית ירוק",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265275/Production/7290019233190/7290019233190_P111-10-2024_07-16-40.jpg"
+          },
+          {
+            "Id": 486158,
+            "IsShakil": false,
+            "BarKod": "7290019333227",
+            "Name": "זיתים ירוקים מבוקעים גדולים מאוד בית השיטה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1737462483/Production/7290019333227/462e37d9-5ba7-44a7-9107-fca69c3b44ef.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1737462483/Production/7290019333227/462e37d9-5ba7-44a7-9107-fca69c3b44ef.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.95,
+            "PricePerUnitDesc": "2.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 4.85,
+            "PricePerUnitNetoDesc": "4.85 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 16.5,
+            "Price_Regular": 16.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019333227,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1737462483/Production/7290019333227/462e37d9-5ba7-44a7-9107-fca69c3b44ef.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1737462483/Production/7290019333227/462e37d9-5ba7-44a7-9107-fca69c3b44ef.jpg",
+                "Image_File_Name": "462e37d9-5ba7-44a7-9107-fca69c3b44ef.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1737462483/Production/7290019333227/462e37d9-5ba7-44a7-9107-fca69c3b44ef.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זית ירוק מבוקע זית מבוקע גדול מאוד בית השיטה",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1737462483/Production/7290019333227/462e37d9-5ba7-44a7-9107-fca69c3b44ef.jpg"
+          },
+          {
+            "Id": 486159,
+            "IsShakil": false,
+            "BarKod": "7290019333203",
+            "Name": "זיתים שלמים שחורים קלמטה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1712040122/Production/7290019333203/708acb38-b737-400f-9f66-4eba696cef1e.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1712040122/Production/7290019333203/708acb38-b737-400f-9f66-4eba696cef1e.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 1053,
+            "ManufacturerName": "בית השיטה",
+            "MidaKod": "גרם",
+            "UnitSize": 560.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.95,
+            "PricePerUnitDesc": "2.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "560 גרם",
+            "UnitSizeNeto": 340.0,
+            "PricePerUnitNeto": 4.85,
+            "PricePerUnitNetoDesc": "4.85 ₪ ל- 100 גרם",
+            "WeightUnitNetoDesc": "340 גרם",
+            "Price_NET": 16.5,
+            "Price_Regular": 16.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019333203,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1712040122/Production/7290019333203/708acb38-b737-400f-9f66-4eba696cef1e.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1712040122/Production/7290019333203/708acb38-b737-400f-9f66-4eba696cef1e.jpg",
+                "Image_File_Name": "708acb38-b737-400f-9f66-4eba696cef1e.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1712040122/Production/7290019333203/708acb38-b737-400f-9f66-4eba696cef1e.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זית שלם שחור קלמטה בית השיטה",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1712040122/Production/7290019333203/708acb38-b737-400f-9f66-4eba696cef1e.jpg"
+          },
+          {
+            "Id": 518926,
+            "IsShakil": false,
+            "BarKod": "7290019233176",
+            "Name": "חצאי זיתים ירוקים זיתא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1731265265/Production/7290019233176/7290019233176_P111-10-2024_07-13-48.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265265/Production/7290019233176/7290019233176_P111-10-2024_07-13-48.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 190.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.95,
+            "PricePerUnitDesc": "7.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "190 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019233176,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731265265/Production/7290019233176/7290019233176_P111-10-2024_07-13-48.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265265/Production/7290019233176/7290019233176_P111-10-2024_07-13-48.jpg",
+                "Image_File_Name": "7290019233176_P111-10-2024_07-13-48.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731265265/Production/7290019233176/7290019233176_P111-10-2024_07-13-48.jpg"
+              },
+              {
+                "Barcode": 7290019233176,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730142172/Production/7290019233176/7290019233176S11510-08-2024_14-54-06.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142172/Production/7290019233176/7290019233176S11510-08-2024_14-54-06.jpg",
+                "Image_File_Name": "7290019233176S11510-08-2024_14-54-06.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730142172/Production/7290019233176/7290019233176S11510-08-2024_14-54-06.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זיתים  זיתא  זית ירוק  ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265265/Production/7290019233176/7290019233176_P111-10-2024_07-13-48.jpg"
+          },
+          {
+            "Id": 518925,
+            "IsShakil": false,
+            "BarKod": "7290019233183",
+            "Name": "חרוזיתא זית ירוק ללא גלעין זיתא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1731265269/Production/7290019233183/7290019233183_P111-10-2024_07-15-33.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265269/Production/7290019233183/7290019233183_P111-10-2024_07-15-33.jpg",
+            "CategoryId": 84,
+            "CategoryName": "שימורים",
+            "SubCategoryId": 11182,
+            "SubCategoryName": "שימורי זיתים",
+            "ManufacturerId": 2151,
+            "ManufacturerName": "זיתא",
+            "MidaKod": "גרם",
+            "UnitSize": 190.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.95,
+            "PricePerUnitDesc": "7.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "190 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019233183,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1731265269/Production/7290019233183/7290019233183_P111-10-2024_07-15-33.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265269/Production/7290019233183/7290019233183_P111-10-2024_07-15-33.jpg",
+                "Image_File_Name": "7290019233183_P111-10-2024_07-15-33.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1731265269/Production/7290019233183/7290019233183_P111-10-2024_07-15-33.jpg"
+              },
+              {
+                "Barcode": 7290019233183,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1730142174/Production/7290019233183/7290019233183S11510-08-2024_14-37-04.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1730142174/Production/7290019233183/7290019233183S11510-08-2024_14-37-04.jpg",
+                "Image_File_Name": "7290019233183S11510-08-2024_14-37-04.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1730142174/Production/7290019233183/7290019233183S11510-08-2024_14-37-04.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " זיתים  זיתא  שום  זית ירוק  יווני",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1731265269/Production/7290019233183/7290019233183_P111-10-2024_07-15-33.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 1053,
+            "Name": "בית השיטה"
+          },
+          {
+            "Id": 1159,
+            "Name": "וילי פוד"
+          },
+          {
+            "Id": 2151,
+            "Name": "זיתא"
+          },
+          {
+            "Id": 1555,
+            "Name": "מוטולה"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

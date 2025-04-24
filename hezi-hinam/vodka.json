@@ -1,0 +1,863 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/100.png",
+      "SubCategory": {
+        "Id": 11384,
+        "Name": "וודקה",
+        "Items": [
+          {
+            "Id": 2455,
+            "IsShakil": false,
+            "BarKod": "5410316983693",
+            "Name": "סמירנוף אייס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642820518/Production/5410316983693/5410316983693.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642820518/Production/5410316983693/5410316983693.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": 1364,
+            "ManufacturerName": "סמירנוף אייס Smirnoff ice",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 275.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 4.76,
+            "PricePerUnitDesc": "4.76 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "275 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 5410316983693,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642820518/Production/5410316983693/5410316983693.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642820518/Production/5410316983693/5410316983693.jpg",
+                "Image_File_Name": "5410316983693.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642820518/Production/5410316983693/5410316983693.jpg"
+              },
+              {
+                "Barcode": 5410316983693,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642820518/Production/5410316983693/5410316983693_P1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642820518/Production/5410316983693/5410316983693_P1.jpg",
+                "Image_File_Name": "5410316983693_P1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642820518/Production/5410316983693/5410316983693_P1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "אזהרה: מכיל אלכוהול – מומלץ להימנע משתייה מופרזת",
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " משקה כהלי  מוגז  סמירנוף  אייס",
+            "ORank": 0.00124719,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642820518/Production/5410316983693/5410316983693.jpg"
+          },
+          {
+            "Id": 148490,
+            "IsShakil": false,
+            "BarKod": "4600659010854",
+            "Name": "וודקה סטוליצ'ניה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4600659010854.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4600659010854.png",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": 1959,
+            "ManufacturerName": "סטוליצ'ניה Stolichnaya",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 12.96,
+            "PricePerUnitDesc": "12.96 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 69.9,
+            "Price_Regular": 90.7,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87662,
+              "MivzaDesc": "מבצע",
+              "MivzaText": "וודקה סטולי פרימיום\n1 ב 69.9 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 1.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4600659010854,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4600659010854.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4600659010854.png",
+                "Image_File_Name": "4600659010854.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4600659010854.png"
+              },
+              {
+                "Barcode": 4600659010854,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1637634020/Production/4600659010854/4600659010854_p1_0.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1637634020/Production/4600659010854/4600659010854_p1_0.jpg",
+                "Image_File_Name": "4600659010854_p1_0.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1637634020/Production/4600659010854/4600659010854_p1_0.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "אזהרה: צריכה מופרזת של אלכוהול מסכנת חיים ומזיקה לבריאות!",
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " הכרם  וודקה  סטולי  סטוליצ'ניה  40% כוהל",
+            "ORank": 0.000249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4600659010854.png"
+          },
+          {
+            "Id": 164348,
+            "IsShakil": false,
+            "BarKod": "4600659011059",
+            "Name": "וודקה סטוליצ'ניה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4600659011059.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4600659011059.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": 1959,
+            "ManufacturerName": "סטוליצ'ניה Stolichnaya",
+            "MidaKod": "ליטר",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ליטר",
+            "PricePerUnit": 111.9,
+            "PricePerUnitDesc": "111.90 ₪ ל- 1 ליטר",
+            "WeightUnitDesc": "1 ליטר",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 111.9,
+            "Price_Regular": 111.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4600659011059,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4600659011059.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4600659011059.jpg",
+                "Image_File_Name": "4600659011059.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4600659011059.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "אזהרה: צריכה מופרזת של אלכוהול מסכנת חיים ומזיקה לבריאות!",
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00044899,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4600659011059.jpg"
+          },
+          {
+            "Id": 361011,
+            "IsShakil": false,
+            "BarKod": "5010677850100",
+            "Name": "וודקה גריי גוס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1679252818/Production/5010677850100/5010677850100_P1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679252818/Production/5010677850100/5010677850100_P1.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": null,
+            "ManufacturerName": "",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 17.57,
+            "PricePerUnitDesc": "17.57 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 123.0,
+            "Price_Regular": 123.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 5010677850100,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679252818/Production/5010677850100/5010677850100_P1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679252818/Production/5010677850100/5010677850100_P1.jpg",
+                "Image_File_Name": "5010677850100_P1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679252818/Production/5010677850100/5010677850100_P1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "וודקה גרגוס גריי גוס  וודקה  צרפת",
+            "ORank": 0.000199551,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679252818/Production/5010677850100/5010677850100_P1.jpg"
+          },
+          {
+            "Id": 32734,
+            "IsShakil": false,
+            "BarKod": "4603400000043",
+            "Name": "וודקה רוסקי",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4603400000043.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4603400000043.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": 1987,
+            "ManufacturerName": "רוסקי Russian Standard",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 11.09,
+            "PricePerUnitDesc": "11.09 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 77.6,
+            "Price_Regular": 77.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4603400000043,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4603400000043.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4603400000043.jpg",
+                "Image_File_Name": "4603400000043.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4603400000043.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "אזהרה: צריכה מופרזת של אלכוהול מסכנת חיים ומזיקה לבריאות!",
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000349214,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4603400000043.jpg"
+          },
+          {
+            "Id": 227574,
+            "IsShakil": false,
+            "BarKod": "4820080724735",
+            "Name": "וודקה חלבני דאר",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4820080724735.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4820080724735.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": null,
+            "ManufacturerName": "",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 8.64,
+            "PricePerUnitDesc": "8.64 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 60.5,
+            "Price_Regular": 60.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4820080724735,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4820080724735.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4820080724735.jpg",
+                "Image_File_Name": "4820080724735.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4820080724735.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "אזהרה: צריכה מופרזת של אלכוהול מסכנת חיים ומזיקה לבריאות!",
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4820080724735.jpg"
+          },
+          {
+            "Id": 132247,
+            "IsShakil": false,
+            "BarKod": "4820080720584",
+            "Name": "וודקה חלבני דר קלאסיק",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4820080720584.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4820080720584.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": null,
+            "ManufacturerName": "",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 8.64,
+            "PricePerUnitDesc": "8.64 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 60.5,
+            "Price_Regular": 60.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4820080720584,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4820080720584.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4820080720584.jpg",
+                "Image_File_Name": "4820080720584.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4820080720584.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "אזהרה: צריכה מופרזת של אלכוהול מסכנת חיים ומזיקה לבריאות!",
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 4.98878E-05,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4820080720584.jpg"
+          },
+          {
+            "Id": 515134,
+            "IsShakil": false,
+            "BarKod": "9421012620207",
+            "Name": "וודקה 42 בילואו",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1720548630/Production/9421012620207/9421012620207_s1_1506-27-2024_19-10-02.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1720548630/Production/9421012620207/9421012620207_s1_1506-27-2024_19-10-02.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": null,
+            "ManufacturerName": "",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 11.66,
+            "PricePerUnitDesc": "11.66 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 81.6,
+            "Price_Regular": 81.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 9421012620207,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1720548630/Production/9421012620207/9421012620207_s1_1506-27-2024_19-10-02.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1720548630/Production/9421012620207/9421012620207_s1_1506-27-2024_19-10-02.jpg",
+                "Image_File_Name": "9421012620207_s1_1506-27-2024_19-10-02.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1720548630/Production/9421012620207/9421012620207_s1_1506-27-2024_19-10-02.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " כוהל  פינלנדיה  finlandia  וודקה  ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1720548630/Production/9421012620207/9421012620207_s1_1506-27-2024_19-10-02.jpg"
+          },
+          {
+            "Id": 328191,
+            "IsShakil": false,
+            "BarKod": "4750021005725",
+            "Name": "וודקה סטוליצ'ניה ללא גלוטן 40% כוהל",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1637634049/Production/4750021005725/4750021005725_P103-11-2021_09-20-32.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1637634049/Production/4750021005725/4750021005725_P103-11-2021_09-20-32.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": 1959,
+            "ManufacturerName": "סטוליצ'ניה Stolichnaya",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 12.96,
+            "PricePerUnitDesc": "12.96 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 90.7,
+            "Price_Regular": 90.7,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 4750021005725,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1637634049/Production/4750021005725/4750021005725_P103-11-2021_09-20-32.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1637634049/Production/4750021005725/4750021005725_P103-11-2021_09-20-32.jpg",
+                "Image_File_Name": "4750021005725_P103-11-2021_09-20-32.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1637634049/Production/4750021005725/4750021005725_P103-11-2021_09-20-32.jpg"
+              },
+              {
+                "Barcode": 4750021005725,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1678043263/Production/4750021005725/4750021005725_S103-05-2023_10-21-56.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1678043263/Production/4750021005725/4750021005725_S103-05-2023_10-21-56.jpg",
+                "Image_File_Name": "4750021005725_S103-05-2023_10-21-56.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1678043263/Production/4750021005725/4750021005725_S103-05-2023_10-21-56.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " הכרם  וודקה  סטולי  סטוליצ'ניה  40% כוהל.ללא גלוטן",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.3,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1637634049/Production/4750021005725/4750021005725_P103-11-2021_09-20-32.jpg"
+          },
+          {
+            "Id": 522931,
+            "IsShakil": false,
+            "BarKod": "6440003100095",
+            "Name": "וודקה פינלנדיה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1739388517/Production/6440003100095/6440003100095_s1_1510-14-2024_19-10-43.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1739388517/Production/6440003100095/6440003100095_s1_1510-14-2024_19-10-43.jpg",
+            "CategoryId": 79,
+            "CategoryName": "משקאות",
+            "SubCategoryId": 11384,
+            "SubCategoryName": "וודקה",
+            "ManufacturerId": 1441,
+            "ManufacturerName": "פינלנדיה Finlandia",
+            "MidaKod": "מ\"ל",
+            "UnitSize": 700.0,
+            "UnitSizeDesc": "מ\"ל",
+            "PricePerUnit": 10.76,
+            "PricePerUnitDesc": "10.76 ₪ ל- 100 מ\"ל",
+            "WeightUnitDesc": "700 מ\"ל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 64.6,
+            "Price_Regular": 75.3,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 6440003100095,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1739388517/Production/6440003100095/6440003100095_s1_1510-14-2024_19-10-43.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1739388517/Production/6440003100095/6440003100095_s1_1510-14-2024_19-10-43.jpg",
+                "Image_File_Name": "6440003100095_s1_1510-14-2024_19-10-43.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1739388517/Production/6440003100095/6440003100095_s1_1510-14-2024_19-10-43.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": "אזהרה: צריכה מופרזת של אלכוהול מסכנת חיים ומזיקה לבריאות!",
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1739388517/Production/6440003100095/6440003100095_s1_1510-14-2024_19-10-43.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 1959,
+            "Name": "סטוליצ'ניה Stolichnaya"
+          },
+          {
+            "Id": 1364,
+            "Name": "סמירנוף אייס Smirnoff ice"
+          },
+          {
+            "Id": 1441,
+            "Name": "פינלנדיה Finlandia"
+          },
+          {
+            "Id": 1987,
+            "Name": "רוסקי Russian Standard"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

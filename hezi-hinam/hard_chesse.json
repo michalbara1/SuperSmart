@@ -1,0 +1,1483 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/400.png",
+      "SubCategory": {
+        "Id": 10894,
+        "Name": "גבינות קשות",
+        "Items": [
+          {
+            "Id": 234931,
+            "IsShakil": true,
+            "BarKod": "5384295",
+            "Name": "גבינת גאודה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/5384295.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/5384295.jpg",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 2409,
+            "ManufacturerName": "יורו צ'יז Euro Cheese",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 47.5,
+            "PricePerUnitDesc": "47.50 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 47.5,
+            "Price_Regular": 47.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": true,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 5384295,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/5384295.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/5384295.jpg",
+                "Image_File_Name": "5384295.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/5384295.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "משקל ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/5384295.jpg"
+          },
+          {
+            "Id": 3506,
+            "IsShakil": true,
+            "BarKod": "47027",
+            "Name": "גבינת גלעד",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/47027.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/47027.jpg",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1573,
+            "ManufacturerName": "תנובה",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 143.3,
+            "PricePerUnitDesc": "143.30 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 112.9,
+            "Price_Regular": 143.3,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 14/04/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 47027,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/47027.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/47027.jpg",
+                "Image_File_Name": "47027.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/47027.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "משקל ",
+            "ORank": 0.00239461,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/47027.jpg"
+          },
+          {
+            "Id": 109202,
+            "IsShakil": true,
+            "BarKod": "571119",
+            "Name": "גבינת גאודה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/571119.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/571119.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1132,
+            "ManufacturerName": "המחלבה מבית יצחק",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 121.0,
+            "PricePerUnitDesc": "121.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 121.0,
+            "Price_Regular": 121.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": true,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 571119,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/571119.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/571119.png",
+                "Image_File_Name": "571119.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/571119.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "משקל ",
+            "ORank": 0.00723372,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/571119.png"
+          },
+          {
+            "Id": 195152,
+            "IsShakil": true,
+            "BarKod": "571294",
+            "Name": "גבינה גאודה מעושנת",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/571294.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/571294.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1132,
+            "ManufacturerName": "המחלבה מבית יצחק",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 120.1,
+            "PricePerUnitDesc": "120.10 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 120.1,
+            "Price_Regular": 120.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": true,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 571294,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/571294.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/571294.png",
+                "Image_File_Name": "571294.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/571294.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "משקל ",
+            "ORank": 0.0044899,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/571294.png"
+          },
+          {
+            "Id": 1217,
+            "IsShakil": true,
+            "BarKod": "554006",
+            "Name": "גבינת קשקבל 22%",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/dddeff9b-fcb6-4590-81a7-6d0aafa199a2_554006.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/dddeff9b-fcb6-4590-81a7-6d0aafa199a2_554006.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1269,
+            "ManufacturerName": "מחלבות גד",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 145.0,
+            "PricePerUnitDesc": "145.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 145.0,
+            "Price_Regular": 145.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": true,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 554006,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/dddeff9b-fcb6-4590-81a7-6d0aafa199a2_554006.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/dddeff9b-fcb6-4590-81a7-6d0aafa199a2_554006.png",
+                "Image_File_Name": "dddeff9b-fcb6-4590-81a7-6d0aafa199a2_554006.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/dddeff9b-fcb6-4590-81a7-6d0aafa199a2_554006.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "משקל ",
+            "ORank": 0.00698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/dddeff9b-fcb6-4590-81a7-6d0aafa199a2_554006.png"
+          },
+          {
+            "Id": 260960,
+            "IsShakil": true,
+            "BarKod": "4068424",
+            "Name": "משולש גבינת גאודה הולנדית מחלב בקר 30%",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4068424.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4068424.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1269,
+            "ManufacturerName": "מחלבות גד",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 12.4,
+            "PricePerUnitDesc": "12.40 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 124.0,
+            "Price_Regular": 124.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.18,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.18 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4068424,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4068424.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4068424.png",
+                "Image_File_Name": "4068424.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4068424.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "משקל ",
+            "ORank": 0.000349214,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4068424.png"
+          },
+          {
+            "Id": 286757,
+            "IsShakil": true,
+            "BarKod": "4068585",
+            "Name": "משולש גבינת גאודה עיזים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4068585.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4068585.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1269,
+            "ManufacturerName": "מחלבות גד",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 14.5,
+            "PricePerUnitDesc": "14.50 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 145.0,
+            "Price_Regular": 145.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.18,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.18 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4068585,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4068585.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4068585.png",
+                "Image_File_Name": "4068585.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4068585.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "עזים ",
+            "ORank": 0.000598653,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4068585.png"
+          },
+          {
+            "Id": 390157,
+            "IsShakil": true,
+            "BarKod": "2370475",
+            "Name": "גבינה כחולה - גבינה בשלה עם עובש כחול",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1653206963/Production/2370475/c8dfc120-8576-4b71-89c8-a81dad2552d7.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1653206963/Production/2370475/c8dfc120-8576-4b71-89c8-a81dad2552d7.jpg",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 2735,
+            "ManufacturerName": "Euro יורו מחלבות אירופה",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 99.9,
+            "PricePerUnitDesc": "99.90 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 70.0,
+            "Price_Regular": 99.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 2370475,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1653206963/Production/2370475/c8dfc120-8576-4b71-89c8-a81dad2552d7.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1653206963/Production/2370475/c8dfc120-8576-4b71-89c8-a81dad2552d7.jpg",
+                "Image_File_Name": "c8dfc120-8576-4b71-89c8-a81dad2552d7.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1653206963/Production/2370475/c8dfc120-8576-4b71-89c8-a81dad2552d7.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00349214,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1653206963/Production/2370475/c8dfc120-8576-4b71-89c8-a81dad2552d7.jpg"
+          },
+          {
+            "Id": 269117,
+            "IsShakil": true,
+            "BarKod": "8175777",
+            "Name": "גבינת איבריקו 31% שומן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669198668/Production/8175777/5347251a-9d83-4550-91f1-80acae0fafa2.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669198668/Production/8175777/5347251a-9d83-4550-91f1-80acae0fafa2.jpg",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 99.9,
+            "PricePerUnitDesc": "99.90 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 99.9,
+            "Price_Regular": 99.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8175777,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669198668/Production/8175777/5347251a-9d83-4550-91f1-80acae0fafa2.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669198668/Production/8175777/5347251a-9d83-4550-91f1-80acae0fafa2.jpg",
+                "Image_File_Name": "5347251a-9d83-4550-91f1-80acae0fafa2.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669198668/Production/8175777/5347251a-9d83-4550-91f1-80acae0fafa2.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000947867,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669198668/Production/8175777/5347251a-9d83-4550-91f1-80acae0fafa2.jpg"
+          },
+          {
+            "Id": 379137,
+            "IsShakil": true,
+            "BarKod": "2370420",
+            "Name": "גבינת גאודה הולנדית 29% שומן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669198668/Production/2370420/441f4691-e059-4944-a0d1-4506b4a1c776.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669198668/Production/2370420/441f4691-e059-4944-a0d1-4506b4a1c776.jpg",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 2735,
+            "ManufacturerName": "Euro יורו מחלבות אירופה",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 70.6,
+            "PricePerUnitDesc": "70.60 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 65.0,
+            "Price_Regular": 70.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 2370420,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669198668/Production/2370420/441f4691-e059-4944-a0d1-4506b4a1c776.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669198668/Production/2370420/441f4691-e059-4944-a0d1-4506b4a1c776.jpg",
+                "Image_File_Name": "441f4691-e059-4944-a0d1-4506b4a1c776.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669198668/Production/2370420/441f4691-e059-4944-a0d1-4506b4a1c776.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00703417,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669198668/Production/2370420/441f4691-e059-4944-a0d1-4506b4a1c776.jpg"
+          },
+          {
+            "Id": 109203,
+            "IsShakil": true,
+            "BarKod": "571126",
+            "Name": "גבינת גאודה כמון",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/571126.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/571126.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1132,
+            "ManufacturerName": "המחלבה מבית יצחק",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 121.0,
+            "PricePerUnitDesc": "121.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 121.0,
+            "Price_Regular": 121.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": true,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 571126,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/571126.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/571126.png",
+                "Image_File_Name": "571126.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/571126.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00229484,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/571126.png"
+          },
+          {
+            "Id": 312054,
+            "IsShakil": true,
+            "BarKod": "4982355",
+            "Name": "גבינת טריפל צ'דר אנגלי 35%",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/af086955-6e94-41bf-8165-704af80bf19f_4982355.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/af086955-6e94-41bf-8165-704af80bf19f_4982355.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 2232,
+            "ManufacturerName": "הגבינות של נני",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 126.1,
+            "PricePerUnitDesc": "126.10 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 126.1,
+            "Price_Regular": 126.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4982355,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/af086955-6e94-41bf-8165-704af80bf19f_4982355.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/af086955-6e94-41bf-8165-704af80bf19f_4982355.png",
+                "Image_File_Name": "af086955-6e94-41bf-8165-704af80bf19f_4982355.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/af086955-6e94-41bf-8165-704af80bf19f_4982355.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00219506,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/af086955-6e94-41bf-8165-704af80bf19f_4982355.png"
+          },
+          {
+            "Id": 234934,
+            "IsShakil": true,
+            "BarKod": "8175906",
+            "Name": "גבינת עיזים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1716448664/Production/8175906/f049bbf3-bebb-4660-bea9-e8da6e1376f6.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716448664/Production/8175906/f049bbf3-bebb-4660-bea9-e8da6e1376f6.jpg",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 120.1,
+            "PricePerUnitDesc": "120.10 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 120.1,
+            "Price_Regular": 120.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 8175906,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1716448664/Production/8175906/f049bbf3-bebb-4660-bea9-e8da6e1376f6.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716448664/Production/8175906/f049bbf3-bebb-4660-bea9-e8da6e1376f6.jpg",
+                "Image_File_Name": "f049bbf3-bebb-4660-bea9-e8da6e1376f6.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1716448664/Production/8175906/f049bbf3-bebb-4660-bea9-e8da6e1376f6.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1716448664/Production/8175906/f049bbf3-bebb-4660-bea9-e8da6e1376f6.jpg"
+          },
+          {
+            "Id": 341731,
+            "IsShakil": true,
+            "BarKod": "2370284",
+            "Name": "גבינת קשקבל 31%",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1723623883/Production/2370284/57477c80-9f65-44c1-89c9-9509497bff33.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1723623883/Production/2370284/57477c80-9f65-44c1-89c9-9509497bff33.jpg",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 2409,
+            "ManufacturerName": "יורו צ'יז Euro Cheese",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 110.0,
+            "PricePerUnitDesc": "110.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 110.0,
+            "Price_Regular": 110.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 2370284,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1723623883/Production/2370284/57477c80-9f65-44c1-89c9-9509497bff33.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1723623883/Production/2370284/57477c80-9f65-44c1-89c9-9509497bff33.jpg",
+                "Image_File_Name": "57477c80-9f65-44c1-89c9-9509497bff33.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1723623883/Production/2370284/57477c80-9f65-44c1-89c9-9509497bff33.jpg"
+              },
+              {
+                "Barcode": 2370284,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/2370284.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/2370284.jpg",
+                "Image_File_Name": "2370284.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/2370284.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "קשקבל ספרדי ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1723623883/Production/2370284/57477c80-9f65-44c1-89c9-9509497bff33.jpg"
+          },
+          {
+            "Id": 292672,
+            "IsShakil": true,
+            "BarKod": "2385196",
+            "Name": "גבינת רוקפור",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/cfa4bf91-316d-434b-92cd-b13be0692446_2385196.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/cfa4bf91-316d-434b-92cd-b13be0692446_2385196.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1269,
+            "ManufacturerName": "מחלבות גד",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 157.0,
+            "PricePerUnitDesc": "157.00 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 157.0,
+            "Price_Regular": 157.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "לא ניתן לספק מגורד",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 2385196,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/cfa4bf91-316d-434b-92cd-b13be0692446_2385196.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/cfa4bf91-316d-434b-92cd-b13be0692446_2385196.png",
+                "Image_File_Name": "cfa4bf91-316d-434b-92cd-b13be0692446_2385196.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/cfa4bf91-316d-434b-92cd-b13be0692446_2385196.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00139686,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/cfa4bf91-316d-434b-92cd-b13be0692446_2385196.png"
+          },
+          {
+            "Id": 241304,
+            "IsShakil": true,
+            "BarKod": "2385738",
+            "Name": "משולש גבינת מנצ'גו",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/18174ff4-0f0e-4ad4-84c9-fd92cf273055_2385738.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/18174ff4-0f0e-4ad4-84c9-fd92cf273055_2385738.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 1269,
+            "ManufacturerName": "מחלבות גד",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 16.0,
+            "PricePerUnitDesc": "16.00 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 160.0,
+            "Price_Regular": 160.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.13,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.13 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 2385738,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/18174ff4-0f0e-4ad4-84c9-fd92cf273055_2385738.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/18174ff4-0f0e-4ad4-84c9-fd92cf273055_2385738.png",
+                "Image_File_Name": "18174ff4-0f0e-4ad4-84c9-fd92cf273055_2385738.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/18174ff4-0f0e-4ad4-84c9-fd92cf273055_2385738.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00329259,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/18174ff4-0f0e-4ad4-84c9-fd92cf273055_2385738.png"
+          },
+          {
+            "Id": 153449,
+            "IsShakil": true,
+            "BarKod": "6511010",
+            "Name": "פרמז'נו (רכיבי חלב ושומן צמחי)",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/dfbd55d1-2c34-40d7-ae07-00f64f5c7c82_6511010.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/dfbd55d1-2c34-40d7-ae07-00f64f5c7c82_6511010.png",
+            "CategoryId": 41,
+            "CategoryName": "מעדניית גבינות",
+            "SubCategoryId": 10894,
+            "SubCategoryName": "גבינות קשות",
+            "ManufacturerId": 2735,
+            "ManufacturerName": "Euro יורו מחלבות אירופה",
+            "MidaKod": "ק\"ג",
+            "UnitSize": 1.0,
+            "UnitSizeDesc": "ק\"ג",
+            "PricePerUnit": 120.1,
+            "PricePerUnitDesc": "120.10 ₪ ל- 1 ק\"ג",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 120.1,
+            "Price_Regular": 120.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 2,
+                  "Interval": 0.1,
+                  "ItemUnitTypeDesc": "ק\"ג",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": true,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 3,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sodium.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 6511010,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/dfbd55d1-2c34-40d7-ae07-00f64f5c7c82_6511010.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/dfbd55d1-2c34-40d7-ae07-00f64f5c7c82_6511010.png",
+                "Image_File_Name": "dfbd55d1-2c34-40d7-ae07-00f64f5c7c82_6511010.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/dfbd55d1-2c34-40d7-ae07-00f64f5c7c82_6511010.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "גבינת פרמזן פרמגן במשקל ",
+            "ORank": 0.00134697,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/dfbd55d1-2c34-40d7-ae07-00f64f5c7c82_6511010.png"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 2735,
+            "Name": "Euro יורו מחלבות אירופה"
+          },
+          {
+            "Id": 2232,
+            "Name": "הגבינות של נני"
+          },
+          {
+            "Id": 1132,
+            "Name": "המחלבה מבית יצחק"
+          },
+          {
+            "Id": 1159,
+            "Name": "וילי פוד"
+          },
+          {
+            "Id": 2409,
+            "Name": "יורו צ'יז Euro Cheese"
+          },
+          {
+            "Id": 1269,
+            "Name": "מחלבות גד"
+          },
+          {
+            "Id": 1573,
+            "Name": "תנובה"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

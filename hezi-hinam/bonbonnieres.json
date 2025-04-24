@@ -1,0 +1,1612 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/70.png",
+      "SubCategory": {
+        "Id": 10844,
+        "Name": "בונבוניירות",
+        "Items": [
+          {
+            "Id": 454910,
+            "IsShakil": false,
+            "BarKod": "8000500374542",
+            "Name": "גרנד פררו רושה דארק",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1648103073/Production/8000500374542/b0e924df-62c2-4db0-95fc-1cd06725b609.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1648103073/Production/8000500374542/b0e924df-62c2-4db0-95fc-1cd06725b609.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10843,
+            "SubCategoryName": "חטיפי שוקולד",
+            "ManufacturerId": 1478,
+            "ManufacturerName": "פררו Ferrero",
+            "MidaKod": "גרם",
+            "UnitSize": 125.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 14.48,
+            "PricePerUnitDesc": "14.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "125 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "מעטפת שוקולד מריר מעולה עם אגוזי לוז",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500374542,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1648103073/Production/8000500374542/b0e924df-62c2-4db0-95fc-1cd06725b609.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1648103073/Production/8000500374542/b0e924df-62c2-4db0-95fc-1cd06725b609.jpg",
+                "Image_File_Name": "b0e924df-62c2-4db0-95fc-1cd06725b609.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1648103073/Production/8000500374542/b0e924df-62c2-4db0-95fc-1cd06725b609.jpg"
+              },
+              {
+                "Barcode": 8000500374542,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675611973/Production/8000500374542/8000500374542_S1_1511-08-2021_18-05-08.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611973/Production/8000500374542/8000500374542_S1_1511-08-2021_18-05-08.jpg",
+                "Image_File_Name": "8000500374542_S1_1511-08-2021_18-05-08.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675611973/Production/8000500374542/8000500374542_S1_1511-08-2021_18-05-08.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1648103073/Production/8000500374542/b0e924df-62c2-4db0-95fc-1cd06725b609.jpg"
+          },
+          {
+            "Id": 434742,
+            "IsShakil": false,
+            "BarKod": "8000500374429",
+            "Name": "גרנד פררו רושה מעטפת שוקולד חלב עם אגוזי לוז",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1675611968/Production/8000500374429/800050037442907-21-2021_14-29-23.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611968/Production/8000500374429/800050037442907-21-2021_14-29-23.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10843,
+            "SubCategoryName": "חטיפי שוקולד",
+            "ManufacturerId": 1478,
+            "ManufacturerName": "פררו Ferrero",
+            "MidaKod": "גרם",
+            "UnitSize": 125.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 14.48,
+            "PricePerUnitDesc": "14.48 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "125 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500374429,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675611968/Production/8000500374429/800050037442907-21-2021_14-29-23.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611968/Production/8000500374429/800050037442907-21-2021_14-29-23.jpg",
+                "Image_File_Name": "800050037442907-21-2021_14-29-23.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675611968/Production/8000500374429/800050037442907-21-2021_14-29-23.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000848092,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611968/Production/8000500374429/800050037442907-21-2021_14-29-23.jpg"
+          },
+          {
+            "Id": 234302,
+            "IsShakil": false,
+            "BarKod": "7610400030632",
+            "Name": "לינדור כדורי שוקולד לבן במילוי קרם רך",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1711547022/Production/7610400030632/4defbea1-242d-4f3a-b965-6251f6e42785.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711547022/Production/7610400030632/4defbea1-242d-4f3a-b965-6251f6e42785.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1245,
+            "ManufacturerName": "לינדט Lindt",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.95,
+            "PricePerUnitDesc": "19.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 39.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7610400030632,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1711547022/Production/7610400030632/4defbea1-242d-4f3a-b965-6251f6e42785.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711547022/Production/7610400030632/4defbea1-242d-4f3a-b965-6251f6e42785.jpg",
+                "Image_File_Name": "4defbea1-242d-4f3a-b965-6251f6e42785.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1711547022/Production/7610400030632/4defbea1-242d-4f3a-b965-6251f6e42785.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " כדורי  שוקולד לבן    לינדט  לינדור  קרם רך",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711547022/Production/7610400030632/4defbea1-242d-4f3a-b965-6251f6e42785.jpg"
+          },
+          {
+            "Id": 253947,
+            "IsShakil": false,
+            "BarKod": "7610400066037",
+            "Name": "לינדור שוקולד לבן עם שבבי קקאו במילוי קרם רך",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1711547023/Production/7610400066037/af4c6b63-0539-4b00-b30e-a38e58e91a62.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711547023/Production/7610400066037/af4c6b63-0539-4b00-b30e-a38e58e91a62.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1245,
+            "ManufacturerName": "לינדט Lindt",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.95,
+            "PricePerUnitDesc": "19.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 39.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7610400066037,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1711547023/Production/7610400066037/af4c6b63-0539-4b00-b30e-a38e58e91a62.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711547023/Production/7610400066037/af4c6b63-0539-4b00-b30e-a38e58e91a62.jpg",
+                "Image_File_Name": "af4c6b63-0539-4b00-b30e-a38e58e91a62.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1711547023/Production/7610400066037/af4c6b63-0539-4b00-b30e-a38e58e91a62.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " כדורי שוקולד לבן  שוויצרי  שבבי קקאו  קרם רך (44%)  לינדט  לינדור  שוקולד",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711547023/Production/7610400066037/af4c6b63-0539-4b00-b30e-a38e58e91a62.jpg"
+          },
+          {
+            "Id": 289276,
+            "IsShakil": false,
+            "BarKod": "8003340098098",
+            "Name": "לינדור שוקולד לבן עם תותים ושמנת במילוי קרם רך",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643194826/Production/8003340098098/8003340098098_P109-15-2020_23-00-13.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643194826/Production/8003340098098/8003340098098_P109-15-2020_23-00-13.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1245,
+            "ManufacturerName": "לינדט Lindt",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.95,
+            "PricePerUnitDesc": "19.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 39.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8003340098098,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643194826/Production/8003340098098/8003340098098_P109-15-2020_23-00-13.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643194826/Production/8003340098098/8003340098098_P109-15-2020_23-00-13.jpg",
+                "Image_File_Name": "8003340098098_P109-15-2020_23-00-13.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643194826/Production/8003340098098/8003340098098_P109-15-2020_23-00-13.jpg"
+              },
+              {
+                "Barcode": 8003340098098,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643194826/Production/8003340098098/8003340098098_S1_1509-15-2020_23-00-13.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643194826/Production/8003340098098/8003340098098_S1_1509-15-2020_23-00-13.jpg",
+                "Image_File_Name": "8003340098098_S1_1509-15-2020_23-00-13.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643194826/Production/8003340098098/8003340098098_S1_1509-15-2020_23-00-13.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שוקולד  לבן  תותים  שמנת  קופסא  לינדט  לינדור",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643194826/Production/8003340098098/8003340098098_P109-15-2020_23-00-13.jpg"
+          },
+          {
+            "Id": 8694,
+            "IsShakil": false,
+            "BarKod": "4014400903409",
+            "Name": "סוכריות טופיפי Toffifee",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643094250/Production/4014400903409/4014400903409_P103-22-2020_06-52-10.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643094250/Production/4014400903409/4014400903409_P103-22-2020_06-52-10.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1550,
+            "ManufacturerName": "שטורק Storck",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 10.08,
+            "PricePerUnitDesc": "10.08 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 21.9,
+            "Price_Regular": 25.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4014400903409,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643094250/Production/4014400903409/4014400903409_P103-22-2020_06-52-10.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643094250/Production/4014400903409/4014400903409_P103-22-2020_06-52-10.jpg",
+                "Image_File_Name": "4014400903409_P103-22-2020_06-52-10.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643094250/Production/4014400903409/4014400903409_P103-22-2020_06-52-10.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "שוקולד, סוכריות, טופי, כרמל, אגוזי לוז, טופיפי בונבוניירה בונבוניירת שוקולד  סוכריות  טופי  כרמל  אגוזי לוז  טופיפי",
+            "ORank": 0.000498878,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643094250/Production/4014400903409/4014400903409_P103-22-2020_06-52-10.jpg"
+          },
+          {
+            "Id": 307054,
+            "IsShakil": false,
+            "BarKod": "4014400923711",
+            "Name": "סוכריות טופיפי Toffifee",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643097705/Production/4014400923711/4014400923711_P101-07-2020_11-03-17.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643097705/Production/4014400923711/4014400923711_P101-07-2020_11-03-17.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1550,
+            "ManufacturerName": "שטורק Storck",
+            "MidaKod": "גרם",
+            "UnitSize": 125.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 11.28,
+            "PricePerUnitDesc": "11.28 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "125 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.1,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 4014400923711,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643097705/Production/4014400923711/4014400923711_P101-07-2020_11-03-17.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643097705/Production/4014400923711/4014400923711_P101-07-2020_11-03-17.jpg",
+                "Image_File_Name": "4014400923711_P101-07-2020_11-03-17.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643097705/Production/4014400923711/4014400923711_P101-07-2020_11-03-17.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "אזהרה! סכנת חנק לילדים מתחת לגיל 5.. למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "טופיפי,סוכריות טופי,אגוז לוז שלם,קרמל,קרם נוגט,שוקולד טופיפי סוכריות טופי אגוז לוז שלם קרמל קרם נוגט שוקולד",
+            "ORank": 0.00154652,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643097705/Production/4014400923711/4014400923711_P101-07-2020_11-03-17.jpg"
+          },
+          {
+            "Id": 137334,
+            "IsShakil": false,
+            "BarKod": "7610400068505",
+            "Name": "בונבוניירת לינדור Lindor שוקולד חלב",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1733727647/Production/7610400068505/690d476f-9815-41f2-9298-c015c3b3019e.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733727647/Production/7610400068505/690d476f-9815-41f2-9298-c015c3b3019e.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1245,
+            "ManufacturerName": "לינדט Lindt",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.95,
+            "PricePerUnitDesc": "19.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 39.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7610400068505,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1733727647/Production/7610400068505/690d476f-9815-41f2-9298-c015c3b3019e.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733727647/Production/7610400068505/690d476f-9815-41f2-9298-c015c3b3019e.jpg",
+                "Image_File_Name": "690d476f-9815-41f2-9298-c015c3b3019e.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1733727647/Production/7610400068505/690d476f-9815-41f2-9298-c015c3b3019e.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " לינדט לינדור  כדורי שוקולד  שוקולד חלב שוויצרי   במילוי קרם רך   200 גרם",
+            "ORank": 0.000698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733727647/Production/7610400068505/690d476f-9815-41f2-9298-c015c3b3019e.jpg"
+          },
+          {
+            "Id": 19754,
+            "IsShakil": false,
+            "BarKod": "7610400068529",
+            "Name": "בונבוניירת לינדור אסורטד במבחר טעמים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400068529.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400068529.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1245,
+            "ManufacturerName": "לינדט Lindt",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.95,
+            "PricePerUnitDesc": "19.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 39.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7610400068529,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7610400068529.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400068529.jpg",
+                "Image_File_Name": "7610400068529.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7610400068529.jpg"
+              },
+              {
+                "Barcode": 7610400068529,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1692596518/Production/7610400068529/63e1a4a2-5f4d-4af5-a06a-9c0e2d4bab6a.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692596518/Production/7610400068529/63e1a4a2-5f4d-4af5-a06a-9c0e2d4bab6a.jpg",
+                "Image_File_Name": "63e1a4a2-5f4d-4af5-a06a-9c0e2d4bab6a.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1692596518/Production/7610400068529/63e1a4a2-5f4d-4af5-a06a-9c0e2d4bab6a.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " לינדט לינדור   כדורי שוקולד  שוקולד  שוקולד שוויצרי  במילוי קרם רך  200 גרם",
+            "ORank": 0.00044899,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7610400068529.jpg"
+          },
+          {
+            "Id": 147835,
+            "IsShakil": false,
+            "BarKod": "8003340091280",
+            "Name": "בונבוניירת לינדור Lindor שוקולד מריר",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8003340091280.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8003340091280.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1245,
+            "ManufacturerName": "לינדט Lindt",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 19.95,
+            "PricePerUnitDesc": "19.95 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 39.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8003340091280,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/8003340091280.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8003340091280.jpg",
+                "Image_File_Name": "8003340091280.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/8003340091280.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " כדורי שוקולד  מריר  קרם רך  שוויצרי  לינדט  לינדור",
+            "ORank": 0.000149663,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/8003340091280.jpg"
+          },
+          {
+            "Id": 11757,
+            "IsShakil": false,
+            "BarKod": "8000500023976",
+            "Name": "בונבוניירת רפאלו Raffaello",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1675611905/Production/8000500023976/800050002397607-11-2021_08-24-56.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611905/Production/8000500023976/800050002397607-11-2021_08-24-56.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1478,
+            "ManufacturerName": "פררו Ferrero",
+            "MidaKod": "גרם",
+            "UnitSize": 150.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 12.73,
+            "PricePerUnitDesc": "12.73 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "150 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 19.1,
+            "Price_Regular": 19.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500023976,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675611905/Production/8000500023976/800050002397607-11-2021_08-24-56.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611905/Production/8000500023976/800050002397607-11-2021_08-24-56.jpg",
+                "Image_File_Name": "800050002397607-11-2021_08-24-56.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675611905/Production/8000500023976/800050002397607-11-2021_08-24-56.jpg"
+              },
+              {
+                "Barcode": 8000500023976,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675611905/Production/8000500023976/8000500023976_P1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611905/Production/8000500023976/8000500023976_P1.jpg",
+                "Image_File_Name": "8000500023976_P1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675611905/Production/8000500023976/8000500023976_P1.jpg"
+              },
+              {
+                "Barcode": 8000500023976,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675611905/Production/8000500023976/8000500023976_S1_15.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611905/Production/8000500023976/8000500023976_S1_15.jpg",
+                "Image_File_Name": "8000500023976_S1_15.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675611905/Production/8000500023976/8000500023976_S1_15.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "בונבוניירה רפאלו  כדור וופל בציפוי קוקוס פריך במילוי קרם ושקד שלם  150 גרם",
+            "ORank": 0.000947867,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611905/Production/8000500023976/800050002397607-11-2021_08-24-56.jpg"
+          },
+          {
+            "Id": 144390,
+            "IsShakil": false,
+            "BarKod": "5413548040479",
+            "Name": "בונבוניירת רפאלו Raffaello",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1675611888/Production/5413548040479/541354804007-06-2021_15-03-48.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611888/Production/5413548040479/541354804007-06-2021_15-03-48.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1478,
+            "ManufacturerName": "פררו Ferrero",
+            "MidaKod": "גרם",
+            "UnitSize": 240.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 11.75,
+            "PricePerUnitDesc": "11.75 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "240 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 28.2,
+            "Price_Regular": 28.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5413548040479,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675611888/Production/5413548040479/541354804007-06-2021_15-03-48.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611888/Production/5413548040479/541354804007-06-2021_15-03-48.jpg",
+                "Image_File_Name": "541354804007-06-2021_15-03-48.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675611888/Production/5413548040479/541354804007-06-2021_15-03-48.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " רפאלו  כדור וופל בציפוי קוקוס פריך במילוי קרם ושקד שלם  240 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675611888/Production/5413548040479/541354804007-06-2021_15-03-48.jpg"
+          },
+          {
+            "Id": 399578,
+            "IsShakil": false,
+            "BarKod": "7622210597915",
+            "Name": "פרלינים לבבות שוקולד חלב ממולא קרם נוגט",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1679453853/Production/7622210597915/7622210597915_p108-22-2022_19-00-16.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679453853/Production/7622210597915/7622210597915_p108-22-2022_19-00-16.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1276,
+            "ManufacturerName": "מילקה Milka",
+            "MidaKod": "גרם",
+            "UnitSize": 110.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 11.91,
+            "PricePerUnitDesc": "11.91 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "110 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7622210597915,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679453853/Production/7622210597915/7622210597915_p108-22-2022_19-00-16.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679453853/Production/7622210597915/7622210597915_p108-22-2022_19-00-16.jpg",
+                "Image_File_Name": "7622210597915_p108-22-2022_19-00-16.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679453853/Production/7622210597915/7622210597915_p108-22-2022_19-00-16.jpg"
+              },
+              {
+                "Barcode": 7622210597915,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1679453854/Production/7622210597915/7622210597915_s1_1508-22-2022_19-00-16.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679453854/Production/7622210597915/7622210597915_s1_1508-22-2022_19-00-16.jpg",
+                "Image_File_Name": "7622210597915_s1_1508-22-2022_19-00-16.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1679453854/Production/7622210597915/7622210597915_s1_1508-22-2022_19-00-16.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "בונבוניירה מילקה בונבונירה מילקה  פרלינים  שוקולד",
+            "ORank": 0.000798204,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1679453853/Production/7622210597915/7622210597915_p108-22-2022_19-00-16.jpg"
+          },
+          {
+            "Id": 316681,
+            "IsShakil": false,
+            "BarKod": "8000500247167",
+            "Name": "בונבוניירה פררו קולקשן Ferrero Collection",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4bd29c2c-49ca-4e4f-bd56-0d37d5ad35d1_8000500247167.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4bd29c2c-49ca-4e4f-bd56-0d37d5ad35d1_8000500247167.png",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1478,
+            "ManufacturerName": "פררו Ferrero",
+            "MidaKod": "גרם",
+            "UnitSize": 269.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 18.74,
+            "PricePerUnitDesc": "18.74 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "269 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 50.4,
+            "Price_Regular": 50.4,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500247167,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/4bd29c2c-49ca-4e4f-bd56-0d37d5ad35d1_8000500247167.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4bd29c2c-49ca-4e4f-bd56-0d37d5ad35d1_8000500247167.png",
+                "Image_File_Name": "4bd29c2c-49ca-4e4f-bd56-0d37d5ad35d1_8000500247167.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4bd29c2c-49ca-4e4f-bd56-0d37d5ad35d1_8000500247167.png"
+              },
+              {
+                "Barcode": 8000500247167,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1692616740/Production/8000500247167/c138798e-9c79-4441-ac71-0b60cb8be29e.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1692616740/Production/8000500247167/c138798e-9c79-4441-ac71-0b60cb8be29e.jpg",
+                "Image_File_Name": "c138798e-9c79-4441-ac71-0b60cb8be29e.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1692616740/Production/8000500247167/c138798e-9c79-4441-ac71-0b60cb8be29e.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "רושה בונבוניירה בונבוניירת בונבונירה פררו קולקשיין  כדורי וופל   שוקולד  קוקוס",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/4bd29c2c-49ca-4e4f-bd56-0d37d5ad35d1_8000500247167.png"
+          },
+          {
+            "Id": 52497,
+            "IsShakil": false,
+            "BarKod": "8000500032237",
+            "Name": "פררו רושה Ferrero Rocher",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/919fb86d-0aec-4f18-8d9e-4efd26af6dc9_8000500032237.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/919fb86d-0aec-4f18-8d9e-4efd26af6dc9_8000500032237.png",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1478,
+            "ManufacturerName": "פררו Ferrero",
+            "MidaKod": "גרם",
+            "UnitSize": 375.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 13.44,
+            "PricePerUnitDesc": "13.44 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "375 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 50.4,
+            "Price_Regular": 50.4,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500032237,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/919fb86d-0aec-4f18-8d9e-4efd26af6dc9_8000500032237.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/919fb86d-0aec-4f18-8d9e-4efd26af6dc9_8000500032237.png",
+                "Image_File_Name": "919fb86d-0aec-4f18-8d9e-4efd26af6dc9_8000500032237.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/919fb86d-0aec-4f18-8d9e-4efd26af6dc9_8000500032237.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "בונבוניירה בונבוניירת בונבונירה פררו רושה  כדור וופל  ריך  מצופה שוקולד  חלב  שברי אגוזי לוז  ממולא בקרם  אגוז לוז שלם",
+            "ORank": 0.000598653,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/919fb86d-0aec-4f18-8d9e-4efd26af6dc9_8000500032237.png"
+          },
+          {
+            "Id": 8870,
+            "IsShakil": false,
+            "BarKod": "8000500037874",
+            "Name": "פררו רושה Ferrero Rocher",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8000500037874.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8000500037874.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1478,
+            "ManufacturerName": "פררו Ferrero",
+            "MidaKod": "גרם",
+            "UnitSize": 200.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 16.1,
+            "PricePerUnitDesc": "16.10 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "200 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 32.2,
+            "Price_Regular": 32.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500037874,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/8000500037874.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8000500037874.jpg",
+                "Image_File_Name": "8000500037874.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/8000500037874.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " פררו רושה  כדור וופל  פריך  מצופה  שוקולד חלב  אגוזי לוז  קרם  אגוז לוז",
+            "ORank": 0.00224495,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/8000500037874.jpg"
+          },
+          {
+            "Id": 523942,
+            "IsShakil": false,
+            "BarKod": "8000500389652",
+            "Name": "קינדר האפי מומנטס",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1711568210/Production/8000500389652/800050038965203-27-2024_13-33-33.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711568210/Production/8000500389652/800050038965203-27-2024_13-33-33.jpg",
+            "CategoryId": 66,
+            "CategoryName": "ממתקים וחטיפים",
+            "SubCategoryId": 10844,
+            "SubCategoryName": "בונבוניירות",
+            "ManufacturerId": 1505,
+            "ManufacturerName": "קינדר Kinder",
+            "MidaKod": "גרם",
+            "UnitSize": 161.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 14.84,
+            "PricePerUnitDesc": "14.84 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "161 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 20.9,
+            "Price_Regular": 23.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              },
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8000500389652,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1711568210/Production/8000500389652/800050038965203-27-2024_13-33-33.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711568210/Production/8000500389652/800050038965203-27-2024_13-33-33.jpg",
+                "Image_File_Name": "800050038965203-27-2024_13-33-33.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1711568210/Production/8000500389652/800050038965203-27-2024_13-33-33.jpg"
+              },
+              {
+                "Barcode": 8000500389652,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1711568210/Production/8000500389652/800050038965203-27-2024_13-34-31.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711568210/Production/8000500389652/800050038965203-27-2024_13-34-31.jpg",
+                "Image_File_Name": "800050038965203-27-2024_13-34-31.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1711568210/Production/8000500389652/800050038965203-27-2024_13-34-31.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1711568210/Production/8000500389652/800050038965203-27-2024_13-33-33.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 1245,
+            "Name": "לינדט Lindt"
+          },
+          {
+            "Id": 1276,
+            "Name": "מילקה Milka"
+          },
+          {
+            "Id": 1478,
+            "Name": "פררו Ferrero"
+          },
+          {
+            "Id": 1505,
+            "Name": "קינדר Kinder"
+          },
+          {
+            "Id": 1550,
+            "Name": "שטורק Storck"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

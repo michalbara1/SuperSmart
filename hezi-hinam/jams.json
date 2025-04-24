@@ -1,0 +1,3161 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/40.png",
+      "SubCategory": {
+        "Id": 10836,
+        "Name": "ריבות ומעדני פירות",
+        "Items": [
+          {
+            "Id": 314820,
+            "IsShakil": false,
+            "BarKod": "8008660210021",
+            "Name": "מעדן פרי דובדבן 100% רכיבי פרי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642834969/Production/8008660210021/8008660210021_P103-08-2020_08-45-13.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834969/Production/8008660210021/8008660210021_P103-08-2020_08-45-13.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 2259,
+            "ManufacturerName": "מנז אנד גאסר Menz&Gasser",
+            "MidaKod": "גרם",
+            "UnitSize": 320.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.66,
+            "PricePerUnitDesc": "5.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "320 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8008660210021,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834969/Production/8008660210021/8008660210021_P103-08-2020_08-45-13.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834969/Production/8008660210021/8008660210021_P103-08-2020_08-45-13.jpg",
+                "Image_File_Name": "8008660210021_P103-08-2020_08-45-13.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834969/Production/8008660210021/8008660210021_P103-08-2020_08-45-13.jpg"
+              },
+              {
+                "Barcode": 8008660210021,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834969/Production/8008660210021/8008660210021_S1_1503-08-2020_08-44-45.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834969/Production/8008660210021/8008660210021_S1_1503-08-2020_08-44-45.jpg",
+                "Image_File_Name": "8008660210021_S1_1503-08-2020_08-44-45.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834969/Production/8008660210021/8008660210021_S1_1503-08-2020_08-44-45.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מנז&#039; אנד גאסר  מעדן תות שדה  ריבה\t",
+            "ORank": 0.00104764,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834969/Production/8008660210021/8008660210021_P103-08-2020_08-45-13.jpg"
+          },
+          {
+            "Id": 314821,
+            "IsShakil": false,
+            "BarKod": "8008660210014",
+            "Name": "מעדן פרי משמש 100% רכיבי פרי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642834961/Production/8008660210014/8008660210014_P103-08-2020_08-43-08.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834961/Production/8008660210014/8008660210014_P103-08-2020_08-43-08.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 2259,
+            "ManufacturerName": "מנז אנד גאסר Menz&Gasser",
+            "MidaKod": "גרם",
+            "UnitSize": 320.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.66,
+            "PricePerUnitDesc": "5.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "320 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8008660210014,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834961/Production/8008660210014/8008660210014_P103-08-2020_08-43-08.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834961/Production/8008660210014/8008660210014_P103-08-2020_08-43-08.jpg",
+                "Image_File_Name": "8008660210014_P103-08-2020_08-43-08.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834961/Production/8008660210014/8008660210014_P103-08-2020_08-43-08.jpg"
+              },
+              {
+                "Barcode": 8008660210014,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834961/Production/8008660210014/8008660210014_S1_1503-08-2020_08-42-43.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834961/Production/8008660210014/8008660210014_S1_1503-08-2020_08-42-43.jpg",
+                "Image_File_Name": "8008660210014_S1_1503-08-2020_08-42-43.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834961/Production/8008660210014/8008660210014_S1_1503-08-2020_08-42-43.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה ריבת קונפיטורה קונפיטורת מעדן משמש  100% רכיבי פרי  משמש  Menz&Gasser\r\n",
+            "ORank": 0.00114742,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834961/Production/8008660210014/8008660210014_P103-08-2020_08-43-08.jpg"
+          },
+          {
+            "Id": 314822,
+            "IsShakil": false,
+            "BarKod": "8008660210045",
+            "Name": "מעדן פרי פירות יער 100% רכיבי פרי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642834975/Production/8008660210045/8008660210045_P103-08-2020_08-49-54.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834975/Production/8008660210045/8008660210045_P103-08-2020_08-49-54.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 2259,
+            "ManufacturerName": "מנז אנד גאסר Menz&Gasser",
+            "MidaKod": "גרם",
+            "UnitSize": 320.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.66,
+            "PricePerUnitDesc": "5.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "320 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8008660210045,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834975/Production/8008660210045/8008660210045_P103-08-2020_08-49-54.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834975/Production/8008660210045/8008660210045_P103-08-2020_08-49-54.jpg",
+                "Image_File_Name": "8008660210045_P103-08-2020_08-49-54.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834975/Production/8008660210045/8008660210045_P103-08-2020_08-49-54.jpg"
+              },
+              {
+                "Barcode": 8008660210045,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834975/Production/8008660210045/8008660210045_S1_1503-08-2020_08-49-23.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834975/Production/8008660210045/8008660210045_S1_1503-08-2020_08-49-23.jpg",
+                "Image_File_Name": "8008660210045_S1_1503-08-2020_08-49-23.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834975/Production/8008660210045/8008660210045_S1_1503-08-2020_08-49-23.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מעדן  פירות יער  מופחת קלוריות  מעדן פרי",
+            "ORank": 0.00179596,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834975/Production/8008660210045/8008660210045_P103-08-2020_08-49-54.jpg"
+          },
+          {
+            "Id": 314823,
+            "IsShakil": false,
+            "BarKod": "8008660210038",
+            "Name": "מעדן פרי תות שדה 100% רכיבי פרי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642834972/Production/8008660210038/8008660210038_P103-08-2020_08-47-35.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834972/Production/8008660210038/8008660210038_P103-08-2020_08-47-35.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 2259,
+            "ManufacturerName": "מנז אנד גאסר Menz&Gasser",
+            "MidaKod": "גרם",
+            "UnitSize": 320.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.66,
+            "PricePerUnitDesc": "5.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "320 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8008660210038,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834972/Production/8008660210038/8008660210038_P103-08-2020_08-47-35.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834972/Production/8008660210038/8008660210038_P103-08-2020_08-47-35.jpg",
+                "Image_File_Name": "8008660210038_P103-08-2020_08-47-35.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834972/Production/8008660210038/8008660210038_P103-08-2020_08-47-35.jpg"
+              },
+              {
+                "Barcode": 8008660210038,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834972/Production/8008660210038/8008660210038_S1_1503-08-2020_08-47-05.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834972/Production/8008660210038/8008660210038_S1_1503-08-2020_08-47-05.jpg",
+                "Image_File_Name": "8008660210038_S1_1503-08-2020_08-47-05.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834972/Production/8008660210038/8008660210038_S1_1503-08-2020_08-47-05.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מנז&#039; אנד גאסר  מעדן תות שדה  ריבה",
+            "ORank": 0.00299327,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834972/Production/8008660210038/8008660210038_P103-08-2020_08-47-35.jpg"
+          },
+          {
+            "Id": 352950,
+            "IsShakil": false,
+            "BarKod": "8008660210052",
+            "Name": "מעדן פרי תפוז 100% רכיבי פרי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642834979/Production/8008660210052/8008660210052_P104-23-2020_06-45-54.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834979/Production/8008660210052/8008660210052_P104-23-2020_06-45-54.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 2259,
+            "ManufacturerName": "מנז אנד גאסר Menz&Gasser",
+            "MidaKod": "גרם",
+            "UnitSize": 320.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.66,
+            "PricePerUnitDesc": "5.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "320 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8008660210052,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834979/Production/8008660210052/8008660210052_P104-23-2020_06-45-54.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834979/Production/8008660210052/8008660210052_P104-23-2020_06-45-54.jpg",
+                "Image_File_Name": "8008660210052_P104-23-2020_06-45-54.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834979/Production/8008660210052/8008660210052_P104-23-2020_06-45-54.jpg"
+              },
+              {
+                "Barcode": 8008660210052,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834979/Production/8008660210052/8008660210052_S1_1504-23-2020_06-44-22.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834979/Production/8008660210052/8008660210052_S1_1504-23-2020_06-44-22.jpg",
+                "Image_File_Name": "8008660210052_S1_1504-23-2020_06-44-22.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834979/Production/8008660210052/8008660210052_S1_1504-23-2020_06-44-22.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מנז אנד גאסר  מעדן תפוז ריבה",
+            "ORank": 0.000698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834979/Production/8008660210052/8008660210052_P104-23-2020_06-45-54.jpg"
+          },
+          {
+            "Id": 352951,
+            "IsShakil": false,
+            "BarKod": "8008660210069",
+            "Name": "מעדן פרי אפרסק ופסיפלורה 100% רכיבי פרי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642834982/Production/8008660210069/8008660210069_P103-08-2020_09-03-49.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834982/Production/8008660210069/8008660210069_P103-08-2020_09-03-49.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 2259,
+            "ManufacturerName": "מנז אנד גאסר Menz&Gasser",
+            "MidaKod": "גרם",
+            "UnitSize": 320.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.66,
+            "PricePerUnitDesc": "5.66 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "320 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 16.9,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 8008660210069,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834982/Production/8008660210069/8008660210069_P103-08-2020_09-03-49.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834982/Production/8008660210069/8008660210069_P103-08-2020_09-03-49.jpg",
+                "Image_File_Name": "8008660210069_P103-08-2020_09-03-49.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834982/Production/8008660210069/8008660210069_P103-08-2020_09-03-49.jpg"
+              },
+              {
+                "Barcode": 8008660210069,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642834982/Production/8008660210069/8008660210069_S1_1503-08-2020_09-03-24.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834982/Production/8008660210069/8008660210069_S1_1503-08-2020_09-03-24.jpg",
+                "Image_File_Name": "8008660210069_S1_1503-08-2020_09-03-24.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642834982/Production/8008660210069/8008660210069_S1_1503-08-2020_09-03-24.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " מנז אנד גאסר  מעדן  אפרסק  פסיפלורה  320 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642834982/Production/8008660210069/8008660210069_P103-08-2020_09-03-49.jpg"
+          },
+          {
+            "Id": 4621,
+            "IsShakil": false,
+            "BarKod": "5014271330426",
+            "Name": "מעדן פרי אוכמניות כחולות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842033/Production/5014271330426/501427133042611-04-2021_08-09-43.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842033/Production/5014271330426/501427133042611-04-2021_08-09-43.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271330426,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842033/Production/5014271330426/501427133042611-04-2021_08-09-43.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842033/Production/5014271330426/501427133042611-04-2021_08-09-43.jpg",
+                "Image_File_Name": "501427133042611-04-2021_08-09-43.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842033/Production/5014271330426/501427133042611-04-2021_08-09-43.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור  מעדן  אוכמניות כחולות  סנט דלפור  100%פרי  ללא חומר משמר  ללא צבע מאכל  ללא גלוטן",
+            "ORank": 0.00124719,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842033/Production/5014271330426/501427133042611-04-2021_08-09-43.jpg"
+          },
+          {
+            "Id": 10876,
+            "IsShakil": false,
+            "BarKod": "5014271370422",
+            "Name": "מעדן פרי אפרסקים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842045/Production/5014271370422/501427137042211-04-2021_08-05-11.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842045/Production/5014271370422/501427137042211-04-2021_08-05-11.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271370422,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842045/Production/5014271370422/501427137042211-04-2021_08-05-11.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842045/Production/5014271370422/501427137042211-04-2021_08-05-11.jpg",
+                "Image_File_Name": "501427137042211-04-2021_08-05-11.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842045/Production/5014271370422/501427137042211-04-2021_08-05-11.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור  מעדן  אפרסקים  סנט דלפור  100%פרי  ללא גלוטן  ללא חומר משמר  ללא צבע מאכל",
+            "ORank": 0.000498878,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842045/Production/5014271370422/501427137042211-04-2021_08-05-11.jpg"
+          },
+          {
+            "Id": 6250,
+            "IsShakil": false,
+            "BarKod": "5014271350424",
+            "Name": "מעדן פרי ארבעה פירות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842037/Production/5014271350424/501427135042411-04-2021_08-08-34.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842037/Production/5014271350424/501427135042411-04-2021_08-08-34.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271350424,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842037/Production/5014271350424/501427135042411-04-2021_08-08-34.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842037/Production/5014271350424/501427135042411-04-2021_08-08-34.jpg",
+                "Image_File_Name": "501427135042411-04-2021_08-08-34.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842037/Production/5014271350424/501427135042411-04-2021_08-08-34.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור סנט דלפור  מעדן  ארבעה פירות  100% פרי  ללא גלוטן  ללא חומר משמר  ללא צבע מאכל",
+            "ORank": 0.00139686,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842037/Production/5014271350424/501427135042411-04-2021_08-08-34.jpg"
+          },
+          {
+            "Id": 1731,
+            "IsShakil": false,
+            "BarKod": "5014271310428",
+            "Name": "מעדן פרי דובדבנים שחורים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842029/Production/5014271310428/501427131042811-04-2021_08-10-58.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842029/Production/5014271310428/501427131042811-04-2021_08-10-58.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271310428,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842029/Production/5014271310428/501427131042811-04-2021_08-10-58.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842029/Production/5014271310428/501427131042811-04-2021_08-10-58.jpg",
+                "Image_File_Name": "501427131042811-04-2021_08-10-58.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842029/Production/5014271310428/501427131042811-04-2021_08-10-58.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור  סנט דלפור  מעדן  דובדבנים שחורים  100% פרי  ללא גלוטן  ללא חומר משמר  ללא צבע מאכל",
+            "ORank": 0.00089798,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842029/Production/5014271310428/501427131042811-04-2021_08-10-58.jpg"
+          },
+          {
+            "Id": 3963,
+            "IsShakil": false,
+            "BarKod": "5014271300429",
+            "Name": "מעדן פרי משמש",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842025/Production/5014271300429/501427130042911-04-2021_08-12-07.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842025/Production/5014271300429/501427130042911-04-2021_08-12-07.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271300429,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842025/Production/5014271300429/501427130042911-04-2021_08-12-07.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842025/Production/5014271300429/501427130042911-04-2021_08-12-07.jpg",
+                "Image_File_Name": "501427130042911-04-2021_08-12-07.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842025/Production/5014271300429/501427130042911-04-2021_08-12-07.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור  סנט דלפור  מעדן  משמש  100% פרי  ללא חומר משמר  ללא צבע מאכל",
+            "ORank": 0.000698429,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842025/Production/5014271300429/501427130042911-04-2021_08-12-07.jpg"
+          },
+          {
+            "Id": 390190,
+            "IsShakil": false,
+            "BarKod": "5014271001227",
+            "Name": "מעדן פרי משמש",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1644490036/Production/5014271001227/b156f28c-3817-4150-93ea-8cee5423660c.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1644490036/Production/5014271001227/b156f28c-3817-4150-93ea-8cee5423660c.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.04,
+            "PricePerUnitDesc": "5.04 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 25.2,
+            "Price_Regular": 25.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271001227,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1644490036/Production/5014271001227/b156f28c-3817-4150-93ea-8cee5423660c.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1644490036/Production/5014271001227/b156f28c-3817-4150-93ea-8cee5423660c.jpg",
+                "Image_File_Name": "b156f28c-3817-4150-93ea-8cee5423660c.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1644490036/Production/5014271001227/b156f28c-3817-4150-93ea-8cee5423660c.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה ריבת משמשים קונפיטורה ",
+            "ORank": 0.00114742,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1644490036/Production/5014271001227/b156f28c-3817-4150-93ea-8cee5423660c.jpg"
+          },
+          {
+            "Id": 390191,
+            "IsShakil": false,
+            "BarKod": "5014271001241",
+            "Name": "מעדן פרי תות שדה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1727048340/Production/5014271001241/501427100124102-10-2022_10-35-07.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727048340/Production/5014271001241/501427100124102-10-2022_10-35-07.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.04,
+            "PricePerUnitDesc": "5.04 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 25.2,
+            "Price_Regular": 25.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": true,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 4,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/fat.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271001241,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1727048340/Production/5014271001241/501427100124102-10-2022_10-35-07.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727048340/Production/5014271001241/501427100124102-10-2022_10-35-07.jpg",
+                "Image_File_Name": "501427100124102-10-2022_10-35-07.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1727048340/Production/5014271001241/501427100124102-10-2022_10-35-07.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה ריבת תותים קונפיטורה ",
+            "ORank": 0.00593664,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727048340/Production/5014271001241/501427100124102-10-2022_10-35-07.jpg"
+          },
+          {
+            "Id": 4755,
+            "IsShakil": false,
+            "BarKod": "5014271400426",
+            "Name": "מעדן פרי תות שדה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842052/Production/5014271400426/501427140042611-04-2021_08-03-38.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842052/Production/5014271400426/501427140042611-04-2021_08-03-38.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271400426,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842052/Production/5014271400426/501427140042611-04-2021_08-03-38.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842052/Production/5014271400426/501427140042611-04-2021_08-03-38.jpg",
+                "Image_File_Name": "501427140042611-04-2021_08-03-38.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842052/Production/5014271400426/501427140042611-04-2021_08-03-38.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור  מעדן תות שדה  סנט דלפור  100%פרי  ללא גלוטן  ללא חומר משמר  ללא צבע מאכל",
+            "ORank": 0.00384136,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842052/Production/5014271400426/501427140042611-04-2021_08-03-38.jpg"
+          },
+          {
+            "Id": 9425,
+            "IsShakil": false,
+            "BarKod": "5014271560427",
+            "Name": "מעדן פרי תפוז וג'ינג'ר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842055/Production/5014271560427/501427156042711-04-2021_08-00-39.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842055/Production/5014271560427/501427156042711-04-2021_08-00-39.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271560427,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842055/Production/5014271560427/501427156042711-04-2021_08-00-39.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842055/Production/5014271560427/501427156042711-04-2021_08-00-39.jpg",
+                "Image_File_Name": "501427156042711-04-2021_08-00-39.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842055/Production/5014271560427/501427156042711-04-2021_08-00-39.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור  מעדן  תפוז  ג'ינג'ר   100% פרי   ללא חומר משמר  ללא צבע מאכל  ללא גלוטן  סנט דלפור",
+            "ORank": 0.000598653,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842055/Production/5014271560427/501427156042711-04-2021_08-00-39.jpg"
+          },
+          {
+            "Id": 7167,
+            "IsShakil": false,
+            "BarKod": "5014271360423",
+            "Name": "מעדן פרי תפוזים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642842041/Production/5014271360423/501427136042311-04-2021_08-07-25.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842041/Production/5014271360423/501427136042311-04-2021_08-07-25.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.78,
+            "PricePerUnitDesc": "7.78 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.0,
+            "Price_Regular": 22.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271360423,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642842041/Production/5014271360423/501427136042311-04-2021_08-07-25.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842041/Production/5014271360423/501427136042311-04-2021_08-07-25.jpg",
+                "Image_File_Name": "501427136042311-04-2021_08-07-25.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642842041/Production/5014271360423/501427136042311-04-2021_08-07-25.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה סנדלפור סן סנט דלפור  סנט דלפור  מעדן פרי  תפוזים  100% פרי  ללא גלוטן  ללא חומר משמר",
+            "ORank": 0.000848092,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642842041/Production/5014271360423/501427136042311-04-2021_08-07-25.jpg"
+          },
+          {
+            "Id": 774,
+            "IsShakil": false,
+            "BarKod": "6374738",
+            "Name": "קונפיטורה תות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1693914673/Production/6374738/09d175d4-0692-485d-9f84-e129578d0c45.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1693914673/Production/6374738/09d175d4-0692-485d-9f84-e129578d0c45.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1211,
+            "ManufacturerName": "יד מרדכי",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.15,
+            "PricePerUnitDesc": "4.15 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.1,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87171,
+              "MivzaDesc": "2 ב- 24",
+              "MivzaText": "קונפיטורות יד מרדכי\n2 ב 24 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 6374738,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1693914673/Production/6374738/09d175d4-0692-485d-9f84-e129578d0c45.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1693914673/Production/6374738/09d175d4-0692-485d-9f84-e129578d0c45.jpg",
+                "Image_File_Name": "09d175d4-0692-485d-9f84-e129578d0c45.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1693914673/Production/6374738/09d175d4-0692-485d-9f84-e129578d0c45.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "ריבה ",
+            "ORank": 0.00668496,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1693914673/Production/6374738/09d175d4-0692-485d-9f84-e129578d0c45.jpg"
+          },
+          {
+            "Id": 311810,
+            "IsShakil": false,
+            "BarKod": "7290107945165",
+            "Name": "קונפיטורת משמש",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1677402943/Production/7290107945165/345867_7290107945165_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1677402943/Production/7290107945165/345867_7290107945165_1.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1211,
+            "ManufacturerName": "יד מרדכי",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.15,
+            "PricePerUnitDesc": "4.15 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.1,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87171,
+              "MivzaDesc": "2 ב- 24",
+              "MivzaText": "קונפיטורות יד מרדכי\n2 ב 24 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290107945165,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1677402943/Production/7290107945165/345867_7290107945165_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1677402943/Production/7290107945165/345867_7290107945165_1.jpg",
+                "Image_File_Name": "345867_7290107945165_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1677402943/Production/7290107945165/345867_7290107945165_1.jpg"
+              },
+              {
+                "Barcode": 7290107945165,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642701957/Production/7290107945165/345867_7290107945165.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642701957/Production/7290107945165/345867_7290107945165.jpg",
+                "Image_File_Name": "345867_7290107945165.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642701957/Production/7290107945165/345867_7290107945165.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבת ריבה מעדן משמש קונפיטורת משמשים מעדן ריבה ריבת משמש מישמיש משמשים קונפיטורה קונפיטורת משמש קונפיטורת מישמש",
+            "ORank": 0.00159641,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1677402943/Production/7290107945165/345867_7290107945165_1.jpg"
+          },
+          {
+            "Id": 315683,
+            "IsShakil": false,
+            "BarKod": "7290107954709",
+            "Name": "קונפיטורת פירות יער",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669115020/Production/7290107954709/346074_7290107954709_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669115020/Production/7290107954709/346074_7290107954709_1.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1211,
+            "ManufacturerName": "יד מרדכי",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.15,
+            "PricePerUnitDesc": "4.15 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.1,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87171,
+              "MivzaDesc": "2 ב- 24",
+              "MivzaText": "קונפיטורות יד מרדכי\n2 ב 24 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290107954709,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669115020/Production/7290107954709/346074_7290107954709_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669115020/Production/7290107954709/346074_7290107954709_1.jpg",
+                "Image_File_Name": "346074_7290107954709_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669115020/Production/7290107954709/346074_7290107954709_1.jpg"
+              },
+              {
+                "Barcode": 7290107954709,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669115020/Production/7290107954709/346074_7290107954709.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669115020/Production/7290107954709/346074_7290107954709.jpg",
+                "Image_File_Name": "346074_7290107954709.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669115020/Production/7290107954709/346074_7290107954709.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבת ריבה כשלפ קונפיטורה פירות יער 340 מתכון חדש כשלפ קונפיטורה פירות יער 340 כשלפ קונפיטורה פירות יער  קונפיטורה פירות יער 340 מתכון חדש קונפיטורה פירות יער ריבה קונפיטורת פריות יער",
+            "ORank": 0.00159641,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669115020/Production/7290107954709/346074_7290107954709_1.jpg"
+          },
+          {
+            "Id": 390188,
+            "IsShakil": false,
+            "BarKod": "5014271001210",
+            "Name": "מעדן פרי ארבע פירות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1644483282/Production/5014271001210/6cff69b9-f8e8-4633-9384-da244e3b1785.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1644483282/Production/5014271001210/6cff69b9-f8e8-4633-9384-da244e3b1785.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.04,
+            "PricePerUnitDesc": "5.04 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 25.2,
+            "Price_Regular": 25.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "תות שדה, פטל, אוכמניות, דובדבנים שחורים",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271001210,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1644483282/Production/5014271001210/6cff69b9-f8e8-4633-9384-da244e3b1785.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1644483282/Production/5014271001210/6cff69b9-f8e8-4633-9384-da244e3b1785.jpg",
+                "Image_File_Name": "6cff69b9-f8e8-4633-9384-da244e3b1785.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1644483282/Production/5014271001210/6cff69b9-f8e8-4633-9384-da244e3b1785.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " סאנט דלפור  מעדן  ארבעה פירות  100% פרי  ללא תוספת סוכר  ללא חומר משמר  ללא צבע מאכל",
+            "ORank": 0.000598653,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1644483282/Production/5014271001210/6cff69b9-f8e8-4633-9384-da244e3b1785.jpg"
+          },
+          {
+            "Id": 476495,
+            "IsShakil": false,
+            "BarKod": "5014271003986",
+            "Name": "מעדן פרי משמש עם זרעי צ'יה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1671506578/Production/5014271003986/501427100398612-01-2022_10-59-48.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506578/Production/5014271003986/501427100398612-01-2022_10-59-48.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 170.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 10.06,
+            "PricePerUnitDesc": "10.06 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "170 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 17.1,
+            "Price_Regular": 17.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271003986,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1671506578/Production/5014271003986/501427100398612-01-2022_10-59-48.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506578/Production/5014271003986/501427100398612-01-2022_10-59-48.jpg",
+                "Image_File_Name": "501427100398612-01-2022_10-59-48.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1671506578/Production/5014271003986/501427100398612-01-2022_10-59-48.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " סנדלפור  מעדן פרי  משמש  זרעי צ'יה   100% פרי  ללא תוספת סוכר  ללא חומר משמר  ללא צבע מאכל  סופר פרוט",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506578/Production/5014271003986/501427100398612-01-2022_10-59-48.jpg"
+          },
+          {
+            "Id": 476494,
+            "IsShakil": false,
+            "BarKod": "5014271003979",
+            "Name": "מעדן פרי סופר פרוט אוכמניות ואסאי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1671506569/Production/5014271003979/501427100397912-01-2022_11-47-12.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506569/Production/5014271003979/501427100397912-01-2022_11-47-12.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 170.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 10.06,
+            "PricePerUnitDesc": "10.06 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "170 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 17.1,
+            "Price_Regular": 17.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271003979,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1671506569/Production/5014271003979/501427100397912-01-2022_11-47-12.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506569/Production/5014271003979/501427100397912-01-2022_11-47-12.jpg",
+                "Image_File_Name": "501427100397912-01-2022_11-47-12.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1671506569/Production/5014271003979/501427100397912-01-2022_11-47-12.jpg"
+              },
+              {
+                "Barcode": 5014271003979,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1671506570/Production/5014271003979/5014271003979_P112-18-2022_07-53-15.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506570/Production/5014271003979/5014271003979_P112-18-2022_07-53-15.jpg",
+                "Image_File_Name": "5014271003979_P112-18-2022_07-53-15.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1671506570/Production/5014271003979/5014271003979_P112-18-2022_07-53-15.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " סנדלפור  מעדן פרי  אוכמניות  אסאי   100% פרי  ללא תוספת סוכר  ללא חומר משמר  ללא צבע מאכל  סופר פרוט",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506569/Production/5014271003979/501427100397912-01-2022_11-47-12.jpg"
+          },
+          {
+            "Id": 476493,
+            "IsShakil": false,
+            "BarKod": "5014271004228",
+            "Name": "מעדן פרי סופר פרוט דובדבן ואסרולה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1671506585/Production/5014271004228/501427100422812-01-2022_12-03-52.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506585/Production/5014271004228/501427100422812-01-2022_12-03-52.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1333,
+            "ManufacturerName": "סנדלפור St.dalfour",
+            "MidaKod": "גרם",
+            "UnitSize": 170.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 10.06,
+            "PricePerUnitDesc": "10.06 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "170 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 17.1,
+            "Price_Regular": 17.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 5014271004228,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1671506585/Production/5014271004228/501427100422812-01-2022_12-03-52.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506585/Production/5014271004228/501427100422812-01-2022_12-03-52.jpg",
+                "Image_File_Name": "501427100422812-01-2022_12-03-52.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1671506585/Production/5014271004228/501427100422812-01-2022_12-03-52.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " סנדלפור  מעדן פרי  דובדבן  אסרולה  100% פרי  ללא תוספת סוכר  ללא חומר משמר  ללא צבע מאכל  סופר פרוט",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1671506585/Production/5014271004228/501427100422812-01-2022_12-03-52.jpg"
+          },
+          {
+            "Id": 443884,
+            "IsShakil": false,
+            "BarKod": "7290117260029",
+            "Name": "קונפיטורה דובדבנים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1675797181/Production/7290117260029/7290117260029_S109-30-2021_09-38-12.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675797181/Production/7290117260029/7290117260029_S109-30-2021_09-38-12.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 380.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.63,
+            "PricePerUnitDesc": "2.63 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "380 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 10.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "מכיל 45% פרי",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290117260029,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675797181/Production/7290117260029/7290117260029_S109-30-2021_09-38-12.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675797181/Production/7290117260029/7290117260029_S109-30-2021_09-38-12.jpg",
+                "Image_File_Name": "7290117260029_S109-30-2021_09-38-12.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675797181/Production/7290117260029/7290117260029_S109-30-2021_09-38-12.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבת דובדבנים דובדבן ",
+            "ORank": 0.000648541,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675797181/Production/7290117260029/7290117260029_S109-30-2021_09-38-12.jpg"
+          },
+          {
+            "Id": 443881,
+            "IsShakil": false,
+            "BarKod": "7290117260050",
+            "Name": "קונפיטורה חבושים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1675797203/Production/7290117260050/7290117260050_S109-30-2021_10-06-20.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675797203/Production/7290117260050/7290117260050_S109-30-2021_10-06-20.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1159,
+            "ManufacturerName": "וילי פוד",
+            "MidaKod": "גרם",
+            "UnitSize": 380.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.63,
+            "PricePerUnitDesc": "2.63 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "380 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 10.0,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "מכיל 45% פרי",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290117260050,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1675797203/Production/7290117260050/7290117260050_S109-30-2021_10-06-20.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675797203/Production/7290117260050/7290117260050_S109-30-2021_10-06-20.jpg",
+                "Image_File_Name": "7290117260050_S109-30-2021_10-06-20.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1675797203/Production/7290117260050/7290117260050_S109-30-2021_10-06-20.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה ריבת חבושים ",
+            "ORank": 0.000648541,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1675797203/Production/7290117260050/7290117260050_S109-30-2021_10-06-20.jpg"
+          },
+          {
+            "Id": 341107,
+            "IsShakil": false,
+            "BarKod": "7290112490674",
+            "Name": "קונפיטורת דובדבנים",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3e893a6f-3f73-4bea-ab43-f1e24e02826a_7290112490674.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3e893a6f-3f73-4bea-ab43-f1e24e02826a_7290112490674.png",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1579,
+            "ManufacturerName": "778",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.15,
+            "PricePerUnitDesc": "4.15 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.1,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290112490674,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/3e893a6f-3f73-4bea-ab43-f1e24e02826a_7290112490674.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3e893a6f-3f73-4bea-ab43-f1e24e02826a_7290112490674.png",
+                "Image_File_Name": "3e893a6f-3f73-4bea-ab43-f1e24e02826a_7290112490674.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/3e893a6f-3f73-4bea-ab43-f1e24e02826a_7290112490674.png"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה  קונפיטורה ריבת ריבה בטעם דובדבנים דובדבן ריבת פירות  מעדן דובדבנים ממרח דובדבנים מילוי סופגניה ריבות.",
+            "ORank": 0.000249439,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/3e893a6f-3f73-4bea-ab43-f1e24e02826a_7290112490674.png"
+          },
+          {
+            "Id": 341108,
+            "IsShakil": false,
+            "BarKod": "7290112490667",
+            "Name": "קונפיטורת משמש",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/9f840c8b-fea0-4d34-8912-3ed91223676f_7290112490667.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/9f840c8b-fea0-4d34-8912-3ed91223676f_7290112490667.png",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1579,
+            "ManufacturerName": "778",
+            "MidaKod": "גרם",
+            "UnitSize": 340.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.15,
+            "PricePerUnitDesc": "4.15 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "340 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 14.1,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290112490667,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/9f840c8b-fea0-4d34-8912-3ed91223676f_7290112490667.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/9f840c8b-fea0-4d34-8912-3ed91223676f_7290112490667.png",
+                "Image_File_Name": "9f840c8b-fea0-4d34-8912-3ed91223676f_7290112490667.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/9f840c8b-fea0-4d34-8912-3ed91223676f_7290112490667.png"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "ריבה קונפיטורה ריבת ריבה בטעם משמש משמשים ריבת פירות  מעדן משמש ממרח משמש ממרח משמשים מילוי סופגניה ריבות ריבת פירות  מישמש",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/9f840c8b-fea0-4d34-8912-3ed91223676f_7290112490667.png"
+          },
+          {
+            "Id": 411521,
+            "IsShakil": false,
+            "BarKod": "7290017068381",
+            "Name": "ריבת משמש",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643245319/Production/7290017068381/7290017068381_p1_0010-05-2020_12-15-47.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245319/Production/7290017068381/7290017068381_p1_0010-05-2020_12-15-47.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1274,
+            "ManufacturerName": "מיה",
+            "MidaKod": "גרם",
+            "UnitSize": 370.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.54,
+            "PricePerUnitDesc": "3.54 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "370 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290017068381,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643245319/Production/7290017068381/7290017068381_p1_0010-05-2020_12-15-47.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245319/Production/7290017068381/7290017068381_p1_0010-05-2020_12-15-47.jpg",
+                "Image_File_Name": "7290017068381_p1_0010-05-2020_12-15-47.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643245319/Production/7290017068381/7290017068381_p1_0010-05-2020_12-15-47.jpg"
+              },
+              {
+                "Barcode": 7290017068381,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643245318/Production/7290017068381/7290017068381_s1_1510-05-2020_12-13-48.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245318/Production/7290017068381/7290017068381_s1_1510-05-2020_12-13-48.jpg",
+                "Image_File_Name": "7290017068381_s1_1510-05-2020_12-13-48.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643245318/Production/7290017068381/7290017068381_s1_1510-05-2020_12-13-48.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245319/Production/7290017068381/7290017068381_p1_0010-05-2020_12-15-47.jpg"
+          },
+          {
+            "Id": 411520,
+            "IsShakil": false,
+            "BarKod": "7290017068404",
+            "Name": "ריבת פירות יער",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643245330/Production/7290017068404/7290017068404_p1_0010-05-2020_12-22-54.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245330/Production/7290017068404/7290017068404_p1_0010-05-2020_12-22-54.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1274,
+            "ManufacturerName": "מיה",
+            "MidaKod": "גרם",
+            "UnitSize": 370.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.54,
+            "PricePerUnitDesc": "3.54 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "370 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.9,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290017068404,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643245330/Production/7290017068404/7290017068404_p1_0010-05-2020_12-22-54.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245330/Production/7290017068404/7290017068404_p1_0010-05-2020_12-22-54.jpg",
+                "Image_File_Name": "7290017068404_p1_0010-05-2020_12-22-54.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643245330/Production/7290017068404/7290017068404_p1_0010-05-2020_12-22-54.jpg"
+              },
+              {
+                "Barcode": 7290017068404,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643245329/Production/7290017068404/7290017068404_s1_1510-05-2020_12-21-06.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245329/Production/7290017068404/7290017068404_s1_1510-05-2020_12-21-06.jpg",
+                "Image_File_Name": "7290017068404_s1_1510-05-2020_12-21-06.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643245329/Production/7290017068404/7290017068404_s1_1510-05-2020_12-21-06.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245330/Production/7290017068404/7290017068404_p1_0010-05-2020_12-22-54.jpg"
+          },
+          {
+            "Id": 411522,
+            "IsShakil": false,
+            "BarKod": "7290017068398",
+            "Name": "ריבת תות שדה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1643245324/Production/7290017068398/7290017068398_p1_0010-05-2020_12-18-55.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245324/Production/7290017068398/7290017068398_p1_0010-05-2020_12-18-55.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1274,
+            "ManufacturerName": "מיה",
+            "MidaKod": "גרם",
+            "UnitSize": 370.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.54,
+            "PricePerUnitDesc": "3.54 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "370 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 9.9,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290017068398,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643245324/Production/7290017068398/7290017068398_p1_0010-05-2020_12-18-55.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245324/Production/7290017068398/7290017068398_p1_0010-05-2020_12-18-55.jpg",
+                "Image_File_Name": "7290017068398_p1_0010-05-2020_12-18-55.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643245324/Production/7290017068398/7290017068398_p1_0010-05-2020_12-18-55.jpg"
+              },
+              {
+                "Barcode": 7290017068398,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1643245324/Production/7290017068398/7290017068398_s1_1510-05-2020_12-17-26.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245324/Production/7290017068398/7290017068398_s1_1510-05-2020_12-17-26.jpg",
+                "Image_File_Name": "7290017068398_s1_1510-05-2020_12-17-26.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1643245324/Production/7290017068398/7290017068398_s1_1510-05-2020_12-17-26.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1643245324/Production/7290017068398/7290017068398_p1_0010-05-2020_12-18-55.jpg"
+          },
+          {
+            "Id": 421934,
+            "IsShakil": false,
+            "BarKod": "7290019297406",
+            "Name": "שקדיה מעדן פרי דובדבן ללא תוספת סוכר",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1720423557/Production/7290019297406/7bcfa4b4-1167-44a0-9599-bebbdb203a3a.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1720423557/Production/7290019297406/7bcfa4b4-1167-44a0-9599-bebbdb203a3a.jpg",
+            "CategoryId": 77,
+            "CategoryName": "מוצרי אפיה וממרחים",
+            "SubCategoryId": 10836,
+            "SubCategoryName": "ריבות ומעדני פירות",
+            "ManufacturerId": 1561,
+            "ManufacturerName": "שקדיה",
+            "MidaKod": "גרם",
+            "UnitSize": 284.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.26,
+            "PricePerUnitDesc": "4.26 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "284 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 12.1,
+            "Price_Regular": 12.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019297406,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1720423557/Production/7290019297406/7bcfa4b4-1167-44a0-9599-bebbdb203a3a.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1720423557/Production/7290019297406/7bcfa4b4-1167-44a0-9599-bebbdb203a3a.jpg",
+                "Image_File_Name": "7bcfa4b4-1167-44a0-9599-bebbdb203a3a.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1720423557/Production/7290019297406/7bcfa4b4-1167-44a0-9599-bebbdb203a3a.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " שקדיה  מעדן  דובדבן  284 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1720423557/Production/7290019297406/7bcfa4b4-1167-44a0-9599-bebbdb203a3a.jpg"
+          },
+          {
+            "Id": 476240,
+            "IsShakil": false,
+            "BarKod": "7290112197597",
+            "Name": "טרו ריבת פירות יער לייט",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669144810/Production/7290112197597/7290112197597_p111-10-2022_19-00-13.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669144810/Production/7290112197597/7290112197597_p111-10-2022_19-00-13.jpg",
+            "CategoryId": 65,
+            "CategoryName": "אורגני,ללא גלוטן וללא תוספת סוכר",
+            "SubCategoryId": 11137,
+            "SubCategoryName": "ללא תוספת סוכר",
+            "ManufacturerId": 2915,
+            "ManufacturerName": "טרו  TRU",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.04,
+            "PricePerUnitDesc": "6.04 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290112197597,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669144810/Production/7290112197597/7290112197597_p111-10-2022_19-00-13.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669144810/Production/7290112197597/7290112197597_p111-10-2022_19-00-13.jpg",
+                "Image_File_Name": "7290112197597_p111-10-2022_19-00-13.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669144810/Production/7290112197597/7290112197597_p111-10-2022_19-00-13.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טרו  ריבה   פירות יער ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669144810/Production/7290112197597/7290112197597_p111-10-2022_19-00-13.jpg"
+          },
+          {
+            "Id": 476238,
+            "IsShakil": false,
+            "BarKod": "7290112197573",
+            "Name": "טרו ריבת תות לייט",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669144799/Production/7290112197573/7290112197573_p111-10-2022_19-00-22.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669144799/Production/7290112197573/7290112197573_p111-10-2022_19-00-22.jpg",
+            "CategoryId": 65,
+            "CategoryName": "אורגני,ללא גלוטן וללא תוספת סוכר",
+            "SubCategoryId": 11137,
+            "SubCategoryName": "ללא תוספת סוכר",
+            "ManufacturerId": 2915,
+            "ManufacturerName": "טרו  TRU",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.04,
+            "PricePerUnitDesc": "6.04 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290112197573,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669144799/Production/7290112197573/7290112197573_p111-10-2022_19-00-22.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669144799/Production/7290112197573/7290112197573_p111-10-2022_19-00-22.jpg",
+                "Image_File_Name": "7290112197573_p111-10-2022_19-00-22.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669144799/Production/7290112197573/7290112197573_p111-10-2022_19-00-22.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טרו  ריבת תות   ריבה ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669144799/Production/7290112197573/7290112197573_p111-10-2022_19-00-22.jpg"
+          },
+          {
+            "Id": 476239,
+            "IsShakil": false,
+            "BarKod": "7290112197580",
+            "Name": "ריבת משמש לייט",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1670829829/Production/7290112197580/7290112197580_p111-10-2022_19-00-18.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1670829829/Production/7290112197580/7290112197580_p111-10-2022_19-00-18.jpg",
+            "CategoryId": 65,
+            "CategoryName": "אורגני,ללא גלוטן וללא תוספת סוכר",
+            "SubCategoryId": 11137,
+            "SubCategoryName": "ללא תוספת סוכר",
+            "ManufacturerId": 2915,
+            "ManufacturerName": "טרו  TRU",
+            "MidaKod": "גרם",
+            "UnitSize": 250.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 6.04,
+            "PricePerUnitDesc": "6.04 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "250 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": true,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 2,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/sugar.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290112197580,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1670829829/Production/7290112197580/7290112197580_p111-10-2022_19-00-18.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1670829829/Production/7290112197580/7290112197580_p111-10-2022_19-00-18.jpg",
+                "Image_File_Name": "7290112197580_p111-10-2022_19-00-18.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1670829829/Production/7290112197580/7290112197580_p111-10-2022_19-00-18.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טרו  ריבת משמש  ריבה ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1670829829/Production/7290112197580/7290112197580_p111-10-2022_19-00-18.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 1579,
+            "Name": "778"
+          },
+          {
+            "Id": 1159,
+            "Name": "וילי פוד"
+          },
+          {
+            "Id": 2915,
+            "Name": "טרו  TRU"
+          },
+          {
+            "Id": 1211,
+            "Name": "יד מרדכי"
+          },
+          {
+            "Id": 1274,
+            "Name": "מיה"
+          },
+          {
+            "Id": 2259,
+            "Name": "מנז אנד גאסר Menz&Gasser"
+          },
+          {
+            "Id": 1333,
+            "Name": "סנדלפור St.dalfour"
+          },
+          {
+            "Id": 1561,
+            "Name": "שקדיה"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

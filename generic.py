@@ -15,7 +15,7 @@ from selenium.webdriver.common.by import By
 
 
 class WebsiteDownloader(ABC):
-    def __init__(self, site_name, mongo_uri="mongodb://localhost:27017/supersmarDB",
+    def __init__(self, site_name, mongo_uri="mongodb+srv://noagedo:Aa123456@cluster0.i7c2udq.mongodb.net/",
                  db_name="supersmart"):
         self.site_name = site_name
         self.client = MongoClient(mongo_uri)

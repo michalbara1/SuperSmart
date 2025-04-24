@@ -1,0 +1,926 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/310.png",
+      "SubCategory": {
+        "Id": 11770,
+        "Name": "דגים קפואים",
+        "Items": [
+          {
+            "Id": 302703,
+            "IsShakil": true,
+            "BarKod": "3409655",
+            "Name": "פילה דג אמנון קפוא בלי עור מצופה קרח מכיל 80% דג לפחות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1737464752/Production/3409655/fbb0eb99-da81-4557-944e-766846769455.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1737464752/Production/3409655/fbb0eb99-da81-4557-944e-766846769455.jpg",
+            "CategoryId": 87,
+            "CategoryName": "דגיה",
+            "SubCategoryId": 11770,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2178,
+            "ManufacturerName": "מעדני הים",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.99,
+            "PricePerUnitDesc": "3.99 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 39.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87641,
+              "MivzaDesc": "2 ק\"ג ב- 60",
+              "MivzaText": "פילה אמנון ללא עור מעדני הים\n2 ב 60 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.25,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.25 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 3409655,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1737464752/Production/3409655/fbb0eb99-da81-4557-944e-766846769455.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1737464752/Production/3409655/fbb0eb99-da81-4557-944e-766846769455.jpg",
+                "Image_File_Name": "fbb0eb99-da81-4557-944e-766846769455.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1737464752/Production/3409655/fbb0eb99-da81-4557-944e-766846769455.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "מושט ",
+            "ORank": 0.023996,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1737464752/Production/3409655/fbb0eb99-da81-4557-944e-766846769455.jpg"
+          },
+          {
+            "Id": 516709,
+            "IsShakil": true,
+            "BarKod": "8611350",
+            "Name": "פילה אמנון מוקפא בציפוי קרח מכיל 80% דג לפחות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1727074346/Production/8611350/edc56141-88b1-460d-a72c-401bfa648591.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727074346/Production/8611350/edc56141-88b1-460d-a72c-401bfa648591.jpg",
+            "CategoryId": 87,
+            "CategoryName": "דגיה",
+            "SubCategoryId": 11770,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2994,
+            "ManufacturerName": "בסט פיש",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.99,
+            "PricePerUnitDesc": "2.99 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 19.9,
+            "Price_Regular": 29.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.24,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.24 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 8611350,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1727074346/Production/8611350/edc56141-88b1-460d-a72c-401bfa648591.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727074346/Production/8611350/edc56141-88b1-460d-a72c-401bfa648591.jpg",
+                "Image_File_Name": "edc56141-88b1-460d-a72c-401bfa648591.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1727074346/Production/8611350/edc56141-88b1-460d-a72c-401bfa648591.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727074346/Production/8611350/edc56141-88b1-460d-a72c-401bfa648591.jpg"
+          },
+          {
+            "Id": 253278,
+            "IsShakil": true,
+            "BarKod": "3409211",
+            "Name": "פילה לברק יפאני קפוא בציפוי קרח מכיל 80% דג לפחות",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/37efb3c4-b174-4227-8292-36b144d58897_3409211.png",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/37efb3c4-b174-4227-8292-36b144d58897_3409211.png",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2178,
+            "ManufacturerName": "מעדני הים",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.99,
+            "PricePerUnitDesc": "4.99 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 49.9,
+            "Price_Regular": 49.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86515,
+              "MivzaDesc": "2 ק\"ג ב- 80",
+              "MivzaText": "פילה לברק קפוא בסט פיש/ מעדני הים\n2 ב 80 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.282,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.28 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 3409211,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/37efb3c4-b174-4227-8292-36b144d58897_3409211.png",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/37efb3c4-b174-4227-8292-36b144d58897_3409211.png",
+                "Image_File_Name": "37efb3c4-b174-4227-8292-36b144d58897_3409211.png",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/37efb3c4-b174-4227-8292-36b144d58897_3409211.png"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00543777,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/37efb3c4-b174-4227-8292-36b144d58897_3409211.png"
+          },
+          {
+            "Id": 262034,
+            "IsShakil": true,
+            "BarKod": "3409402",
+            "Name": "פילה סלמון קפוא עם עור",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3409402.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3409402.jpg",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2178,
+            "ManufacturerName": "מעדני הים",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.99,
+            "PricePerUnitDesc": "7.99 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 69.9,
+            "Price_Regular": 79.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 1.5,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 1.50 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 3409402,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/3409402.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3409402.jpg",
+                "Image_File_Name": "3409402.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/3409402.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "סלומון נורווגי קפוא ",
+            "ORank": 0.00424046,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/3409402.jpg"
+          },
+          {
+            "Id": 316668,
+            "IsShakil": false,
+            "BarKod": "3409686",
+            "Name": "מנות פילה סלמון קפוא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1739370777/Production/3409686/439e0a98-0067-41ab-89c5-ba96d9a43c1b.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1739370777/Production/3409686/439e0a98-0067-41ab-89c5-ba96d9a43c1b.jpg",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2178,
+            "ManufacturerName": "מעדני הים",
+            "MidaKod": "גרם",
+            "UnitSize": 600.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 11.65,
+            "PricePerUnitDesc": "11.65 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "600 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 49.9,
+            "Price_Regular": 69.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 3409686,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1739370777/Production/3409686/439e0a98-0067-41ab-89c5-ba96d9a43c1b.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1739370777/Production/3409686/439e0a98-0067-41ab-89c5-ba96d9a43c1b.jpg",
+                "Image_File_Name": "439e0a98-0067-41ab-89c5-ba96d9a43c1b.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1739370777/Production/3409686/439e0a98-0067-41ab-89c5-ba96d9a43c1b.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "קפוא סלומון ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1739370777/Production/3409686/439e0a98-0067-41ab-89c5-ba96d9a43c1b.jpg"
+          },
+          {
+            "Id": 240635,
+            "IsShakil": true,
+            "BarKod": "6131034",
+            "Name": "פילה נסיכת הנילוס פרוס ארוז גולדג",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6131034.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6131034.jpg",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": null,
+            "ManufacturerName": "",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 7.05,
+            "PricePerUnitDesc": "7.05 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 70.5,
+            "Price_Regular": 70.5,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 1.15,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 1.15 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 6131034,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/6131034.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6131034.jpg",
+                "Image_File_Name": "6131034.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6131034.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000748316,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6131034.jpg"
+          },
+          {
+            "Id": 32566,
+            "IsShakil": true,
+            "BarKod": "6131102",
+            "Name": "דג הליבוט פרוס במגש",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6131102.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6131102.jpg",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": null,
+            "ManufacturerName": "",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 8.06,
+            "PricePerUnitDesc": "8.06 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 80.6,
+            "Price_Regular": 80.6,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 1.053,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 1.05 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 6131102,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/6131102.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6131102.jpg",
+                "Image_File_Name": "6131102.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6131102.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.000299327,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/6131102.jpg"
+          },
+          {
+            "Id": 527030,
+            "IsShakil": true,
+            "BarKod": "8611923",
+            "Name": "סטייק טונה בהירה קפוא עם עור בציפוי קרח, מכיל 80% דג לפחות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1742712443/Production/8611923/0785c972-408d-4c1e-a343-caa5beb6aa17.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742712443/Production/8611923/0785c972-408d-4c1e-a343-caa5beb6aa17.jpg",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2963,
+            "ManufacturerName": "פרוסטי",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.99,
+            "PricePerUnitDesc": "3.99 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 19.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.5,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.50 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 8611923,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1742712443/Production/8611923/0785c972-408d-4c1e-a343-caa5beb6aa17.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742712443/Production/8611923/0785c972-408d-4c1e-a343-caa5beb6aa17.jpg",
+                "Image_File_Name": "0785c972-408d-4c1e-a343-caa5beb6aa17.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1742712443/Production/8611923/0785c972-408d-4c1e-a343-caa5beb6aa17.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742712443/Production/8611923/0785c972-408d-4c1e-a343-caa5beb6aa17.jpg"
+          },
+          {
+            "Id": 527032,
+            "IsShakil": true,
+            "BarKod": "8611930",
+            "Name": "סטייק טונה צהובת סנפיר קפוא עם עור, מכיל 80% דג לפחות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1742712500/Production/8611930/d86a718b-3ee1-473e-b729-daf6af12250c.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742712500/Production/8611930/d86a718b-3ee1-473e-b729-daf6af12250c.jpg",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2963,
+            "ManufacturerName": "פרוסטי",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.99,
+            "PricePerUnitDesc": "3.99 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "נמכר במשקל",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "נמכר במשקל",
+            "Price_NET": 19.9,
+            "Price_Regular": 39.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.5,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "יח'",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "כ 0.50 ק\"ג ליחידה",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 8611930,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1742712500/Production/8611930/d86a718b-3ee1-473e-b729-daf6af12250c.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742712500/Production/8611930/d86a718b-3ee1-473e-b729-daf6af12250c.jpg",
+                "Image_File_Name": "d86a718b-3ee1-473e-b729-daf6af12250c.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1742712500/Production/8611930/d86a718b-3ee1-473e-b729-daf6af12250c.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1742712500/Production/8611930/d86a718b-3ee1-473e-b729-daf6af12250c.jpg"
+          },
+          {
+            "Id": 508927,
+            "IsShakil": false,
+            "BarKod": "7290017616476",
+            "Name": "פילה (סול) פוטית פסיפית מעובדת קפוא בציפוי קרח מכיל 80% דג לפחות",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1738504264/Production/7290017616476/7ee51e7d-9481-42ec-9804-4a5976df90c5.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738504264/Production/7290017616476/7ee51e7d-9481-42ec-9804-4a5976df90c5.jpg",
+            "CategoryId": 80,
+            "CategoryName": "קפואים",
+            "SubCategoryId": 10876,
+            "SubCategoryName": "דגים קפואים",
+            "ManufacturerId": 2963,
+            "ManufacturerName": "פרוסטי",
+            "MidaKod": "גרם",
+            "UnitSize": 800.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.49,
+            "PricePerUnitDesc": "4.49 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "800 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 19.9,
+            "Price_Regular": 35.9,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "פילה פוטית פסיפית מעובדת קפוא בציפוי קרח מכיל 80% דג לפחות",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017616476,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1738504264/Production/7290017616476/7ee51e7d-9481-42ec-9804-4a5976df90c5.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738504264/Production/7290017616476/7ee51e7d-9481-42ec-9804-4a5976df90c5.jpg",
+                "Image_File_Name": "7ee51e7d-9481-42ec-9804-4a5976df90c5.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1738504264/Production/7290017616476/7ee51e7d-9481-42ec-9804-4a5976df90c5.jpg"
+              },
+              {
+                "Barcode": 7290017616476,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1738504264/Production/7290017616476/67961201-194f-4b51-bdd0-3faedf5e81bb.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738504264/Production/7290017616476/67961201-194f-4b51-bdd0-3faedf5e81bb.jpg",
+                "Image_File_Name": "67961201-194f-4b51-bdd0-3faedf5e81bb.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1738504264/Production/7290017616476/67961201-194f-4b51-bdd0-3faedf5e81bb.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": "פילה דג סול קפוא ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1738504264/Production/7290017616476/7ee51e7d-9481-42ec-9804-4a5976df90c5.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 2994,
+            "Name": "בסט פיש"
+          },
+          {
+            "Id": 2178,
+            "Name": "מעדני הים"
+          },
+          {
+            "Id": 2963,
+            "Name": "פרוסטי"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

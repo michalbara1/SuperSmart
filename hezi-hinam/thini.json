@@ -1,0 +1,1887 @@
+{
+  "IsOK": true,
+  "Results": {
+    "Category": {
+      "Id": 0,
+      "Name": null,
+      "ImgBanner": "https://hazihinamprod01.blob.core.windows.net/images/Catalog/Banners/Web/50.png",
+      "SubCategory": {
+        "Id": 11539,
+        "Name": "טחינה גולמית",
+        "Items": [
+          {
+            "Id": 4247,
+            "IsShakil": false,
+            "BarKod": "1216040",
+            "Name": "טחינה גולמית 100% שומשום טהור",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1701772164/Production/1216040/12e183f6-767b-4956-b78f-dff247a6ce05.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1701772164/Production/1216040/12e183f6-767b-4956-b78f-dff247a6ce05.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2170,
+            "ManufacturerName": "טחינת אל ארז",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.62,
+            "PricePerUnitDesc": "3.62 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 18.1,
+            "Price_Regular": 18.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 1216040,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1701772164/Production/1216040/12e183f6-767b-4956-b78f-dff247a6ce05.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1701772164/Production/1216040/12e183f6-767b-4956-b78f-dff247a6ce05.jpg",
+                "Image_File_Name": "12e183f6-767b-4956-b78f-dff247a6ce05.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1701772164/Production/1216040/12e183f6-767b-4956-b78f-dff247a6ce05.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0115241,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1701772164/Production/1216040/12e183f6-767b-4956-b78f-dff247a6ce05.jpg"
+          },
+          {
+            "Id": 288094,
+            "IsShakil": false,
+            "BarKod": "1216231",
+            "Name": "טחינה משומשום מלא אל ארז",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1701766746/Production/1216231/75ec9e8d-5803-4c75-9c97-1ab26c50ea0b.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1701766746/Production/1216231/75ec9e8d-5803-4c75-9c97-1ab26c50ea0b.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2170,
+            "ManufacturerName": "טחינת אל ארז",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.82,
+            "PricePerUnitDesc": "3.82 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 19.1,
+            "Price_Regular": 19.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 1216231,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1701766746/Production/1216231/75ec9e8d-5803-4c75-9c97-1ab26c50ea0b.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1701766746/Production/1216231/75ec9e8d-5803-4c75-9c97-1ab26c50ea0b.jpg",
+                "Image_File_Name": "75ec9e8d-5803-4c75-9c97-1ab26c50ea0b.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1701766746/Production/1216231/75ec9e8d-5803-4c75-9c97-1ab26c50ea0b.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00713395,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1701766746/Production/1216231/75ec9e8d-5803-4c75-9c97-1ab26c50ea0b.jpg"
+          },
+          {
+            "Id": 9354,
+            "IsShakil": false,
+            "BarKod": "7290000112220",
+            "Name": "טחינה בארכה 100% שומשום טהור",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1682274527/Production/7290000112220/6931001_7290000112220.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1682274527/Production/7290000112220/6931001_7290000112220.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1038,
+            "ManufacturerName": "בארכה",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.22,
+            "PricePerUnitDesc": "3.22 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.9,
+            "Price_Regular": 16.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290000112220,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1682274527/Production/7290000112220/6931001_7290000112220.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1682274527/Production/7290000112220/6931001_7290000112220.jpg",
+                "Image_File_Name": "6931001_7290000112220.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1682274527/Production/7290000112220/6931001_7290000112220.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  בארכה  בריא  חורף  ללא חומרים משמרים  כשר  פרווה רושדי",
+            "ORank": 0.0276378,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1682274527/Production/7290000112220/6931001_7290000112220.jpg"
+          },
+          {
+            "Id": 65,
+            "IsShakil": false,
+            "BarKod": "7290001407769",
+            "Name": "טחינה משומשום מלא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642763012/Production/7290001407769/6930994_7290001407769.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642763012/Production/7290001407769/6930994_7290001407769.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1038,
+            "ManufacturerName": "בארכה",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.22,
+            "PricePerUnitDesc": "3.22 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.9,
+            "Price_Regular": 16.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290001407769,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642763012/Production/7290001407769/6930994_7290001407769.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642763012/Production/7290001407769/6930994_7290001407769.jpg",
+                "Image_File_Name": "6930994_7290001407769.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642763012/Production/7290001407769/6930994_7290001407769.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  בארכה  בריא  חורף  ללא חומרים משמרים  כשר  פרווה רושדי",
+            "ORank": 0.004889,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642763012/Production/7290001407769/6930994_7290001407769.jpg"
+          },
+          {
+            "Id": 7488,
+            "IsShakil": false,
+            "BarKod": "7290001407752",
+            "Name": "טחינה עם פטרוזיליה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1642763008/Production/7290001407752/6931020_7290001407752.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642763008/Production/7290001407752/6931020_7290001407752.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1038,
+            "ManufacturerName": "בארכה",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.22,
+            "PricePerUnitDesc": "3.22 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.9,
+            "Price_Regular": 16.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290001407752,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1642763008/Production/7290001407752/6931020_7290001407752.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642763008/Production/7290001407752/6931020_7290001407752.jpg",
+                "Image_File_Name": "6931020_7290001407752.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1642763008/Production/7290001407752/6931020_7290001407752.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  בארכה  בריא  חורף  ללא חומרים משמרים  כשר  פרווה רושדי",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1642763008/Production/7290001407752/6931020_7290001407752.jpg"
+          },
+          {
+            "Id": 277539,
+            "IsShakil": false,
+            "BarKod": "7290001407547",
+            "Name": "טחינה משומשום מלא פי 6 סידן",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1680545679/Production/7290001407547/6930995_7290001407547_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1680545679/Production/7290001407547/6930995_7290001407547_1.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1038,
+            "ManufacturerName": "בארכה",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.22,
+            "PricePerUnitDesc": "3.22 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 8.9,
+            "Price_Regular": 16.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290001407547,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1680545679/Production/7290001407547/6930995_7290001407547_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1680545679/Production/7290001407547/6930995_7290001407547_1.jpg",
+                "Image_File_Name": "6930995_7290001407547_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1680545679/Production/7290001407547/6930995_7290001407547_1.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  בארכה  בריא  חורף  ללא חומרים משמרים  כשר  פרווה רושדי",
+            "ORank": 0.00444001,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1680545679/Production/7290001407547/6930995_7290001407547_1.jpg"
+          },
+          {
+            "Id": 296506,
+            "IsShakil": false,
+            "BarKod": "7290001407936",
+            "Name": "טחינה גולמית מעודנת",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669118180/Production/7290001407936/12318421_7290001407936_1.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669118180/Production/7290001407936/12318421_7290001407936_1.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1038,
+            "ManufacturerName": "בארכה",
+            "MidaKod": "גרם",
+            "UnitSize": 310.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 4.55,
+            "PricePerUnitDesc": "4.55 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "310 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.0,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290001407936,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669118180/Production/7290001407936/12318421_7290001407936_1.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669118180/Production/7290001407936/12318421_7290001407936_1.jpg",
+                "Image_File_Name": "12318421_7290001407936_1.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669118180/Production/7290001407936/12318421_7290001407936_1.jpg"
+              },
+              {
+                "Barcode": 7290001407936,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1680545688/Production/7290001407936/12318421_7290001407936.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1680545688/Production/7290001407936/12318421_7290001407936.jpg",
+                "Image_File_Name": "12318421_7290001407936.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1680545688/Production/7290001407936/12318421_7290001407936.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": "בקבוק לחיץ טחינה  בארכה  בריא  חורף  ללא חומרים משמרים  כשר  פרווה  רושדי  טחינה גולמית מעודנת  טחינה גולמית",
+            "ORank": 0.0108755,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669118180/Production/7290001407936/12318421_7290001407936_1.jpg"
+          },
+          {
+            "Id": 15100,
+            "IsShakil": false,
+            "BarKod": "7290011723101",
+            "Name": "טחינה הר ברכה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290011723101.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290011723101.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2418,
+            "ManufacturerName": "הר ברכה",
+            "MidaKod": "גרם",
+            "UnitSize": 1000.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.42,
+            "PricePerUnitDesc": "3.42 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "1 ק\"ג",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 24.9,
+            "Price_Regular": 34.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 87781,
+              "MivzaDesc": "מבצע",
+              "MivzaText": "טחינה הר ברכה\n1 ב 24.9 ₪",
+              "MivzaRegulations": [
+                "מוגבל למספר מימושים: 4",
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 1.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": 4
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290011723101,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7290011723101.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290011723101.jpg",
+                "Image_File_Name": "7290011723101.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290011723101.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0349214,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290011723101.jpg"
+          },
+          {
+            "Id": 117056,
+            "IsShakil": false,
+            "BarKod": "7290010328253",
+            "Name": "טחינה גולמית 100% טבעי",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1733650548/Production/7290010328253/edacf40f-9fbb-49bf-9390-e3868b25d77f.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733650548/Production/7290010328253/edacf40f-9fbb-49bf-9390-e3868b25d77f.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 996,
+            "ManufacturerName": "אחוה",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.62,
+            "PricePerUnitDesc": "2.62 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86849,
+              "MivzaDesc": "2 ב- 22",
+              "MivzaText": "טחינה גולמית אחווה\n2 ב 22 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": true,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 1,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/healthy.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290010328253,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1733650548/Production/7290010328253/edacf40f-9fbb-49bf-9390-e3868b25d77f.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733650548/Production/7290010328253/edacf40f-9fbb-49bf-9390-e3868b25d77f.jpg",
+                "Image_File_Name": "edacf40f-9fbb-49bf-9390-e3868b25d77f.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1733650548/Production/7290010328253/edacf40f-9fbb-49bf-9390-e3868b25d77f.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אחוה  טחינה  טחינה גולמית  טבעי  ללא תוספת מלח  ללא חומרים משמרים  ללא כולסטרול  ללא שומן טראנס  טבעוני",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733650548/Production/7290010328253/edacf40f-9fbb-49bf-9390-e3868b25d77f.jpg"
+          },
+          {
+            "Id": 118128,
+            "IsShakil": false,
+            "BarKod": "7290010328246",
+            "Name": "טחינה גולמית משומשום מלא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1733650487/Production/7290010328246/bf382c09-e901-4bd9-b1d9-d42451d5f746.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733650487/Production/7290010328246/bf382c09-e901-4bd9-b1d9-d42451d5f746.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 996,
+            "ManufacturerName": "אחוה",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.62,
+            "PricePerUnitDesc": "2.62 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86849,
+              "MivzaDesc": "2 ב- 22",
+              "MivzaText": "טחינה גולמית אחווה\n2 ב 22 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": true,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 1,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/healthy.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290010328246,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1733650487/Production/7290010328246/bf382c09-e901-4bd9-b1d9-d42451d5f746.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733650487/Production/7290010328246/bf382c09-e901-4bd9-b1d9-d42451d5f746.jpg",
+                "Image_File_Name": "bf382c09-e901-4bd9-b1d9-d42451d5f746.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1733650487/Production/7290010328246/bf382c09-e901-4bd9-b1d9-d42451d5f746.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אחוה טחינה טחינה גולמית שומשום מלא 100% טבעי",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1733650487/Production/7290010328246/bf382c09-e901-4bd9-b1d9-d42451d5f746.jpg"
+          },
+          {
+            "Id": 521005,
+            "IsShakil": false,
+            "BarKod": "7290020030085",
+            "Name": "טחינה מסורתית אחוה במליחות מעודנת",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1729447690/Production/7290020030085/7290020030085_s1_1510-15-2024_19-10-59.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1729447690/Production/7290020030085/7290020030085_s1_1510-15-2024_19-10-59.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 996,
+            "ManufacturerName": "אחוה",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.62,
+            "PricePerUnitDesc": "2.62 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 13.1,
+            "Price_Regular": 13.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 86846,
+              "MivzaDesc": "2 ב- 20",
+              "MivzaText": "טחינה אחווה גולמית מסורתית\n2 ב 20 ₪",
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": true,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 2.0,
+              "MivzaType": 1,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290020030085,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1729447690/Production/7290020030085/7290020030085_s1_1510-15-2024_19-10-59.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1729447690/Production/7290020030085/7290020030085_s1_1510-15-2024_19-10-59.jpg",
+                "Image_File_Name": "7290020030085_s1_1510-15-2024_19-10-59.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1729447690/Production/7290020030085/7290020030085_s1_1510-15-2024_19-10-59.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " אחוה  טחינה  גולמית  מסורתית  500 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1729447690/Production/7290020030085/7290020030085_s1_1510-15-2024_19-10-59.jpg"
+          },
+          {
+            "Id": 443928,
+            "IsShakil": false,
+            "BarKod": "7290017275338",
+            "Name": "טחינה גולמית 100%",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1659423733/Production/7290017275338/a8921fa5-6f89-4a51-ae8a-421a0264b5e5.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1659423733/Production/7290017275338/a8921fa5-6f89-4a51-ae8a-421a0264b5e5.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2867,
+            "ManufacturerName": "טורקיז",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.82,
+            "PricePerUnitDesc": "2.82 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "טחינה ים תיכונית בשיטת יצור מסורתית",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017275338,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1659423733/Production/7290017275338/a8921fa5-6f89-4a51-ae8a-421a0264b5e5.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1659423733/Production/7290017275338/a8921fa5-6f89-4a51-ae8a-421a0264b5e5.jpg",
+                "Image_File_Name": "a8921fa5-6f89-4a51-ae8a-421a0264b5e5.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1659423733/Production/7290017275338/a8921fa5-6f89-4a51-ae8a-421a0264b5e5.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  גולמית  ים  תיכונית   מסורתית  טורקיז  500 גרם",
+            "ORank": 0.0131205,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1659423733/Production/7290017275338/a8921fa5-6f89-4a51-ae8a-421a0264b5e5.jpg"
+          },
+          {
+            "Id": 338370,
+            "IsShakil": false,
+            "BarKod": "7290017675008",
+            "Name": "טחינה גולמית היונה",
+            "Img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290017675008.jpg",
+            "ImgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290017675008.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2388,
+            "ManufacturerName": "היונה",
+            "MidaKod": "גרם",
+            "UnitSize": 900.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.02,
+            "PricePerUnitDesc": "3.02 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "900 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 27.2,
+            "Price_Regular": 27.2,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017675008,
+                "Tumbnail_Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Small/7290017675008.jpg",
+                "Image_Url": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290017675008.jpg",
+                "Image_File_Name": "7290017675008.jpg",
+                "IsImgZoomEnabled": false,
+                "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290017675008.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": false,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.00987778,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": false,
+            "FS_Image_File_Name": "https://hazihinamprod01.blob.core.windows.net/images/Items/FS/7290017675008.jpg"
+          },
+          {
+            "Id": 443929,
+            "IsShakil": false,
+            "BarKod": "7290017275369",
+            "Name": "טורקיז טחינה גולמית משומשום מלא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1698060666/Production/7290017275369/23237510-094c-4a3b-a6f7-0cda9de8ed00.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1698060666/Production/7290017275369/23237510-094c-4a3b-a6f7-0cda9de8ed00.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2867,
+            "ManufacturerName": "טורקיז",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 2.82,
+            "PricePerUnitDesc": "2.82 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290017275369,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1698060666/Production/7290017275369/23237510-094c-4a3b-a6f7-0cda9de8ed00.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1698060666/Production/7290017275369/23237510-094c-4a3b-a6f7-0cda9de8ed00.jpg",
+                "Image_File_Name": "23237510-094c-4a3b-a6f7-0cda9de8ed00.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1698060666/Production/7290017275369/23237510-094c-4a3b-a6f7-0cda9de8ed00.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  גולמית  שומשום  מלא   טחינה   ייצור מסורתית  טורקיז  500 גרם",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1698060666/Production/7290017275369/23237510-094c-4a3b-a6f7-0cda9de8ed00.jpg"
+          },
+          {
+            "Id": 298799,
+            "IsShakil": false,
+            "BarKod": "7290010627004",
+            "Name": "טחינה גולמית ירושלים",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669123745/Production/7290010627004/7290010627004_P109-09-2020_23-03-15.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123745/Production/7290010627004/7290010627004_P109-09-2020_23-03-15.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2442,
+            "ManufacturerName": "טחינה ירושלים",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.42,
+            "PricePerUnitDesc": "3.42 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 17.1,
+            "Price_Regular": 17.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290010627004,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669123745/Production/7290010627004/7290010627004_P109-09-2020_23-03-15.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123745/Production/7290010627004/7290010627004_P109-09-2020_23-03-15.jpg",
+                "Image_File_Name": "7290010627004_P109-09-2020_23-03-15.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669123745/Production/7290010627004/7290010627004_P109-09-2020_23-03-15.jpg"
+              },
+              {
+                "Barcode": 7290010627004,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669123745/Production/7290010627004/7290010627004_S1_1509-09-2020_23-03-15.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123745/Production/7290010627004/7290010627004_S1_1509-09-2020_23-03-15.jpg",
+                "Image_File_Name": "7290010627004_S1_1509-09-2020_23-03-15.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669123745/Production/7290010627004/7290010627004_S1_1509-09-2020_23-03-15.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  שומשום  ירושלים",
+            "ORank": 0.0113245,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123745/Production/7290010627004/7290010627004_P109-09-2020_23-03-15.jpg"
+          },
+          {
+            "Id": 298795,
+            "IsShakil": false,
+            "BarKod": "7290010627844",
+            "Name": "טחינה גולמית מלאה",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1669123755/Production/7290010627844/7290010627844_P109-09-2020_23-03-07.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123755/Production/7290010627844/7290010627844_P109-09-2020_23-03-07.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2442,
+            "ManufacturerName": "טחינה ירושלים",
+            "MidaKod": "גרם",
+            "UnitSize": 500.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.42,
+            "PricePerUnitDesc": "3.42 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "500 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 17.1,
+            "Price_Regular": 17.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290010627844,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669123755/Production/7290010627844/7290010627844_P109-09-2020_23-03-07.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123755/Production/7290010627844/7290010627844_P109-09-2020_23-03-07.jpg",
+                "Image_File_Name": "7290010627844_P109-09-2020_23-03-07.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669123755/Production/7290010627844/7290010627844_P109-09-2020_23-03-07.jpg"
+              },
+              {
+                "Barcode": 7290010627844,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1669123755/Production/7290010627844/7290010627844_S1_1509-09-2020_23-03-06.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123755/Production/7290010627844/7290010627844_S1_1509-09-2020_23-03-06.jpg",
+                "Image_File_Name": "7290010627844_S1_1509-09-2020_23-03-06.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1669123755/Production/7290010627844/7290010627844_S1_1509-09-2020_23-03-06.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה  שומשום  ירושלים  מלא",
+            "ORank": 0.0044899,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1669123755/Production/7290010627844/7290010627844_P109-09-2020_23-03-07.jpg"
+          },
+          {
+            "Id": 509812,
+            "IsShakil": false,
+            "BarKod": "7290001216712",
+            "Name": "טחינה גולמית מלאה מעודנת אל ארז בקבוק לחיץ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1727606913/Production/7290001216712/184b73f9-f6e9-4f25-b394-04978ce18c8d.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727606913/Production/7290001216712/184b73f9-f6e9-4f25-b394-04978ce18c8d.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2170,
+            "ManufacturerName": "טחינת אל ארז",
+            "MidaKod": "גרם",
+            "UnitSize": 300.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.03,
+            "PricePerUnitDesc": "5.03 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "300 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": true,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 1,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/healthy.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290001216712,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1727606913/Production/7290001216712/184b73f9-f6e9-4f25-b394-04978ce18c8d.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727606913/Production/7290001216712/184b73f9-f6e9-4f25-b394-04978ce18c8d.jpg",
+                "Image_File_Name": "184b73f9-f6e9-4f25-b394-04978ce18c8d.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1727606913/Production/7290001216712/184b73f9-f6e9-4f25-b394-04978ce18c8d.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה   אל  ארז 100% שומשום טהור  300 גר  מלאה בקבוק לחיץ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727606913/Production/7290001216712/184b73f9-f6e9-4f25-b394-04978ce18c8d.jpg"
+          },
+          {
+            "Id": 509811,
+            "IsShakil": false,
+            "BarKod": "7290001216705",
+            "Name": "טחינה גולמית מעודנת אל ארז בקבוק לחיץ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1727606913/Production/7290001216705/f4b53a99-75c5-46a1-a2c9-7b30cf31008e.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727606913/Production/7290001216705/f4b53a99-75c5-46a1-a2c9-7b30cf31008e.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 2170,
+            "ManufacturerName": "טחינת אל ארז",
+            "MidaKod": "גרם",
+            "UnitSize": 300.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 5.03,
+            "PricePerUnitDesc": "5.03 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "300 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290001216705,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1727606913/Production/7290001216705/f4b53a99-75c5-46a1-a2c9-7b30cf31008e.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727606913/Production/7290001216705/f4b53a99-75c5-46a1-a2c9-7b30cf31008e.jpg",
+                "Image_File_Name": "f4b53a99-75c5-46a1-a2c9-7b30cf31008e.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1727606913/Production/7290001216705/f4b53a99-75c5-46a1-a2c9-7b30cf31008e.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " טחינה   אל  ארז 100% שומשום טהור  300 גר  בקבוק לחיץ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1727606913/Production/7290001216705/f4b53a99-75c5-46a1-a2c9-7b30cf31008e.jpg"
+          },
+          {
+            "Id": 420272,
+            "IsShakil": false,
+            "BarKod": "7290010970452",
+            "Name": "טחינה גולמית מעודנת בבקבוק לחיץ",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1691919911/Production/7290010970452/0bfda0c0-a5fd-4cd1-ab0d-e57b5b93a885.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1691919911/Production/7290010970452/0bfda0c0-a5fd-4cd1-ab0d-e57b5b93a885.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1205,
+            "ManufacturerName": "טעמים",
+            "MidaKod": "גרם",
+            "UnitSize": 380.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.97,
+            "PricePerUnitDesc": "3.97 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "380 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 15.1,
+            "Price_Regular": 15.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": null,
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": true,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 1,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/healthy.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290010970452,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1691919911/Production/7290010970452/0bfda0c0-a5fd-4cd1-ab0d-e57b5b93a885.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1691919911/Production/7290010970452/0bfda0c0-a5fd-4cd1-ab0d-e57b5b93a885.jpg",
+                "Image_File_Name": "0bfda0c0-a5fd-4cd1-ab0d-e57b5b93a885.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1691919911/Production/7290010970452/0bfda0c0-a5fd-4cd1-ab0d-e57b5b93a885.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1691919911/Production/7290010970452/0bfda0c0-a5fd-4cd1-ab0d-e57b5b93a885.jpg"
+          },
+          {
+            "Id": 492473,
+            "IsShakil": false,
+            "BarKod": "7290019568995",
+            "Name": "טחינה טעמן 100% שומשום מלא",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1693400323/Production/7290019568995/8c91f71d-51df-4fe9-b881-382f88c84de8.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1693400323/Production/7290019568995/8c91f71d-51df-4fe9-b881-382f88c84de8.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1206,
+            "ManufacturerName": "טעמן",
+            "MidaKod": "גרם",
+            "UnitSize": 450.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.13,
+            "PricePerUnitDesc": "3.13 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "450 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": false,
+            "Markups": null,
+            "Images": [
+              {
+                "Barcode": 7290019568995,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1693400323/Production/7290019568995/8c91f71d-51df-4fe9-b881-382f88c84de8.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1693400323/Production/7290019568995/8c91f71d-51df-4fe9-b881-382f88c84de8.jpg",
+                "Image_File_Name": "8c91f71d-51df-4fe9-b881-382f88c84de8.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1693400323/Production/7290019568995/8c91f71d-51df-4fe9-b881-382f88c84de8.jpg"
+              }
+            ],
+            "IsImages360": false,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1693400323/Production/7290019568995/8c91f71d-51df-4fe9-b881-382f88c84de8.jpg"
+          },
+          {
+            "Id": 492474,
+            "IsShakil": false,
+            "BarKod": "7290019568896",
+            "Name": "טחינה טעמן טחון באבני ריחיים 100% שומשום טהור",
+            "Img": "https://res.cloudinary.com/hazi-hinam/image/upload//w_155,h_170,c_limit/v1736538004/Production/7290019568896/7290019568896_P108-08-2023_10-55-20.jpg",
+            "ImgBig": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736538004/Production/7290019568896/7290019568896_P108-08-2023_10-55-20.jpg",
+            "CategoryId": 74,
+            "CategoryName": "פסטה, בישול ותיבול",
+            "SubCategoryId": 11539,
+            "SubCategoryName": "טחינה גולמית",
+            "ManufacturerId": 1206,
+            "ManufacturerName": "טעמן",
+            "MidaKod": "גרם",
+            "UnitSize": 450.0,
+            "UnitSizeDesc": "גרם",
+            "PricePerUnit": 3.13,
+            "PricePerUnitDesc": "3.13 ₪ ל- 100 גרם",
+            "WeightUnitDesc": "450 גרם",
+            "UnitSizeNeto": 0.0,
+            "PricePerUnitNeto": 0.0,
+            "PricePerUnitNetoDesc": "",
+            "WeightUnitNetoDesc": "",
+            "Price_NET": 10.9,
+            "Price_Regular": 14.1,
+            "Calculated_Price_NET": 0.0,
+            "Calculated_Price_Regular": 0.0,
+            "WebDataDescription": "",
+            "IsFavorites": false,
+            "IsInStock": true,
+            "IsRemarks": false,
+            "HasCustomerRemarks": false,
+            "Mivza": {
+              "MivzaId": 0,
+              "MivzaDesc": "מבצע",
+              "MivzaText": null,
+              "MivzaRegulations": [
+                "תוקף המבצע: 04/05/2025"
+              ],
+              "IsTagmul": false,
+              "ConsiderAsMivza": true,
+              "MivzaQuantityCount": 0.0,
+              "MivzaType": 0,
+              "IsSpecialForWeb": false,
+              "SpecialForWebDesc": null,
+              "MaxImplementations": null
+            },
+            "Cart": null,
+            "Draft": null,
+            "ItemQuantityTypes": {
+              "ConversionRate": 0.0,
+              "Types": [
+                {
+                  "Type": 1,
+                  "Interval": 1.0,
+                  "ItemUnitTypeDesc": "",
+                  "MaxQuantity": 100.0
+                }
+              ]
+            },
+            "ItemRemarks": null,
+            "UnitToWeightConversionDesc": "",
+            "IsSugar": false,
+            "IsNatran": false,
+            "IsShumanRavuy": false,
+            "IsHealthy": true,
+            "Markups": [
+              {
+                "NutritionMarkupCode": 1,
+                "IconUrl": "https://hazihinamprod01.blob.core.windows.net/images/ItemMarkups/Web/healthy.svg"
+              }
+            ],
+            "Images": [
+              {
+                "Barcode": 7290019568896,
+                "Tumbnail_Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_60,h_60,c_limit/v1736538004/Production/7290019568896/7290019568896_P108-08-2023_10-55-20.jpg",
+                "Image_Url": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736538004/Production/7290019568896/7290019568896_P108-08-2023_10-55-20.jpg",
+                "Image_File_Name": "7290019568896_P108-08-2023_10-55-20.jpg",
+                "IsImgZoomEnabled": true,
+                "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//v1736538004/Production/7290019568896/7290019568896_P108-08-2023_10-55-20.jpg"
+              }
+            ],
+            "IsImages360": true,
+            "GeneralDisclaimer": "למען הזהירות, נתוני המוצר המדויקים מופיעים על גבי המוצר עצמו; ייתכנו טעויות ו/או אי התאמות ועל כן אין להסתמך רק על הפירוט המופיע באתר ביחס לנתוני המוצר ו/או לרכיביו; יש לקרוא את המופיע על גבי אריזת המוצר לפני השימוש. התמונות, הנתונים, התיאורים והתאריכים המופיעים הנם להמחשה בלבד ואין להסתמך עליהם. ייתכן כי מוצר אשר יסופק לצרכן נושא סימון תזונתי חדש זה או אחר וזאת למרות שסימון שכזה אינו מעודכן עדיין באתר. ט.ל.ח.",
+            "AdditionalDescription": null,
+            "IsAdditionalGS1Details": true,
+            "IsNewItem": false,
+            "ExtraText": " ",
+            "ORank": 0.0,
+            "IsPriceRegulated": false,
+            "Price_Deposit": 0.0,
+            "IsImgZoomEnabled": true,
+            "FS_Image_File_Name": "https://res.cloudinary.com/hazi-hinam/image/upload//w_300,h_300,c_limit/v1736538004/Production/7290019568896/7290019568896_P108-08-2023_10-55-20.jpg"
+          }
+        ]
+      }
+    },
+    "Filters": {
+      "Options": {
+        "FILTER_Manufacturer": [
+          {
+            "Id": 996,
+            "Name": "אחוה"
+          },
+          {
+            "Id": 1038,
+            "Name": "בארכה"
+          },
+          {
+            "Id": 2388,
+            "Name": "היונה"
+          },
+          {
+            "Id": 2418,
+            "Name": "הר ברכה"
+          },
+          {
+            "Id": 2867,
+            "Name": "טורקיז"
+          },
+          {
+            "Id": 2442,
+            "Name": "טחינה ירושלים"
+          },
+          {
+            "Id": 2170,
+            "Name": "טחינת אל ארז"
+          },
+          {
+            "Id": 1205,
+            "Name": "טעמים"
+          },
+          {
+            "Id": 1206,
+            "Name": "טעמן"
+          }
+        ]
+      }
+    },
+    "Sorts": {
+      "IsAllowASC_DESC": true,
+      "Types": [
+        {
+          "Type": 0,
+          "Name": "קטלוגי"
+        },
+        {
+          "Type": 1,
+          "Name": "מחיר ליח' תכולה"
+        },
+        {
+          "Type": 4,
+          "Name": null
+        },
+        {
+          "Type": 3,
+          "Name": null
+        }
+      ]
+    }
+  },
+  "ErrorResponse": null
+}

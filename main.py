@@ -43,7 +43,8 @@ def main():
     escaped_username = quote_plus(username)
     escaped_password = quote_plus(password)
     # mongo_uri = f"mongodb+srv://{escaped_username}:{escaped_password}@{cluster_url}/{db_name}?retryWrites=true&w=majority"
-    mongo_uri = "mongodb://localhost:27017/supersmarDB"
+    #mongo_uri = "mongodb+srv://noagedo:Aa123456@cluster0.i7c2udq.mongodb.net/"
+    mongo_uri = "mongodb://127.0.0.1:27017/supersmart"
     data_dir = r'C:\Users\yuval\OneDrive\שולחן העבודה\year c\SuperSmart\hezi-hinam'
 
     try:
