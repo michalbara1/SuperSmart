@@ -10,8 +10,8 @@ class Mega(WebsiteDownloader):
     def __init__(self):
         super().__init__("mega")
         # Connect to MongoDB
-        self.client = MongoClient('mongodb://localhost:27017/')
-        self.db = self.client['supersmart']  # Using the schema's database name
+        self.client = MongoClient('mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db', serverSelectionTimeoutMS=5000)
+        self.db = self.client['SuperSmart_db']  # Using the schema's database name
         self.items_collection = self.db['items']  # Items collection
         self.store_id = "Mega"  # Store ID for Mega
 

@@ -10,8 +10,8 @@ class DataCityMarket(WebsiteDownloader):
     def __init__(self):
         super().__init__("city_market")
         # Connect to MongoDB
-        self.client = MongoClient('mongodb://localhost:27017/')
-        self.db = self.client['supersmart']
+        self.client = MongoClient('mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db', serverSelectionTimeoutMS=5000)
+        self.db = self.client['SuperSmart_db']
         self.items_collection = self.db['items']
         self.store_id = "CityMarket"
 

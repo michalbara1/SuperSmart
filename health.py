@@ -93,9 +93,6 @@ def update_products_with_fuzzy_match(csv_path, mongo_uri, db_name, collection_na
                     'calcium': try_float(matched_item.get('calcium')),
                     'vitamin_c': try_float(matched_item.get('vitamin_c')),
                     'cholesterol': try_float(matched_item.get('cholesterol')),
-                    'match_score': score,
-                    'source': 'moh_mitzrachim.csv',
-                    'matched_name': matched_item.get('shmmitzrach')
                 }
             }
             collection.update_one({'_id': hezi_item['_id']}, {'$set': nutrition_data})
@@ -108,8 +105,8 @@ def update_products_with_fuzzy_match(csv_path, mongo_uri, db_name, collection_na
 
 if __name__ == "__main__":
     CSV_PATH = r"C:\Users\yuval\OneDrive\שולחן העבודה\year c\SuperSmart\moh_mitzrachim.csv"
-    MONGO_URI = "mongodb://localhost:27017"
-    DB_NAME = "supersmart"
+    MONGO_URI = "mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db"
+    DB_NAME = "SuperSmart_db"
     COLLECTION_NAME = "items"
 
     update_products_with_fuzzy_match(CSV_PATH, MONGO_URI, DB_NAME, COLLECTION_NAME)

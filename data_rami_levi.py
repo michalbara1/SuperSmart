@@ -11,8 +11,8 @@ class RamiLevi(WebsiteDownloader):
     def __init__(self):
         super().__init__("rami_levi")
         # Connect to MongoDB
-        self.client = MongoClient('mongodb://localhost:27017/')
-        self.db = self.client['your_database_name']  # Replace with your DB name
+        self.client = MongoClient('mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db', serverSelectionTimeoutMS=5000)
+        self.db = self.client['SuperSmart_db']  # Replace with your DB name
         self.items_collection = self.db['items']  # Your items collection
         self.store_id = "RamiLevi"  # Store ID for Rami Levi
 

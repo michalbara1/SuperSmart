@@ -36,7 +36,7 @@ def main():
     username = "yuval056"
     password = "yuval963852"
     cluster_url = "cluster0.ww37i.mongodb.net"
-    db_name = "supersmart"
+    db_name = "SuperSmart_db"
     collection_name = "items"
 
     # Escape credentials
@@ -44,7 +44,7 @@ def main():
     escaped_password = quote_plus(password)
     # mongo_uri = f"mongodb+srv://{escaped_username}:{escaped_password}@{cluster_url}/{db_name}?retryWrites=true&w=majority"
     #mongo_uri = "mongodb+srv://noagedo:Aa123456@cluster0.i7c2udq.mongodb.net/"
-    mongo_uri = "mongodb://127.0.0.1:27017/supersmart"
+    mongo_uri = "mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db"
     data_dir = r'C:\Users\yuval\OneDrive\שולחן העבודה\year c\SuperSmart\hezi-hinam'
 
     try:

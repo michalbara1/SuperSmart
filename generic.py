@@ -15,8 +15,8 @@ from selenium.webdriver.common.by import By
 
 
 class WebsiteDownloader(ABC):
-    def __init__(self, site_name, mongo_uri="mongodb+srv://noagedo:Aa123456@cluster0.i7c2udq.mongodb.net/",
-                 db_name="supersmart"):
+    def __init__(self, site_name, mongo_uri="mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db",
+                 db_name="SuperSmart_db"):
         self.site_name = site_name
         self.client = MongoClient(mongo_uri)
         self.db = self.client[db_name]
@@ -41,18 +41,30 @@ class WebsiteDownloader(ABC):
             print(f"Error converting XML to JSON: {str(e)}")
             return None
 
-
-
-
-    def save_to_mongodb(self, json_data):
-        """Save JSON data to MongoDB"""
+    def save_to_mongodb(self, json_data, store_name):
+        """Save JSON data to MongoDB if it doesn't already exist for the same day and store"""
         if json_data:
             try:
-                self.collection.insert_one(json_data)
-                print("Data successfully saved to MongoDB.")
+                # Get the current date
+                current_date = datetime.datetime.now().strftime('%Y-%m-%d')
+
+                # Check if an item with the same Barcode, store, and date already exists
+                existing_item = self.collection.find_one({
+                    "barcode": json_data.get("barcode"),  # Replace with the unique identifier key
+                    "storeId": store_name,
+                    "date": current_date
+                })
+
+                if existing_item:
+                    print(f"Item already exists for today in store '{store_name}'. Skipping save.")
+                else:
+                    # Add the current date and store to the JSON data
+                    json_data["date"] = current_date
+                    json_data["storeId"] = store_name
+                    self.collection.insert_one(json_data)
+                    print("Data successfully saved to MongoDB.")
             except Exception as e:
                 print(f"Error saving to MongoDB: {str(e)}")
-
     @abstractmethod
     def get_website_url(self) -> str:
         """Return the website URL to download from"""
