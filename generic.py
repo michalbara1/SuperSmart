@@ -11,7 +11,7 @@ from abc import ABC, abstractmethod
 
 from pymongo import MongoClient
 from selenium import webdriver
-from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
 
 
 class WebsiteDownloader(ABC):
@@ -29,17 +29,27 @@ class WebsiteDownloader(ABC):
     def download_all_data(self):
         return list(self.collection.find({}))
 
-    def convert_xml_to_json(self, xml_path):
-        """Convert XML to JSON format and return as a dictionary"""
+    def convert_xml_to_json(self, xml_path, json_path=None):
+        """
+        Convert XML to JSON format.
+        If json_path is provided, save JSON to file; otherwise return dict.
+        """
         try:
             with open(xml_path, 'r', encoding='utf-8') as xml_file:
                 xml_content = xml_file.read()
 
             data_dict = xmltodict.parse(xml_content)
-            return data_dict  # Return JSON as a dictionary
+
+            if json_path:
+                with open(json_path, 'w', encoding='utf-8') as json_file:
+                    json.dump(data_dict, json_file, ensure_ascii=False, indent=2)
+                return True
+            else:
+                return data_dict
+
         except Exception as e:
             print(f"Error converting XML to JSON: {str(e)}")
-            return None
+            return None if not json_path else False
 
     def save_to_mongodb(self, json_data, store_name=None):
         """Save JSON data to MongoDB if it doesn't already exist for the same day and store"""
@@ -121,23 +131,6 @@ class WebsiteDownloader(ABC):
             time.sleep(1)
 
         return False
-
-    def convert_xml_to_json(self, xml_path, json_path):
-        try:
-            time.sleep(1)
-
-            with open(xml_path, 'r', encoding='utf-8') as xml_file:
-                xml_content = xml_file.read()
-
-            data_dict = xmltodict.parse(xml_content)
-
-            with open(json_path, 'w', encoding='utf-8') as json_file:
-                json.dump(data_dict, json_file, ensure_ascii=False, indent=2)
-
-            return True
-        except Exception as e:
-            print(f"Error converting XML to JSON: {str(e)}")
-            return False
 
     def process_downloaded_file(self, file_path, download_directory):
         try:
@@ -232,7 +225,11 @@ class WebsiteDownloader(ABC):
         chrome_options, temp_profile_dir = self.setup_chrome_options(download_directory)
 
         try:
-            driver = webdriver.Chrome(options=chrome_options)
+            # Specify ChromeDriver path explicitly (snap install)
+            chromedriver_path = "/snap/bin/chromium.chromedriver"
+            service = Service(chromedriver_path)
+
+            driver = webdriver.Chrome(service=service, options=chrome_options)
             driver.get(self.get_website_url())
             time.sleep(5)
 
