@@ -13,19 +13,22 @@ class Mega(WebsiteDownloader):
         self.client = MongoClient('mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db', serverSelectionTimeoutMS=5000)
         self.db = self.client['SuperSmart_db']  # Using the schema's database name
         self.items_collection = self.db['items']  # Items collection
-        self.store_id = "Mega"  # Store ID for Mega
+        self.store_id = "Carrefour"
 
     def transform_data(self, json_data):
-        """Transform Mega JSON data into standardized format"""
+        """Transform Rami Levi JSON data into standardized format"""
         try:
-            # Adjust this based on Mega's JSON structure
-            items = json_data.get("Items", [])
-            if not items:
+            items = json_data.get("Root", {}).get("Items", {})
+            if items.get("@Count") == "0" or not items.get("Item"):
                 print("No items found in the price file")
                 return None
 
             products = []
-            for product in items:
+            item_list = items.get("Item", [])
+            if not isinstance(item_list, list):
+                item_list = [item_list]
+
+            for product in item_list:
                 barcode = product.get("ItemCode")
                 if not barcode:
                     print(f"Skipping product without barcode: {product.get('ItemName', 'Unknown')}")
@@ -40,7 +43,7 @@ class Mega(WebsiteDownloader):
                 # Create price entry
                 price_entry = {
                     "date": datetime.datetime.utcnow(),
-                    "price": float(product.get("DiscountedPrice", 0))
+                    "price": float(product.get("ItemPrice", 0))
                 }
 
                 # Create store price entry
@@ -51,7 +54,7 @@ class Mega(WebsiteDownloader):
 
                 # Create the product with data from both sources
                 transformed_product = {
-                    "name": product.get("PromotionDescription"),
+                    "name": product.get("ItemName"),
                     "barcode": barcode,
                     "category": existing_item.get("category", "Unknown"),
                     "image": existing_item.get("image", ""),
@@ -67,7 +70,7 @@ class Mega(WebsiteDownloader):
             return None
 
     def save_to_mongodb(self, json_data):
-        """Update existing items with Mega price information"""
+        """Update existing items with Rami Levi price information"""
         if not json_data:
             print("No data to save")
             return
@@ -107,14 +110,14 @@ class Mega(WebsiteDownloader):
 
                 if result.modified_count > 0:
                     updated_count += 1
-                    print(f"Updated product with barcode: {barcode} with Mega price")
+                    print(f"Updated product with barcode: {barcode} with Carrefour price")
                 else:
                     print(f"No changes for product: {barcode} (price may already exist)")
 
             except Exception as e:
                 print(f"Error updating product {barcode}: {str(e)}")
 
-        print(f"Successfully updated {updated_count} items with Mega prices")
+        print(f"Successfully updated {updated_count} items with Carrefour prices")
 
     def get_website_url(self):
         return "https://prices.mega.co.il/"
