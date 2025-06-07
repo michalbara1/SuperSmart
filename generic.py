@@ -6,12 +6,12 @@ import shutil
 import json
 import xmltodict
 import datetime
+import tempfile
 from abc import ABC, abstractmethod
 
 from pymongo import MongoClient
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-
+from selenium.webdriver.chrome.service import Service
 
 
 class WebsiteDownloader(ABC):
@@ -29,28 +29,36 @@ class WebsiteDownloader(ABC):
     def download_all_data(self):
         return list(self.collection.find({}))
 
-    def convert_xml_to_json(self, xml_path):
-        """Convert XML to JSON format and return as a dictionary"""
+    def convert_xml_to_json(self, xml_path, json_path=None):
+        """
+        Convert XML to JSON format.
+        If json_path is provided, save JSON to file; otherwise return dict.
+        """
         try:
             with open(xml_path, 'r', encoding='utf-8') as xml_file:
                 xml_content = xml_file.read()
 
             data_dict = xmltodict.parse(xml_content)
-            return data_dict  # Return JSON as a dictionary
+
+            if json_path:
+                with open(json_path, 'w', encoding='utf-8') as json_file:
+                    json.dump(data_dict, json_file, ensure_ascii=False, indent=2)
+                return True
+            else:
+                return data_dict
+
         except Exception as e:
             print(f"Error converting XML to JSON: {str(e)}")
-            return None
+            return None if not json_path else False
 
-    def save_to_mongodb(self, json_data, store_name):
+    def save_to_mongodb(self, json_data, store_name=None):
         """Save JSON data to MongoDB if it doesn't already exist for the same day and store"""
         if json_data:
             try:
-                # Get the current date
                 current_date = datetime.datetime.now().strftime('%Y-%m-%d')
 
-                # Check if an item with the same Barcode, store, and date already exists
                 existing_item = self.collection.find_one({
-                    "barcode": json_data.get("barcode"),  # Replace with the unique identifier key
+                    "barcode": json_data.get("barcode"),
                     "storeId": store_name,
                     "date": current_date
                 })
@@ -58,13 +66,13 @@ class WebsiteDownloader(ABC):
                 if existing_item:
                     print(f"Item already exists for today in store '{store_name}'. Skipping save.")
                 else:
-                    # Add the current date and store to the JSON data
                     json_data["date"] = current_date
                     json_data["storeId"] = store_name
                     self.collection.insert_one(json_data)
                     print("Data successfully saved to MongoDB.")
             except Exception as e:
                 print(f"Error saving to MongoDB: {str(e)}")
+
     @abstractmethod
     def get_website_url(self) -> str:
         """Return the website URL to download from"""
@@ -76,7 +84,6 @@ class WebsiteDownloader(ABC):
         pass
 
     def create_download_directory(self):
-        """Sets the download directory path within the project folder"""
         project_directory = os.path.dirname(os.path.abspath(__file__))
         download_directory = os.path.join(project_directory, f"downloads_{self.site_name}")
 
@@ -86,9 +93,12 @@ class WebsiteDownloader(ABC):
         return os.path.abspath(download_directory)
 
     def setup_chrome_options(self, download_directory):
-        """Sets Chrome options for downloads"""
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_experimental_option("detach", True)
+
+        # Create a unique temporary directory for Chrome user data to avoid profile lock
+        temp_profile_dir = tempfile.mkdtemp(prefix="chrome_profile_")
+        chrome_options.add_argument(f"--user-data-dir={temp_profile_dir}")
 
         prefs = {
             "download.default_directory": download_directory,
@@ -99,10 +109,9 @@ class WebsiteDownloader(ABC):
             "profile.default_content_setting_values.automatic_downloads": 1
         }
         chrome_options.add_experimental_option("prefs", prefs)
-        return chrome_options
+        return chrome_options, temp_profile_dir
 
     def verify_file_complete(self, file_path, timeout=60):
-        """Verify that file is completely downloaded and not changing size"""
         if not os.path.exists(file_path):
             return False
 
@@ -114,7 +123,7 @@ class WebsiteDownloader(ABC):
             current_size = os.path.getsize(file_path)
             if current_size == previous_size:
                 stable_count += 1
-                if stable_count >= 3:  # File size unchanged for 3 consecutive checks
+                if stable_count >= 3:
                     return True
             else:
                 stable_count = 0
@@ -123,51 +132,24 @@ class WebsiteDownloader(ABC):
 
         return False
 
-    def convert_xml_to_json(self, xml_path, json_path):
-        """Convert XML file to JSON format"""
-        try:
-            # Wait for the file to be fully accessible
-            time.sleep(1)
-
-            with open(xml_path, 'r', encoding='utf-8') as xml_file:
-                xml_content = xml_file.read()
-
-            # Convert XML to dict
-            data_dict = xmltodict.parse(xml_content)
-
-            # Convert dict to JSON with proper formatting
-            with open(json_path, 'w', encoding='utf-8') as json_file:
-                json.dump(data_dict, json_file, ensure_ascii=False, indent=2)
-
-            return True
-        except Exception as e:
-            print(f"Error converting XML to JSON: {str(e)}")
-            return False
-
     def process_downloaded_file(self, file_path, download_directory):
-        """Process a single downloaded file"""
         try:
-            # Verify the file is completely downloaded
             if not self.verify_file_complete(file_path):
                 print(f"File {file_path} appears to be incomplete")
                 return False
 
-            # Add extra wait time after verification
             time.sleep(3)
 
             temp_dir = os.path.join(download_directory, 'temp_extract')
             os.makedirs(temp_dir, exist_ok=True)
 
             if self.extract_compressed_file(file_path, temp_dir):
-                # Wait after extraction
                 time.sleep(1)
 
-                # Convert each file to JSON and save to MongoDB
                 for filename in os.listdir(temp_dir):
-                    if not filename.endswith('.json'):  # Skip if already JSON
+                    if not filename.endswith('.json'):
                         extracted_file_path = os.path.join(temp_dir, filename)
 
-                        # Verify extracted file is complete
                         if not self.verify_file_complete(extracted_file_path):
                             print(f"Extracted file {filename} appears to be incomplete")
                             continue
@@ -179,14 +161,12 @@ class WebsiteDownloader(ABC):
                         if self.convert_xml_to_json(extracted_file_path, json_path):
                             print(f"Successfully converted {filename} to JSON")
 
-                            # Load JSON data and save to MongoDB
                             with open(json_path, 'r', encoding='utf-8') as json_file:
                                 json_data = json.load(json_file)
                                 self.save_to_mongodb(json_data)
                         else:
                             print(f"Failed to convert {filename} to JSON")
 
-                # Clean up
                 shutil.rmtree(temp_dir)
                 os.remove(file_path)
                 return True
@@ -198,9 +178,7 @@ class WebsiteDownloader(ABC):
             return False
 
     def extract_compressed_file(self, file_path, extract_dir):
-        """Extract either .gz or .zip file"""
         try:
-            # Wait before attempting to read the file
             time.sleep(2)
 
             with open(file_path, 'rb') as f:
@@ -227,7 +205,6 @@ class WebsiteDownloader(ABC):
             return False
 
     def wait_for_download(self, download_directory, timeout=60):
-        """Wait for the download to complete"""
         seconds = 0
         while seconds < timeout:
             files = os.listdir(download_directory)
@@ -235,7 +212,6 @@ class WebsiteDownloader(ABC):
             in_progress = [f for f in files if f.endswith('.crdownload') or f.endswith('.tmp')]
 
             if completed and not in_progress:
-                # Add extra wait time after seeing completed files
                 time.sleep(1)
                 return True
 
@@ -245,12 +221,15 @@ class WebsiteDownloader(ABC):
         return False
 
     def run(self):
-        """Main execution method"""
         download_directory = self.create_download_directory()
-        chrome_options = self.setup_chrome_options(download_directory)
+        chrome_options, temp_profile_dir = self.setup_chrome_options(download_directory)
 
         try:
-            driver = webdriver.Chrome(options=chrome_options)
+            # Specify ChromeDriver path explicitly (snap install)
+            chromedriver_path = "/snap/bin/chromium.chromedriver"
+            service = Service(chromedriver_path)
+
+            driver = webdriver.Chrome(service=service, options=chrome_options)
             driver.get(self.get_website_url())
             time.sleep(5)
 
@@ -258,6 +237,10 @@ class WebsiteDownloader(ABC):
 
         except Exception as e:
             print(f"Error in download process: {str(e)}")
+
         finally:
             if 'driver' in locals():
                 driver.quit()
+            # Clean up the temp profile directory to save disk space
+            if temp_profile_dir and os.path.exists(temp_profile_dir):
+                shutil.rmtree(temp_profile_dir, ignore_errors=True)
