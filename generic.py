@@ -9,6 +9,7 @@ import datetime
 import tempfile
 from abc import ABC, abstractmethod
 
+from bson import ObjectId
 from pymongo import MongoClient
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -51,23 +52,36 @@ class WebsiteDownloader(ABC):
             print(f"Error converting XML to JSON: {str(e)}")
             return None if not json_path else False
 
-    def save_to_mongodb(self, json_data, store_name=None):
-        """Save JSON data to MongoDB if it doesn't already exist for the same day and store"""
+    from bson import ObjectId
+
+    # Mapping of storeId to store names
+    store_mapping = {
+        ObjectId("65a4e1e1e1e1e1e1e1e1e1e2"): "רמי לוי",
+        ObjectId("65a4e1e1e1e1e1e1e1e1e1e3"): "קרפור",
+        ObjectId("65a4e1e1e1e1e1e1e1e1e1e4"): "סיטי מרקט"
+    }
+
+    def save_to_mongodb(self, json_data, store_id):
+        """Save JSON data to MongoDB with storeId as ObjectId"""
         if json_data:
             try:
                 current_date = datetime.datetime.now().strftime('%Y-%m-%d')
 
+                # Convert storeId to ObjectId
+                store_id = ObjectId(store_id)
+
                 existing_item = self.collection.find_one({
                     "barcode": json_data.get("barcode"),
-                    "storeId": store_name,
+                    "storeId": store_id,
                     "date": current_date
                 })
 
                 if existing_item:
-                    print(f"Item already exists for today in store '{store_name}'. Skipping save.")
+                    print(
+                        f"Item already exists for today in store '{store_mapping.get(store_id, 'Unknown Store')}'. Skipping save.")
                 else:
                     json_data["date"] = current_date
-                    json_data["storeId"] = store_name
+                    json_data["storeId"] = store_id
                     self.collection.insert_one(json_data)
                     print("Data successfully saved to MongoDB.")
             except Exception as e:
@@ -225,11 +239,8 @@ class WebsiteDownloader(ABC):
         chrome_options, temp_profile_dir = self.setup_chrome_options(download_directory)
 
         try:
-            # Specify ChromeDriver path explicitly (snap install)
-            chromedriver_path = "/snap/bin/chromium.chromedriver"
-            service = Service(chromedriver_path)
-
-            driver = webdriver.Chrome(service=service, options=chrome_options)
+            # Automatically detect and use the appropriate ChromeDriver
+            driver = webdriver.Chrome(options=chrome_options)
             driver.get(self.get_website_url())
             time.sleep(5)
 

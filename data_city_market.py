@@ -1,9 +1,12 @@
+from bson import ObjectId
+
 from generic import WebsiteDownloader
 from selenium.webdriver.common.by import By
 import time
 import os
 import datetime
 from pymongo import MongoClient
+
 
 
 class DataCityMarket(WebsiteDownloader):
@@ -13,7 +16,7 @@ class DataCityMarket(WebsiteDownloader):
         self.client = MongoClient('mongodb://server:123123123@10.10.248.141:21771/SuperSmart_db', serverSelectionTimeoutMS=5000)
         self.db = self.client['SuperSmart_db']
         self.items_collection = self.db['items']
-        self.store_id = "CityMarket"
+        self.store_id = ObjectId("65a4e1e1e1e1e1e1e1e1e1e4")
 
     def transform_data(self, json_data):
         """Transform CityMarket JSON data into standardized format"""
@@ -177,7 +180,7 @@ class DataCityMarket(WebsiteDownloader):
             return None
 
     def save_to_mongodb(self, json_data):
-        """Update existing items with City Market price information"""
+        """Update existing items with store-specific price information"""
         if not json_data:
             print("No data to save")
             return
@@ -196,20 +199,36 @@ class DataCityMarket(WebsiteDownloader):
                 continue
 
             try:
-                # Check if original product exists in MongoDB
+                # Check if the product exists in MongoDB
                 existing_product = self.items_collection.find_one({"barcode": barcode})
                 if not existing_product:
                     print(f"Product {barcode} not found in MongoDB - skipping")
                     continue
 
-                # Get store prices from the transformed product
+                # Get the new store price
                 new_store_price = product.get("storePrices", [])[0] if product.get("storePrices") else None
-
                 if not new_store_price:
                     print(f"No price information for product {barcode}")
                     continue
 
-                # Update the existing document by adding the new store price
+                # Extract the date part from the new price entry
+                new_price_date = new_store_price["prices"][0]["date"].date()
+                new_store_id = new_store_price["storeId"]
+
+                # Check if a price entry for the same date and storeId already exists
+                existing_prices = existing_product.get("storePrices", [])
+                price_exists = any(
+                    price_entry["storeId"] == new_store_id and
+                    any(price["date"].date() == new_price_date for price in price_entry.get("prices", []))
+                    for price_entry in existing_prices
+                )
+
+                if price_exists:
+                    print(
+                        f"Price for product {barcode} on {new_price_date} for storeId {new_store_id} already exists - skipping")
+                    continue
+
+                # Add the new store price to the existing product
                 result = self.items_collection.update_one(
                     {"barcode": barcode},
                     {"$addToSet": {"storePrices": new_store_price}}
@@ -217,52 +236,66 @@ class DataCityMarket(WebsiteDownloader):
 
                 if result.modified_count > 0:
                     updated_count += 1
-                    print(f"Updated product with barcode: {barcode} with City Market price")
+                    print(f"Updated product with barcode: {barcode} with new price for storeId {new_store_id}")
                 else:
                     print(f"No changes for product: {barcode} (price may already exist)")
 
             except Exception as e:
                 print(f"Error updating product {barcode}: {str(e)}")
 
-        print(f"Successfully updated {updated_count} items with City Market prices")
+        print(f"Successfully updated {updated_count} items with new prices")
 
     def get_website_url(self):
         return "https://citymarketgivatayim.binaprojects.com/Main.aspx"
 
     # Keep the existing methods
     def download_files(self, driver, download_directory):
-        self.clear_products_file()
-        table = driver.find_element(By.ID, "myTable")
-        rows = table.find_elements(By.TAG_NAME, "tr")
-        existing_products = self.load_existing_products()
+        try:
+            # Select the dropdown option "מחירים מלא"
+            dropdown_option = driver.find_element(By.XPATH, '//*[@id="wFileType"]/option[5]')
+            dropdown_option.click()
+            time.sleep(2)  # Wait for the dropdown selection to take effect
 
-        for row in rows[1:]:  # Skip header row
-            try:
-                product_name = row.find_element(By.XPATH, ".//td[1]").text
-                if product_name not in existing_products:
-                    print(f"Processing product: {product_name}")
+            # Click the button with ID "Button1"
+            button = driver.find_element(By.ID, "Button1")
+            button.click()
+            time.sleep(5)  # Wait for the page to load after clicking the button
 
-                    button = row.find_element(By.XPATH, ".//button[contains(text(), 'להורדה')]")
-                    button.click()
-                    time.sleep(5)
+            # Proceed to process the table
+            self.clear_products_file()
+            table = driver.find_element(By.ID, "myTable")
+            rows = table.find_elements(By.TAG_NAME, "tr")
+            existing_products = self.load_existing_products()
 
-                    if self.wait_for_download(download_directory):
-                        files = [f for f in os.listdir(download_directory)
-                                 if f.endswith(('.gz', '.zip'))]
+            for row in rows[1:]:  # Skip header row
+                try:
+                    product_name = row.find_element(By.XPATH, ".//td[1]").text
+                    if product_name not in existing_products:
+                        print(f"Processing product: {product_name}")
 
-                        for file in files:
-                            file_path = os.path.join(download_directory, file)
-                            print(f"Processing downloaded file: {file}")
+                        button = row.find_element(By.XPATH, ".//button[contains(text(), 'להורדה')]")
+                        button.click()
+                        time.sleep(5)
 
-                            if self.process_downloaded_file(file_path, download_directory):
-                                self.update_existing_products(product_name)
-                                print(f"Successfully processed {product_name}")
-                            else:
-                                print(f"Failed to process {product_name}")
+                        if self.wait_for_download(download_directory):
+                            files = [f for f in os.listdir(download_directory)
+                                     if f.endswith(('.gz', '.zip'))]
 
-            except Exception as e:
-                print(f"Error processing row: {str(e)}")
+                            for file in files:
+                                file_path = os.path.join(download_directory, file)
+                                print(f"Processing downloaded file: {file}")
 
+                                if self.process_downloaded_file(file_path, download_directory):
+                                    self.update_existing_products(product_name)
+                                    print(f"Successfully processed {product_name}")
+                                else:
+                                    print(f"Failed to process {product_name}")
+
+                except Exception as e:
+                    print(f"Error processing row: {str(e)}")
+
+        except Exception as e:
+            print(f"Error in download_files: {str(e)}")
     def clear_products_file(self):
         with open("products.txt", "w", encoding='utf-8') as f:
             f.write("")
