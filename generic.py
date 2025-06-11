@@ -78,7 +78,7 @@ class WebsiteDownloader(ABC):
 
                 if existing_item:
                     print(
-                        f"Item already exists for today in store '{store_mapping.get(store_id, 'Unknown Store')}'. Skipping save.")
+                        f"Item already exists for today in store '{self.store_mapping.get(store_id, 'Unknown Store')}'. Skipping save.")
                 else:
                     json_data["date"] = current_date
                     json_data["storeId"] = store_id
