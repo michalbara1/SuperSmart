@@ -84,6 +84,7 @@ class RamiLevi(WebsiteDownloader):
             return
 
         updated_count = 0
+        current_date = datetime.datetime.utcnow().date()
 
         for product in transformed_data:
             barcode = product.get("barcode")
@@ -137,17 +138,27 @@ class RamiLevi(WebsiteDownloader):
                 print(f"Error updating product {barcode}: {str(e)}")
 
         print(f"Successfully updated {updated_count} items with new prices")
-    # Rest of your existing methods remain unchanged...
     def get_website_url(self):
         return "https://url.publishedprices.co.il/login"
 
     def download_files(self, driver, download_directory):
         self.clear_products_file()
+        driver.maximize_window()
+        time.sleep(3)
 
         # Login
         login = driver.find_element(By.NAME, "username")
         login.send_keys("RamiLevi", Keys.ENTER)
         time.sleep(10)
+
+        # Click on the refresh button
+        try:
+            refresh_button = driver.find_element(By.XPATH, '//*[@id="refresh-btn"]/span')
+            refresh_button.click()
+            print("Clicked on the refresh button.")
+            time.sleep(5)
+        except Exception as e:
+            print(f"Error clicking on the refresh button: {e}")
 
         # Find and download files
         table = driver.find_element(By.ID, "fileList")

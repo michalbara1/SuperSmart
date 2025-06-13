@@ -83,6 +83,7 @@ class Mega(WebsiteDownloader):
             return
 
         updated_count = 0
+        current_date = datetime.datetime.utcnow().date()
 
         for product in transformed_data:
             barcode = product.get("barcode")

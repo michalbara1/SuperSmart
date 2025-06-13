@@ -191,6 +191,7 @@ class DataCityMarket(WebsiteDownloader):
             return
 
         updated_count = 0
+        current_date = datetime.datetime.utcnow().date()
 
         for product in transformed_data:
             barcode = product.get("barcode")
@@ -244,7 +245,6 @@ class DataCityMarket(WebsiteDownloader):
                 print(f"Error updating product {barcode}: {str(e)}")
 
         print(f"Successfully updated {updated_count} items with new prices")
-
     def get_website_url(self):
         return "https://citymarketgivatayim.binaprojects.com/Main.aspx"
 
